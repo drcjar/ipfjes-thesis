@@ -9,18 +9,17 @@ and add the centred logo
 
     % Delete the following line
     % to remove the UCL header logo
-    \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
+    % \ThisULCornerWallPaper{1.0}{style/univ_logo.eps}
         
         \vspace*{2.5cm}
         
         \huge
-        This is the title of the thesis
-        
+        Is occupational asbestos exposure an underecognized cause of idiopathic pulmonary fibrosis?
         \vspace{1.5cm}
         
         \Large
-        Firstname Surname
-
+        Carl Jonathan Reynolds
+        
         \vspace{1.5cm}
 
         \normalsize
@@ -31,8 +30,8 @@ and add the centred logo
         
         \normalsize
         Supervised by:\\
-        Professor Louis Fage\\
-        Captain J. Y. Cousteau
+        Professor Paul Cullinan\\
+        Dr Chris Barber 
 
         \vspace{0.8cm}
 
@@ -41,8 +40,8 @@ and add the centred logo
         % \includegraphics[width=0.4\textwidth]{style/univ_logo.eps}
         
         \normalsize
-        University College London, UK\\
-        January 2015
+        Imperial College London, UK\\
+        January 2018
 
         % Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2015,Tom Pollard.
 
