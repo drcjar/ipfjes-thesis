@@ -1,24 +1,13 @@
-# Research containing a figure
+# Exposure assessment
 
 ## Introduction
 
-This is the introduction. Sed vulputate tortor at nisl blandit interdum. Cras sagittis massa ex, quis eleifend purus condimentum congue. Maecenas tristique, justo vitae efficitur mollis, mi nulla varius elit, in consequat ligula nulla ut augue. Phasellus diam sapien, placerat sit amet tempor non, lobortis tempus ante.
+In addition to its epidemiological and clinical plausibility there are several additional reasons why study of this area is needed.  First, most previous work relied on self-reported workplace exposure information, an approach that is open to recall bias and deals poorly with confounding; for example, studies have described strong associations between metal work and IPF and specify sheet metal workers[@Iwai1994][@Scott1990][@Hubbard2000], a group who are frequently exposed to dust containing asbestos fibres[@Welch1994] and who in a recent UK study, had the highest risk of mesothelioma.[@Rake2009] Lifetime occupational histories are more accurately recalled than self-reported workplace exposures and can be combined with measures such as proportionate mortality (PMR) estimates and job-process assessments to minimize recall bias and more accurately characterise cumulative exposures. [@Teschke2002][@Bourgkard2013][@Cherrie1999][@Rake2009] This allows too the examination of `exposure-response' relationships, entirely lacking in the published literature. 
 
 ## Method
 
 Donec imperdiet, lectus vestibulum sagittis tempus, turpis dolor euismod justo, vel tempus neque libero sit amet tortor. Nam cursus commodo tincidunt.
 
-### Subsection 1
-
-This is the first part of the methodology. Duis tempor sapien sed tellus ultrices blandit. Sed porta mauris tortor, eu vulputate arcu dapibus ac. Curabitur sodales at felis efficitur sollicitudin. Quisque at neque sollicitudin, mollis arcu vitae, faucibus tellus.
-
-### Subsection 2
-
-This is the second part of the methodology. Sed ut ipsum ultrices, interdum ipsum vel, lobortis diam. Curabitur sit amet massa quis tortor molestie dapibus a at libero. Mauris mollis magna quis ante vulputate consequat. Integer leo turpis, suscipit ac venenatis pellentesque, efficitur non sem. Pellentesque eget vulputate turpis. Etiam id nibh at elit fermentum interdum.
-
-<!-- 
-Comments can be added like this.
---> 
 
 ## Results
 
@@ -26,17 +15,6 @@ These are the results. In vitae odio at libero elementum fermentum vel iaculis e
 
 ## Discussion
 
-Figure \ref{ref_a_figure} shows how to add a figure. Donec ut lacinia nibh. Nam tincidunt augue et tristique cursus. Vestibulum sagittis odio nisl, a malesuada turpis blandit quis. Cras ultrices metus tempor laoreet sodales. Nam molestie ipsum ac imperdiet laoreet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-
-<!-- 
-Figures can be added with the following syntax:
-![my_caption \label{my_label}](source/figures/my_image.pdf){ width=50% }
-
-For details on setting attributes like width and height, see:
-http://pandoc.org/MANUAL.html#extension-link_attributes
---> 
-
-![RV Calypso is a former British Royal Navy minesweeper converted into a research vessel for the oceanographic researcher Jacques-Yves Cousteau. It was equipped with a mobile laboratory for underwater field research. \label{ref_a_figure}](source/figures/example_figure.pdf){ width=100% }
 
 ## Conclusion
 

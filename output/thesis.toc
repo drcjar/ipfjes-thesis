@@ -1,0 +1,52 @@
+\contentsline {chapter}{Abstract}{i}{chapter*.1}
+\contentsline {chapter}{Acknowledgements}{ii}{chapter*.2}
+\contentsline {chapter}{List of figures}{iii}{chapter*.4}
+\contentsline {chapter}{List of tables}{iv}{chapter*.5}
+\contentsline {chapter}{Abbreviations}{v}{chapter*.6}
+\contentsline {chapter}{\numberline {1}Introduction, with a citation}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}The middle bit}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Subsection of the middle bit}{2}{subsection.1.2.1}
+\contentsline {section}{\numberline {1.3}Summary of chapters}{2}{section.1.3}
+\contentsline {chapter}{\numberline {2}Literature review, with maths}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}The middle}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Conclusion}{5}{section.2.3}
+\contentsline {chapter}{\numberline {3}First research study, with code}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Method}{6}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Subsection 1 with example code block}{7}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Subsection 2}{7}{subsection.3.2.2}
+\contentsline {section}{\numberline {3.3}Results}{7}{section.3.3}
+\contentsline {section}{\numberline {3.4}Discussion}{8}{section.3.4}
+\contentsline {section}{\numberline {3.5}Conclusion}{8}{section.3.5}
+\contentsline {chapter}{\numberline {4}Research containing a figure}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{9}{section.4.1}
+\contentsline {section}{\numberline {4.2}Method}{9}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Subsection 1}{9}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Subsection 2}{10}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Results}{10}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discussion}{10}{section.4.4}
+\contentsline {section}{\numberline {4.5}Conclusion}{10}{section.4.5}
+\contentsline {chapter}{\numberline {5}Research containing a table}{13}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{13}{section.5.1}
+\contentsline {section}{\numberline {5.2}Method}{13}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Subsection 1}{14}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Subsection 2}{14}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Results}{14}{section.5.3}
+\contentsline {section}{\numberline {5.4}Discussion}{15}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusion}{15}{section.5.5}
+\contentsline {chapter}{\numberline {6}Final research study}{16}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{16}{section.6.1}
+\contentsline {section}{\numberline {6.2}Method}{16}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Subsection 1}{16}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Subsection 2}{17}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Results}{17}{section.6.3}
+\contentsline {section}{\numberline {6.4}Discussion}{17}{section.6.4}
+\contentsline {section}{\numberline {6.5}Conclusion}{18}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusion}{19}{chapter.7}
+\contentsline {section}{\numberline {7.1}Thesis summary}{19}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future work}{19}{section.7.2}
+\contentsline {chapter}{Appendix 1: Some extra stuff}{21}{chapter*.8}
+\contentsline {chapter}{Appendix 2: Some more extra stuff}{22}{chapter*.9}
+\contentsline {chapter}{References}{23}{chapter*.10}

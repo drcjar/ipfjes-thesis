@@ -1,47 +1,20 @@
-# Research containing a table
+# Genetic susceptibility in IPF
 
 ## Introduction
 
-This is the introduction. Phasellus non purus id mauris aliquam rutrum vitae quis tellus. Maecenas rhoncus ligula nulla, fringilla placerat mi consectetur eu. Aenean nec metus ac est ornare posuere. Nunc ipsum lacus, gravida commodo turpis quis, rutrum eleifend erat. Pellentesque id lorem eget ante porta tincidunt nec nec tellus.
+Third, advances in our understanding of IPF susceptibility now permit study of host-exposure interactions. The minor-allele of the rs35705950 SNP in the mucin 5B gene was found to be present in 38\% of IPF patients but just 9\% of controls.[@Seibold2011] The polymorphism results in excess MUC5B protein in the airway, impaired clearance of inhaled substances and a chronic inflammatory burden on the alveolar surface.[@Seibold2011]  The association is allele dose-dependent, has been replicated in independent cohorts, and appears to confer improved survival.[@Ley2013][@Seibold2011][@Peljto2013] Two large GWASs have confirmed the observed associations of IPF with MUC5B and other loci.[@Fingerlin2013][@Noth2013]
+
 
 ## Method
 
 Vivamus consectetur, velit in congue lobortis, massa massa lacinia urna, sollicitudin semper ipsum augue quis tortor. Donec quis nisl at arcu volutpat ultrices. Maecenas ex nibh, consequat ac blandit sit amet, molestie in odio. Morbi finibus libero et nisl dignissim, at ultricies ligula pulvinar.
 
-### Subsection 1
 
-This is the first part of the methodology.  Integer leo erat, commodo in lacus vel, egestas varius elit. Nulla eget magna quam. Nullam sollicitudin dolor ut ipsum varius tincidunt. Duis dignissim massa in ipsum accumsan imperdiet. Maecenas suscipit sapien sed dui pharetra blandit. Morbi fermentum est vel quam pretium maximus.
-
-### Subsection 2
-
-This is the second part of the methodology. Nullam accumsan condimentum eros eu volutpat. Maecenas quis ligula tempor, interdum ante sit amet, aliquet sem. Fusce tellus massa, blandit id tempus at, cursus in tortor. Nunc nec volutpat ante. Phasellus dignissim ut lectus quis porta. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<!-- 
-Comments can be added like this.
---> 
+C
 
 ## Results
 
-Table \ref{ref_a_table} shows us how to add a table. Integer tincidunt sed nisl eget pellentesque. Mauris eleifend, nisl non lobortis fringilla, sapien eros aliquet orci, vitae pretium massa neque eu turpis. Pellentesque tincidunt aliquet volutpat. Ut ornare dui id ex sodales laoreet.
 
-<!-- Force the table onto a newpage -->
-
-\newpage
-
----------------------------------------------------------------------------
-Column 1            Column 2                Column 3
---------------      -------------------     -------------------
-Row 1               0.1                     0.2
-
-Row 2               0.3                     0.3
-
-Row 3               0.4                     0.4      
-
-Row 4               0.5                     0.6
-
----------------------------------------------------------------------------
-
-Table: This is the table caption. Suspendisse blandit dolor sed tellus venenatis, venenatis fringilla turpis pretium. \label{ref_a_table}
 
 
 ## Discussion
