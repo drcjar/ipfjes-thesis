@@ -35,9 +35,14 @@ Results: There is evidence of a cohort effect with age-specific IPF death rates 
 
 Results: IPF mortality continues to rise. Female:Male is approximately 1:1.6. 
 
-Figure \ref{jam} shows a figure.
+Figure \ref{mortalitytrends} shows a figure.
 
-![IPF, mesothelioma, and asbestosis mortality trends \label{jam}](https://github.com/drcjar/pypf/blob/master/fig/IPF%20mortality%20trends%20in%20England%20and%20Wales%20for%20Males%20for%20IPF,%20Mesothelioma,%20and%20Asbestosis.jpg?raw=true)
+Figure \ref{birthcohorts} shows a figure.
+
+![IPF, mesothelioma, and asbestosis mortality trends \label{mortalitytrends}](source/figures/ipfasbmesomaletrend.jpg){ width=50% }
+
+![IPF male birth cohorts \label{birthcohorts}](source/figures/ipfmalebirthcohorts.jpg){ width=50% }
+
 
 ## Discussion
 
