@@ -1,4 +1,3 @@
-% This file was created with JabRef 2.10.
 % Encoding: UTF-8
 
 
@@ -4027,5 +4026,27 @@
   Url                      = {http://apps.who.int/classifications/icd10/browse/2010/en#/J84.1}
 }
 
-@comment{jabref-meta: databaseType:biblatex;}
+@Article{Marshall2018,
+  author        = {Marshall, Dominic C and Salciccioli, Justin D and Shea, Barry S and Akuthota, Praveen},
+  title         = {Trends in mortality from idiopathic pulmonary fibrosis in the European Union: an observational study of the WHO mortality database from 2001-2013.},
+  journal       = {The European respiratory journal},
+  year          = {2018},
+  volume        = {51},
+  issue         = {1},
+  month         = jan,
+  issn          = {1399-3003},
+  doi           = {10.1183/13993003.01603-2017},
+  __markedentry = {[drcjar:6]},
+  abstract      = {Idiopathic pulmonary fibrosis (IPF) is the most common of the idiopathic interstitial pneumonias and is characterised by progressive accumulation of scar tissue in the lungs. The objective of this study was to describe the current mortality rates due to IPF in Europe, based on the World Health Organization (WHO) mortality database.We used country-level data for IPF mortality, identified in the WHO mortality database using International Classification of Diseases 10th Edition (ICD-10) codes, for the period 2001-2013. Joinpoint analysis was performed to describe trends throughout the observation period.The median mortality was 3.75 per 100 000 (interquartile range (IQR) 1.37-5.30) and 1.50 per 100 000 (IQR 0.65-2.02) for males and females, respectively. IPF mortality increased in the majority of the European Union (EU) countries with the exceptions of Denmark, Croatia, Austria and Romania. There was a significant disparity in rates across Europe, in the range 0.41-12.1 per 100 000 for men and 0.24-5.63 per 100 000 for women. The most notable increases were observed in the United Kingdom and Finland. Rates were also substantially higher in males, with sex disparity increasing across the period.The reported IPF mortality appears to be increasing across the EU; however, there is substantial variation in mortality trends and overall reported mortality rates between countries.},
+  country       = {England},
+  issn-linking  = {0903-1936},
+  nlm-id        = {8803460},
+  owner         = {NLM},
+  pii           = {1701603},
+  pmid          = {29348182},
+  pubmodel      = {Electronic-Print},
+  pubstatus     = {epublish},
+  revised       = {2018-01-19},
+}
 
+@Comment{jabref-meta: databaseType:biblatex;}
