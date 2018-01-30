@@ -44,6 +44,9 @@ Figure \ref{birthcohorts} shows a figure.
 ![IPF male birth cohorts \label{birthcohorts}](source/figures/ipfmalebirthcohorts.jpg){ width=50% }
 
 
+add Regional age standardised IPF mortality trends for males. There
+are more IPF deaths in the North West and South East of England.
+
 ## Discussion
 
 This is the discussion. Duis ultrices tempor sem vitae convallis. Pellentesque lobortis risus ac nisi varius bibendum. Phasellus volutpat aliquam varius. Mauris vitae neque quis libero volutpat finibus. Nunc diam metus, imperdiet vitae leo sed, varius posuere orci.
