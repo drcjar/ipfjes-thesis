@@ -29,7 +29,7 @@ These are the results. Curabitur vulputate nisl non ante tincidunt tempor. Aenea
 
 ## Discussion
 
-This is the discussion. Curabitur gravida nisl id gravida congue. Duis est nisi, sagittis eget accumsan ullamcorper, semper quis turpis. Mauris ultricies diam metus, sollicitudin ultricies turpis lobortis vitae. Ut egestas vehicula enim, porta molestie neque consectetur placerat. Integer iaculis sapien dolor, non porta nibh condimentum ut.
+possibility of missed chronic HP [@Morell2013]
 
 ## Conclusion
 

@@ -4099,4 +4099,38 @@
   revised         = {2012-11-15},
 }
 
+@Book{Dodson2011,
+  author    = {Dodson, Ronald F and Hammar, Samuel P},
+  title     = {Asbestos: risk assessment, epidemiology, and health effects},
+  year      = {2011},
+  publisher = {CRC press},
+}
+
+@Article{Wolters2018,
+  author    = {Wolters, Paul J and Blackwell, Timothy S and Eickelberg, Oliver and Loyd, James E and Kaminski, Naftali and Jenkins, Gisli and Maher, Toby M and Molina-Molina, Maria and Noble, Paul W and Raghu, Ganesh and others},
+  title     = {Time for a change: is idiopathic pulmonary fibrosis still idiopathic and only fibrotic?},
+  journal   = {The Lancet Respiratory Medicine},
+  year      = {2018},
+  volume    = {6},
+  number    = {2},
+  pages     = {154--160},
+  publisher = {Elsevier},
+  review    = {nice overview of risk factor snps and epigenetics},
+}
+
+@Book{Parkes2017,
+  author    = {Anthony Newman Taylor, Paul Cullinan, Paul Blanc, Anthony Pickering},
+  title     = {Parkes' Occupational Lung Disorders, Fourth Edition},
+  year      = {2017},
+  publisher = {CRC press},
+}
+
+@InBook{R,
+  author    = {Carl J. Reynolds and Paul D. Blanc},
+  title     = {Organising Pneumonia and Other Uncommon Interstitial Disorders},
+  booktitle = {Parkes' Occupational Lung Disorders, Fourth Edition},
+  year      = {2017},
+  date      = {2018-01-30},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
