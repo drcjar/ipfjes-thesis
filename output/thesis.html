@@ -276,20 +276,24 @@ introduces methodology used throughout the thesis.
 -->
 <h2 id="introduction"><span class="header-section-number">3.1</span> Introduction</h2>
 <p>Idiopathic pulmonary fibrosis (IPF) is a diagnosis of exclusion. It is made in the presence of a usual interstitial pneumonitis (UIP) pattern on high resolution CT scan or biopsy. The diagnosis requires that known causes of interstitial lung disease (such as drug toxicity, connective tissue disease, domestic, and occupational or environmental exposures) be excluded.<span class="citation">[12]</span></p>
-<p>Attributing a disease process to a specific exposure can be difficult. Disease processes are frequently complex or multifactorial, depending on the interaction of genetic and environmental components. Well-studied and relatively frequent entities such as chronic obstructive pulmonary disease, ischaemic heart disease and diabetes lend themselves to epidemiologic investigation, delineating the major risk factors for disease and their relative contributions to risk at the population level. IPF presents an additional challenge to attribution; because of its relative infrequency, epidemiologic study of the disease is largely limited to case-control studies.<span class="citation">[13]</span> Specific occupational exposures also present their own challenges Occupational hygeine data is frequently limited and self-reported exposure, especially for exposures such as asbestos where the latency between exposure and disease is upwards of 20 years, are prone to recall bias.</p>
-<p>I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors. Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies and case-reports identified.</p>
+<p>Attributing a disease process to a specific exposure can be difficult. Disease processes are frequently complex or multifactorial, depending on the interaction of genetic and environmental components. Well-studied and relatively frequent entities such as chronic obstructive pulmonary disease, ischaemic heart disease and diabetes lend themselves to epidemiologic investigation, delineating the major risk factors for disease and their relative contributions to risk at the population level. IPF presents an additional challenge to attribution; because of its relative infrequency, epidemiologic study of the disease is largely limited to case-control studies.<span class="citation">[13]</span> Studying specific occupational exposures also presents its own challenges; co-exposure is common, occupational hygeine data is frequently limited and self-reported exposure, especially for exposures such as asbestos where the latency between exposure and disease is upwards of 20 years, is prone to recall bias.</p>
+<p>I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors. Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies used.</p>
 <p>Turner-Warwick (1998) discusses potential difficulties in establishing attribution and causality in IPF. She observes that there is variation in clinical practice with respect to the standard applied to exclude IPF; some clinicians exclude IPF when exposure to a potential cause is identified, others only when there is clear exposure to an established cause. She explains that diagnosis based on radiologic and clinical findings, and not on lung biopsy or bronchioalveolar lavage, may result in initiating agents for disease being overlooked. Further, that exposures such as asbestos, silica, coal, graphite, hard metal, and avian proteins, may result in disease that can not be differentiated from IPF.<span class="citation">[14]</span></p>
 <p>Reviewing the epidemiology of IPF and case-control studies to date Hubbard (2001) describes the association of IPF with occupational exposures to metal and wood and estimates that 10% of IPF cases may be due to occupational metal exposure and 5% of cases to wood.<span class="citation">[15]</span></p>
 <p>Taskar and Coultas (2006) review and carry out a meta-analysis of six case-control studies investigating environmental and occupational exposures in IPF. They report population attributable risk percentages for agriculture and farming (20.8%), livestock (4.1%), wood dust (5%), metal dust (3.4%), stone/sand/silica (3.5%), and smoking (49.1%).<span class="citation">[16]</span></p>
 <p>Gulati and Redlich’s (2015) review of exposures causing usual interstitial pneumonia highlights that asbestosis may appear indistinguishable from IPF and summarises previous case-control studies but did not pool studies to perform a meta-analysis.<span class="citation">[17]</span></p>
+<p>I sought to identify and meta-analyze all IPF case-control studies dealing with occupational exposures.</p>
 <h2 id="method"><span class="header-section-number">3.2</span> Method</h2>
-<p>Background: Optimal strategies to extract relevant content from Pubmed for occupational lung disease topics are not clearly defined and the utility of mining techniques has not been assessed. Aims and objectives: To evaluate, given a ‘seed’ of known relevant papers (here 12 occupational IPF case-control studies), the use of relative citation ratio (RCR)[1], jaccard similarity(JS)[2] and coverage(C) to identify additional relevant papers. Methods: We used the python programming language and the Pubmed application programming interface to extract all papers citing the 'seed' papers and to calculate and sort by RCR, JS, and C. Full analysis online.[3] Results: Papers citing 'seed' papers sorted by RCR, JS, and C. Table 1 and Figure 1. Conclusions: Pubmed mining techniques can help to identify additional relevant papers.</p>
-<h2 id="results"><span class="header-section-number">3.3</span> Results</h2>
-<p>We found (as of May 2017) 14 case-control studies looking at occupational exposures in IPF (Table \ref{metatable1]); the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. <span class="citation">[18]</span><span class="citation">[19]</span> <span class="citation">[20]</span> <span class="citation">[21]</span> <span class="citation">[22]</span> <span class="citation">[23]</span> <span class="citation">[24]</span> <span class="citation">[25]</span> <span class="citation">[26]</span> <span class="citation">[27]</span> <span class="citation">[28]</span> <span class="citation">[29]</span></p>
+<p>Pubmed, embase, and google scholar search engines were searched for combinations of the terms 'idiopathic pulmonary fibrosis', 'occupation', 'case-control study' and synonyms. When relevant papers were identified papers referenced and papers citing the paper were reviewed. Medline ranker<span class="citation">[18]</span> and bespoke pubmed 'mining' techniques<span class="citation">[19]</span> were also used.</p>
 <p>Two investigators independently reviewed and abstracted data for five exposure categories common to the identified case-control studies: “vapors, gases, dusts, and/or fumes (VGDF)”, “metal dust”, “wood dust”, “silica dust”, and “agricultural dust”. We calculated PAF as follows: PAF=pc(OR - 1)/OR, where pc is the proportion of cases exposed and OR is the risk estimate.</p>
 <p>We calculated pooled OR and pooled PAF for occupational exposures using fixed effects models and random effects models in Stata. When there was results of the models differed substantively, we used the results of the fixed effects model, which were more conservative. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.</p>
-<p>In all, 43 risk estimates from 14 publications (2027 IPF cases in total) were used. Each exposure category was assessed with 6-11 risk estimates. Pooled ORs were significantly elevated for each category; the pooled PAF estimates by category ranged from 4-14% (Table \ref{metatable2]). We found funnel plot asymmetry using Egger's test, which may be due to publication bias, for VGDF (p = 0.04) and metal dust (p = 0.04) but not for wood dust (p = 0.1), silica dust (p = 0.2), and agricultural dust (p = 0.6). However, the number of studies included is small and funnel plot assymetry may be due to chance rather than bias.</p>
+<h2 id="results"><span class="header-section-number">3.3</span> Results</h2>
+<p>We found (as of May 2017) 14 case-control studies looking at occupational exposures in IPF (Table 3.1) the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. <span class="citation">[20]</span><span class="citation">[21]</span> <span class="citation">[22]</span> <span class="citation">[23]</span> <span class="citation">[24]</span> <span class="citation">[25]</span> <span class="citation">[26]</span> <span class="citation">[27]</span> <span class="citation">[28]</span> <span class="citation">[29]</span> <span class="citation">[30]</span> <span class="citation">[31]</span></p>
+<p>In all, 43 risk estimates from 14 publications (2027 IPF cases in total) were used. Each exposure category was assessed with 6-11 risk estimates. Pooled ORs were significantly elevated for each category; the pooled PAF estimates by category ranged from 4-14% (Table 3.2). We found funnel plot asymmetry using Egger's test, which may be due to publication bias, for VGDF (p = 0.04) and metal dust (p = 0.04) but not for wood dust (p = 0.1), silica dust (p = 0.2), and agricultural dust (p = 0.6). However, the number of studies included is small and funnel plot assymetry may be due to chance rather than bias.</p>
+
+
 <h2 id="discussion"><span class="header-section-number">3.4</span> Discussion</h2>
+<p>? methods paper paul gave to me</p>
 <p>Shortcomings of prev studies:</p>
 <ul>
 <li>Use of population controls</li>
@@ -329,7 +333,7 @@ introduces methodology used throughout the thesis.
 <p>Conclusions: The birth cohort effect we observed is consistent with a proportion of IPF cases being due to an occupational or environmental exposure with latency and further research is needed.</p>
 <h1 id="asbestos-exposure-assessment"><span class="header-section-number">5</span> Asbestos exposure assessment</h1>
 <h2 id="introduction-2"><span class="header-section-number">5.1</span> Introduction</h2>
-<p>In addition to its epidemiological and clinical plausibility there are several additional reasons why study of this area is needed. First, most previous work relied on self-reported workplace exposure information, an approach that is open to recall bias and deals poorly with confounding; for example, studies have described strong associations between metal work and IPF and specify sheet metal workers<span class="citation">[19]</span><span class="citation">[18]</span><span class="citation">[30]</span>, a group who are frequently exposed to dust containing asbestos fibres<span class="citation">[31]</span> and who in a recent UK study, had the highest risk of mesothelioma.<span class="citation">[32]</span> Lifetime occupational histories are more accurately recalled than self-reported workplace exposures and can be combined with measures such as proportionate mortality (PMR) estimates and job-process assessments to minimize recall bias and more accurately characterise cumulative exposures. <span class="citation">[33]</span><span class="citation">[34]</span><span class="citation">[35]</span><span class="citation">[32]</span> This allows too the examination of `exposure-response' relationships, entirely lacking in the published literature.</p>
+<p>In addition to its epidemiological and clinical plausibility there are several additional reasons why study of this area is needed. First, most previous work relied on self-reported workplace exposure information, an approach that is open to recall bias and deals poorly with confounding; for example, studies have described strong associations between metal work and IPF and specify sheet metal workers<span class="citation">[21]</span><span class="citation">[20]</span><span class="citation">[32]</span>, a group who are frequently exposed to dust containing asbestos fibres<span class="citation">[33]</span> and who in a recent UK study, had the highest risk of mesothelioma.<span class="citation">[34]</span> Lifetime occupational histories are more accurately recalled than self-reported workplace exposures and can be combined with measures such as proportionate mortality (PMR) estimates and job-process assessments to minimize recall bias and more accurately characterise cumulative exposures. <span class="citation">[35]</span><span class="citation">[36]</span><span class="citation">[37]</span><span class="citation">[34]</span> This allows too the examination of `exposure-response' relationships, entirely lacking in the published literature.</p>
 <h2 id="method-2"><span class="header-section-number">5.2</span> Method</h2>
 <p>Donec imperdiet, lectus vestibulum sagittis tempus, turpis dolor euismod justo, vel tempus neque libero sit amet tortor. Nam cursus commodo tincidunt.</p>
 <h2 id="results-2"><span class="header-section-number">5.3</span> Results</h2>
@@ -339,7 +343,7 @@ introduces methodology used throughout the thesis.
 <p>This is the conclusion to the chapter. Quisque nec purus a quam consectetur volutpat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In lorem justo, convallis quis lacinia eget, laoreet eu metus. Fusce blandit tellus tellus. Curabitur nec cursus odio. Quisque tristique eros nulla, vitae finibus lorem aliquam quis. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
 <h1 id="genetic-susceptibility-in-ipf"><span class="header-section-number">6</span> Genetic susceptibility in IPF</h1>
 <h2 id="introduction-3"><span class="header-section-number">6.1</span> Introduction</h2>
-<p>Third, advances in our understanding of IPF susceptibility now permit study of host-exposure interactions. The minor-allele of the rs35705950 SNP in the mucin 5B gene was found to be present in 38% of IPF patients but just 9% of controls.<span class="citation">[36]</span> The polymorphism results in excess MUC5B protein in the airway, impaired clearance of inhaled substances and a chronic inflammatory burden on the alveolar surface.<span class="citation">[36]</span> The association is allele dose-dependent, has been replicated in independent cohorts, and appears to confer improved survival.<span class="citation">[3]</span><span class="citation">[36]</span><span class="citation">[37]</span> Two large GWASs have confirmed the observed associations of IPF with MUC5B and other loci.<span class="citation">[38]</span><span class="citation">[39]</span></p>
+<p>Third, advances in our understanding of IPF susceptibility now permit study of host-exposure interactions. The minor-allele of the rs35705950 SNP in the mucin 5B gene was found to be present in 38% of IPF patients but just 9% of controls.<span class="citation">[38]</span> The polymorphism results in excess MUC5B protein in the airway, impaired clearance of inhaled substances and a chronic inflammatory burden on the alveolar surface.<span class="citation">[38]</span> The association is allele dose-dependent, has been replicated in independent cohorts, and appears to confer improved survival.<span class="citation">[3]</span><span class="citation">[38]</span><span class="citation">[39]</span> Two large GWASs have confirmed the observed associations of IPF with MUC5B and other loci.<span class="citation">[40]</span><span class="citation">[41]</span></p>
 <h2 id="method-3"><span class="header-section-number">6.2</span> Method</h2>
 <p>Vivamus consectetur, velit in congue lobortis, massa massa lacinia urna, sollicitudin semper ipsum augue quis tortor. Donec quis nisl at arcu volutpat ultrices. Maecenas ex nibh, consequat ac blandit sit amet, molestie in odio. Morbi finibus libero et nisl dignissim, at ultricies ligula pulvinar.</p>
 <p>C</p>
@@ -350,12 +354,12 @@ introduces methodology used throughout the thesis.
 <p>This is the conclusion to the chapter. Nullam porta tortor id vehicula interdum. Quisque pharetra, neque ut accumsan suscipit, orci orci commodo tortor, ac finibus est turpis eget justo. Cras sodales nibh nec mauris laoreet iaculis. Morbi volutpat orci felis, id condimentum nulla suscipit eu. Fusce in turpis quis ligula tempus scelerisque eget quis odio. Vestibulum et dolor id erat lobortis ullamcorper quis at sem.</p>
 <h1 id="idiopathic-pulmonary-fibrosis-job-exposures-study-ipfjes"><span class="header-section-number">7</span> Idiopathic pulmonary fibrosis job exposures study (IPFJES)</h1>
 <h2 id="introduction-4"><span class="header-section-number">7.1</span> Introduction</h2>
-<p>My study will be a multi-centre, hospital-outpatient, incident case-control study. Participants will be recruited from a UK network of six confirmed centres. Cases will be men who present, between 07.2017 and 07.2019, with a new diagnosis of IPF consistent with standard criteria<span class="citation">[40]</span>; they will be identified monthly by the MDT coordinator of participating centres.<span class="citation">[41]</span></p>
+<p>My study will be a multi-centre, hospital-outpatient, incident case-control study. Participants will be recruited from a UK network of six confirmed centres. Cases will be men who present, between 07.2017 and 07.2019, with a new diagnosis of IPF consistent with standard criteria<span class="citation">[42]</span>; they will be identified monthly by the MDT coordinator of participating centres.<span class="citation">[43]</span></p>
 <p>For each case, four controls, frequency-matched on age, will be randomly selected from incident outpatient attendances (not confined to respiratory) who do not have a diagnosis of IPF and are from the hospital as the case. Monthly lists of outpatient attendances will be obtained using the patient administration systems of participating centres. 120 cases and 480 controls will be recruited over two years with four participants enrolled and interviewed per day.</p>
 <p>Eligible participants will be contacted by telephone and invited to participate. An interviewer will collect data on demographics, lifetime occupational history, hobbies, family medical history, and smoking using a structured web-based questionnaire designed by us to collect lifetime occupational histories. This approach will facilitate coding, allow input validation, and permit questions to be tailored to pre-specified conditions. The questions will be developed in collaboration with an international expert in asbestos exposure measurement, Dr John Cherrie of the IOM. Participants will be invited to provide a venous blood sample for genetic analysis.</p>
 <p>Cases and controls will be genotyped using a panel of 15 pre-defined candidate susceptibility SNPs including rs35705950. Genotyping will be undertaken using Q-PCR and Taqman assays on DNA isolated from whole blood samples.</p>
-<p>For the primary analysis unconditional logistic regression will be used to analyse 'any' vs 'no' asbestos exposure and categories of cumulative exposure adjusting for age and smoking status. Prior data<span class="citation">[32]</span> indicate that the probability of exposure among controls is 0.29. If the true OR for disease in exposed subjects relative to unexposed subjects is 2.0, I will need to recruit 94 case patients and 376 control patients to be able to reject the null hypothesis that this odds ratio equals 1 with  and <span class="citation">[42]</span>; my planned sample size sample size includes a margin for model stability and incomplete data.<span class="citation">[43]</span></p>
-<p>Secondary (exploratory) analysis will investigate gene-environment interaction. The global minor allele frequency of MUC5B rs35705950 is 0.05.<span class="citation">[44]</span> With an estimated prevalence of IPF of 20/100000<span class="citation">[1]</span> and with ORs 2.0 for asbestos exposure and 6.8 for rs35705950<span class="citation">[36]</span>, 113 cases would be required to detect a minimum interaction OR of 4.0.<span class="citation">[45]</span> While I acknowledge that this exploratory analysis will have the power to detect only a large effect size it seems a valuable opportunity to examine an unexplored area in IPF research.</p>
+<p>For the primary analysis unconditional logistic regression will be used to analyse 'any' vs 'no' asbestos exposure and categories of cumulative exposure adjusting for age and smoking status. Prior data<span class="citation">[34]</span> indicate that the probability of exposure among controls is 0.29. If the true OR for disease in exposed subjects relative to unexposed subjects is 2.0, I will need to recruit 94 case patients and 376 control patients to be able to reject the null hypothesis that this odds ratio equals 1 with  and <span class="citation">[44]</span>; my planned sample size sample size includes a margin for model stability and incomplete data.<span class="citation">[45]</span></p>
+<p>Secondary (exploratory) analysis will investigate gene-environment interaction. The global minor allele frequency of MUC5B rs35705950 is 0.05.<span class="citation">[46]</span> With an estimated prevalence of IPF of 20/100000<span class="citation">[1]</span> and with ORs 2.0 for asbestos exposure and 6.8 for rs35705950<span class="citation">[38]</span>, 113 cases would be required to detect a minimum interaction OR of 4.0.<span class="citation">[47]</span> While I acknowledge that this exploratory analysis will have the power to detect only a large effect size it seems a valuable opportunity to examine an unexplored area in IPF research.</p>
 <h2 id="method-4"><span class="header-section-number">7.2</span> Method</h2>
 <p>In tincidunt viverra dolor, ac pharetra tellus faucibus eget. Pellentesque tempor a enim nec venenatis. Morbi blandit magna imperdiet posuere auctor. Maecenas in maximus est.</p>
 <!-- 
@@ -364,7 +368,7 @@ Comments can be added like this.
 <h2 id="results-4"><span class="header-section-number">7.3</span> Results</h2>
 <p>These are the results. Curabitur vulputate nisl non ante tincidunt tempor. Aenean porta nisi quam, sed ornare urna congue sed. Curabitur in sapien justo. Quisque pulvinar ullamcorper metus, eu varius mauris pellentesque et. In hac habitasse platea dictumst. Pellentesque nec porttitor libero. Duis et magna a massa lacinia cursus.</p>
 <h2 id="discussion-4"><span class="header-section-number">7.4</span> Discussion</h2>
-<p>possibility of missed chronic HP <span class="citation">[46]</span></p>
+<p>possibility of missed chronic HP <span class="citation">[48]</span></p>
 <h2 id="conclusion-4"><span class="header-section-number">7.5</span> Conclusion</h2>
 <p>This is the conclusion to the chapter. Nulla sed condimentum lectus. Duis sed tempor erat, at cursus lacus. Nam vitae tempus arcu, id vestibulum sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <h1 id="conclusion-5"><span class="header-section-number">8</span> Conclusion</h1>
@@ -447,92 +451,98 @@ References are automatically generated from the BibTex file (References.bib)
 <div id="ref-Gulati2015">
 <p>17 Gulati M, Redlich CA. Asbestosis and environmental causes of usual interstitial pneumonia. <em>Current opinion in pulmonary medicine</em> 2015;<strong>21</strong>:193–200. doi:<a href="https://doi.org/10.1097/MCP.0000000000000144">10.1097/MCP.0000000000000144</a></p>
 </div>
+<div id="ref-Fontaine2009">
+<p>18 Fontaine J-F, Barbosa-Silva A, Schaefer M <em>et al.</em> MedlineRanker: Flexible ranking of biomedical literature. <em>Nucleic acids research</em> 2009;<strong>37</strong>:W141–6. doi:<a href="https://doi.org/10.1093/nar/gkp353">10.1093/nar/gkp353</a></p>
+</div>
+<div id="ref-Reynolds2017pubmed">
+<p>19 Reynolds C, De Matteis S, Cullinan P <em>et al.</em> Pubmed mining for occupational idiopathic pulmonary fibrosis papers. 2017.</p>
+</div>
 <div id="ref-Scott1990">
-<p>18 Scott J, Johnston I, Britton J. What causes cryptogenic fibrosing alveolitis? A case-control study of environmental exposure to dust. <em>BMJ</em> 1990;<strong>301</strong>:1015.</p>
+<p>20 Scott J, Johnston I, Britton J. What causes cryptogenic fibrosing alveolitis? A case-control study of environmental exposure to dust. <em>BMJ</em> 1990;<strong>301</strong>:1015.</p>
 </div>
 <div id="ref-Iwai1994">
-<p>19 Iwai K, Mori T, Yamada N <em>et al.</em> Idiopathic pulmonary fibrosis. epidemiologic approaches to occupational exposure. <em>Am J Respir Crit Care Med</em> 1994;<strong>150</strong>:670–5. doi:<a href="https://doi.org/10.1164/ajrccm.150.3.8087336">10.1164/ajrccm.150.3.8087336</a></p>
+<p>21 Iwai K, Mori T, Yamada N <em>et al.</em> Idiopathic pulmonary fibrosis. epidemiologic approaches to occupational exposure. <em>Am J Respir Crit Care Med</em> 1994;<strong>150</strong>:670–5. doi:<a href="https://doi.org/10.1164/ajrccm.150.3.8087336">10.1164/ajrccm.150.3.8087336</a></p>
 </div>
 <div id="ref-Hubbard1996a">
-<p>20 Hubbard R, Lewis S, Richards K <em>et al.</em> Occupational exposure to metal or wood dust and aetiology of cryptogenic fibrosing alveolitis. <em>The Lancet</em> 1996;<strong>347</strong>:284–9.</p>
+<p>22 Hubbard R, Lewis S, Richards K <em>et al.</em> Occupational exposure to metal or wood dust and aetiology of cryptogenic fibrosing alveolitis. <em>The Lancet</em> 1996;<strong>347</strong>:284–9.</p>
 </div>
 <div id="ref-Mullen1998">
-<p>21 Mullen J, Hodgson MJ, DeGraff CA <em>et al.</em> Case-control study of idiopathic pulmonary fibrosis and environmental exposures. <em>J Occup Environ Med</em> 1998;<strong>40</strong>:363–7.</p>
+<p>23 Mullen J, Hodgson MJ, DeGraff CA <em>et al.</em> Case-control study of idiopathic pulmonary fibrosis and environmental exposures. <em>J Occup Environ Med</em> 1998;<strong>40</strong>:363–7.</p>
 </div>
 <div id="ref-Baumgartner2000">
-<p>22 Baumgartner KB, Samet JM, Coultas DB <em>et al.</em> Occupational and environmental risk factors for idiopathic pulmonary fibrosis: A multicenter case-control study. collaborating centers. <em>Am J Epidemiol</em> 2000;<strong>152</strong>:307–15.</p>
+<p>24 Baumgartner KB, Samet JM, Coultas DB <em>et al.</em> Occupational and environmental risk factors for idiopathic pulmonary fibrosis: A multicenter case-control study. collaborating centers. <em>Am J Epidemiol</em> 2000;<strong>152</strong>:307–15.</p>
 </div>
 <div id="ref-Miyake2005">
-<p>23 Miyake Y, Sasaki S, Yokoyama T <em>et al.</em> Occupational and environmental factors and idiopathic pulmonary fibrosis in japan. <em>Ann Occup Hyg</em> 2005;<strong>49</strong>:259–65.</p>
+<p>25 Miyake Y, Sasaki S, Yokoyama T <em>et al.</em> Occupational and environmental factors and idiopathic pulmonary fibrosis in japan. <em>Ann Occup Hyg</em> 2005;<strong>49</strong>:259–65.</p>
 </div>
 <div id="ref-Gustafson2007">
-<p>24 Gustafson T, Dahlman-Höglund A, Nilsson K <em>et al.</em> Occupational exposure and severe pulmonary fibrosis. <em>Respir Med</em> 2007;<strong>101</strong>:2207–12.</p>
+<p>26 Gustafson T, Dahlman-Höglund A, Nilsson K <em>et al.</em> Occupational exposure and severe pulmonary fibrosis. <em>Respir Med</em> 2007;<strong>101</strong>:2207–12.</p>
 </div>
 <div id="ref-Garcia-SanchoFigueroa2010">
-<p>25 García-Sancho Figueroa MC, Carrillo G, Pérez-Padilla R <em>et al.</em> Risk factors for idiopathic pulmonary fibrosis in a mexican population. a case-control study. <em>Respir Med</em> 2010;<strong>104</strong>:305–9.</p>
+<p>27 García-Sancho Figueroa MC, Carrillo G, Pérez-Padilla R <em>et al.</em> Risk factors for idiopathic pulmonary fibrosis in a mexican population. a case-control study. <em>Respir Med</em> 2010;<strong>104</strong>:305–9.</p>
 </div>
 <div id="ref-Garcia-Sancho2011">
-<p>26 García-Sancho C, Buendía-Roldán I, Fernández-Plata MR <em>et al.</em> Familial pulmonary fibrosis is the strongest risk factor for idiopathic pulmonary fibrosis. <em>Respiratory medicine</em> 2011;<strong>105</strong>:1902–7. doi:<a href="https://doi.org/10.1016/j.rmed.2011.08.022">10.1016/j.rmed.2011.08.022</a></p>
+<p>28 García-Sancho C, Buendía-Roldán I, Fernández-Plata MR <em>et al.</em> Familial pulmonary fibrosis is the strongest risk factor for idiopathic pulmonary fibrosis. <em>Respiratory medicine</em> 2011;<strong>105</strong>:1902–7. doi:<a href="https://doi.org/10.1016/j.rmed.2011.08.022">10.1016/j.rmed.2011.08.022</a></p>
 </div>
 <div id="ref-Awadalla2012">
-<p>27 Awadalla NJ, Hegazy A, Elmetwally RA <em>et al.</em> Occupational and environmental risk factors for idiopathic pulmonary fibrosis in egypt: A multicenter case-control study. <em>Int J Occup Environ Med</em> 2012;<strong>3</strong>:107–16.</p>
+<p>29 Awadalla NJ, Hegazy A, Elmetwally RA <em>et al.</em> Occupational and environmental risk factors for idiopathic pulmonary fibrosis in egypt: A multicenter case-control study. <em>Int J Occup Environ Med</em> 2012;<strong>3</strong>:107–16.</p>
 </div>
 <div id="ref-Paolocci2013">
-<p>28 Paolocci G, Nicolic V, Folletti I <em>et al.</em> Risk factors for idiopathic pulmonary fibrosis in southern europe: A case-control study. 2013.</p>
+<p>30 Paolocci G, Nicolic V, Folletti I <em>et al.</em> Risk factors for idiopathic pulmonary fibrosis in southern europe: A case-control study. 2013.</p>
 </div>
 <div id="ref-Koo2017">
-<p>29 Koo J-W, Myong J-P, Yoon H-K <em>et al.</em> Occupational exposure and idiopathic pulmonary fibrosis: A multicentre case-control study in korea. <em>The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease</em> 2017;<strong>21</strong>:107–12. doi:<a href="https://doi.org/10.5588/ijtld.16.0167">10.5588/ijtld.16.0167</a></p>
+<p>31 Koo J-W, Myong J-P, Yoon H-K <em>et al.</em> Occupational exposure and idiopathic pulmonary fibrosis: A multicentre case-control study in korea. <em>The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease</em> 2017;<strong>21</strong>:107–12. doi:<a href="https://doi.org/10.5588/ijtld.16.0167">10.5588/ijtld.16.0167</a></p>
 </div>
 <div id="ref-Hubbard2000">
-<p>30 Hubbard R, Cooper M, Antoniak M <em>et al.</em> Risk of cryptogenic fibrosing alveolitis in metal workers. <em>The Lancet</em> 2000;<strong>355</strong>:466–7.</p>
+<p>32 Hubbard R, Cooper M, Antoniak M <em>et al.</em> Risk of cryptogenic fibrosing alveolitis in metal workers. <em>The Lancet</em> 2000;<strong>355</strong>:466–7.</p>
 </div>
 <div id="ref-Welch1994">
-<p>31 Welch LS, Michaels D, Zoloth SR. The national sheet metal worker asbestos disease screening program: Radiologic findings. national sheet metal examination group. <em>Am J Ind Med</em> 1994;<strong>25</strong>:635–48.</p>
+<p>33 Welch LS, Michaels D, Zoloth SR. The national sheet metal worker asbestos disease screening program: Radiologic findings. national sheet metal examination group. <em>Am J Ind Med</em> 1994;<strong>25</strong>:635–48.</p>
 </div>
 <div id="ref-Rake2009">
-<p>32 Rake C, Gilham C, Hatch J <em>et al.</em> Occupational, domestic and environmental mesothelioma risks in the british population: A case-control study. <em>Br J Cancer</em> 2009;<strong>100</strong>:1175–83. doi:<a href="https://doi.org/10.1038/sj.bjc.6604879">10.1038/sj.bjc.6604879</a></p>
+<p>34 Rake C, Gilham C, Hatch J <em>et al.</em> Occupational, domestic and environmental mesothelioma risks in the british population: A case-control study. <em>Br J Cancer</em> 2009;<strong>100</strong>:1175–83. doi:<a href="https://doi.org/10.1038/sj.bjc.6604879">10.1038/sj.bjc.6604879</a></p>
 </div>
 <div id="ref-Teschke2002">
-<p>33 Teschke K, Olshan AF, Daniels JL <em>et al.</em> Occupational exposure assessment in case-control studies: Opportunities for improvement. <em>Occup Environ Med</em> 2002;<strong>59</strong>:575–93; discussion 594.</p>
+<p>35 Teschke K, Olshan AF, Daniels JL <em>et al.</em> Occupational exposure assessment in case-control studies: Opportunities for improvement. <em>Occup Environ Med</em> 2002;<strong>59</strong>:575–93; discussion 594.</p>
 </div>
 <div id="ref-Bourgkard2013">
-<p>34 Bourgkard E, Wild P, Gonzalez M <em>et al.</em> Comparison of exposure assessment methods in a lung cancer case-control study: Performance of a lifelong task-based questionnaire for asbestos and pahs. <em>Occup Environ Med</em> 2013;<strong>70</strong>:884–91. doi:<a href="https://doi.org/10.1136/oemed-2013-101467">10.1136/oemed-2013-101467</a></p>
+<p>36 Bourgkard E, Wild P, Gonzalez M <em>et al.</em> Comparison of exposure assessment methods in a lung cancer case-control study: Performance of a lifelong task-based questionnaire for asbestos and pahs. <em>Occup Environ Med</em> 2013;<strong>70</strong>:884–91. doi:<a href="https://doi.org/10.1136/oemed-2013-101467">10.1136/oemed-2013-101467</a></p>
 </div>
 <div id="ref-Cherrie1999">
-<p>35 Cherrie JW, Schneider T. Validation of a new method for structured subjective assessment of past concentrations. <em>Ann Occup Hyg</em> 1999;<strong>43</strong>:235–45.</p>
+<p>37 Cherrie JW, Schneider T. Validation of a new method for structured subjective assessment of past concentrations. <em>Ann Occup Hyg</em> 1999;<strong>43</strong>:235–45.</p>
 </div>
 <div id="ref-Seibold2011">
-<p>36 Seibold MA, Wise AL, Speer MC <em>et al.</em> A common muc5b promoter polymorphism and pulmonary fibrosis. <em>N Engl J Med</em> 2011;<strong>364</strong>:1503–12. doi:<a href="https://doi.org/10.1056/NEJMoa1013660">10.1056/NEJMoa1013660</a></p>
+<p>38 Seibold MA, Wise AL, Speer MC <em>et al.</em> A common muc5b promoter polymorphism and pulmonary fibrosis. <em>N Engl J Med</em> 2011;<strong>364</strong>:1503–12. doi:<a href="https://doi.org/10.1056/NEJMoa1013660">10.1056/NEJMoa1013660</a></p>
 </div>
 <div id="ref-Peljto2013">
-<p>37 Peljto AL, Zhang Y, Fingerlin TE <em>et al.</em> Association between the muc5b promoter polymorphism and survival in patients with idiopathic pulmonary fibrosis. <em>JAMA</em> 2013;<strong>309</strong>:2232–9.</p>
+<p>39 Peljto AL, Zhang Y, Fingerlin TE <em>et al.</em> Association between the muc5b promoter polymorphism and survival in patients with idiopathic pulmonary fibrosis. <em>JAMA</em> 2013;<strong>309</strong>:2232–9.</p>
 </div>
 <div id="ref-Fingerlin2013">
-<p>38 Fingerlin TE, Murphy E, Zhang W <em>et al.</em> Genome-wide association study identifies multiple susceptibility loci for pulmonary fibrosis. <em>Nat Genet</em> 2013;<strong>45</strong>:613–20. doi:<a href="https://doi.org/10.1038/ng.2609">10.1038/ng.2609</a></p>
+<p>40 Fingerlin TE, Murphy E, Zhang W <em>et al.</em> Genome-wide association study identifies multiple susceptibility loci for pulmonary fibrosis. <em>Nat Genet</em> 2013;<strong>45</strong>:613–20. doi:<a href="https://doi.org/10.1038/ng.2609">10.1038/ng.2609</a></p>
 </div>
 <div id="ref-Noth2013">
-<p>39 Noth I, Zhang Y, Ma S-F <em>et al.</em> Genetic variants associated with idiopathic pulmonary fibrosis susceptibility and mortality: A genome-wide association study. <em>Lancet Respir Med</em> 2013;<strong>1</strong>:309–17. doi:<a href="https://doi.org/10.1016/S2213-2600(13)70045-6">10.1016/S2213-2600(13)70045-6</a></p>
+<p>41 Noth I, Zhang Y, Ma S-F <em>et al.</em> Genetic variants associated with idiopathic pulmonary fibrosis susceptibility and mortality: A genome-wide association study. <em>Lancet Respir Med</em> 2013;<strong>1</strong>:309–17. doi:<a href="https://doi.org/10.1016/S2213-2600(13)70045-6">10.1016/S2213-2600(13)70045-6</a></p>
 </div>
 <div id="ref-Raghu2011">
-<p>40 Raghu. An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management, author=Raghu, Ganesh and Collard, Harold R and Egan, Jim J and Martinez, Fernando J and Behr, Juergen and Brown, Kevin K and Colby, Thomas V and Cordier, Jean-François and Flaherty, Kevin R and Lasky, Joseph A and others. <em>Am J Respir Crit Care Med</em> 2011;<strong>183</strong>:788–824.</p>
+<p>42 Raghu. An official ATS/ERS/JRS/ALAT statement: idiopathic pulmonary fibrosis: evidence-based guidelines for diagnosis and management, author=Raghu, Ganesh and Collard, Harold R and Egan, Jim J and Martinez, Fernando J and Behr, Juergen and Brown, Kevin K and Colby, Thomas V and Cordier, Jean-François and Flaherty, Kevin R and Lasky, Joseph A and others. <em>Am J Respir Crit Care Med</em> 2011;<strong>183</strong>:788–824.</p>
 </div>
 <div id="ref-NICE2013">
-<p>41 NICE. Idiopathic pulmonary fibrosis: The diagnosis and management of suspected idiopathic pulmonary fibrosis. 2013.<a href="https://www.nice.org.uk/guidance/cg163" class="uri">https://www.nice.org.uk/guidance/cg163</a></p>
+<p>43 NICE. Idiopathic pulmonary fibrosis: The diagnosis and management of suspected idiopathic pulmonary fibrosis. 2013.<a href="https://www.nice.org.uk/guidance/cg163" class="uri">https://www.nice.org.uk/guidance/cg163</a></p>
 </div>
 <div id="ref-Dupont1990">
-<p>42 Dupont WD, Plummer WD. Power and sample size calculations: A review and computer program. <em>Control Clin Trials</em> 1990;<strong>11</strong>:116–28.</p>
+<p>44 Dupont WD, Plummer WD. Power and sample size calculations: A review and computer program. <em>Control Clin Trials</em> 1990;<strong>11</strong>:116–28.</p>
 </div>
 <div id="ref-Agresti2007">
-<p>43 Agresti A. Building and applying logistic regression models. <em>Categorical Data Analysis, Second Edition</em> 2007;211–66.</p>
+<p>45 Agresti A. Building and applying logistic regression models. <em>Categorical Data Analysis, Second Edition</em> 2007;211–66.</p>
 </div>
 <div id="ref-Cariaso2012">
-<p>44 Cariaso M, Lennon G. SNPedia: A wiki supporting personal genome annotation, interpretation and analysis. <em>Nucleic Acids Res</em> 2012;<strong>40</strong>:D1308–12. doi:<a href="https://doi.org/10.1093/nar/gkr798">10.1093/nar/gkr798</a></p>
+<p>46 Cariaso M, Lennon G. SNPedia: A wiki supporting personal genome annotation, interpretation and analysis. <em>Nucleic Acids Res</em> 2012;<strong>40</strong>:D1308–12. doi:<a href="https://doi.org/10.1093/nar/gkr798">10.1093/nar/gkr798</a></p>
 </div>
 <div id="ref-Gauderman2002">
-<p>45 Gauderman WJ. Sample size requirements for association studies of gene-gene interaction. <em>Am J Epidemiol</em> 2002;<strong>155</strong>:478–84.</p>
+<p>47 Gauderman WJ. Sample size requirements for association studies of gene-gene interaction. <em>Am J Epidemiol</em> 2002;<strong>155</strong>:478–84.</p>
 </div>
 <div id="ref-Morell2013">
-<p>46 Morell F, Villar A, Montero M-Á <em>et al.</em> Chronic hypersensitivity pneumonitis in patients diagnosed with idiopathic pulmonary fibrosis: A prospective case-cohort study. <em>Lancet Respir Med</em> 2013;<strong>1</strong>:685–94. doi:<a href="https://doi.org/10.1016/S2213-2600(13)70191-7">10.1016/S2213-2600(13)70191-7</a></p>
+<p>48 Morell F, Villar A, Montero M-Á <em>et al.</em> Chronic hypersensitivity pneumonitis in patients diagnosed with idiopathic pulmonary fibrosis: A prospective case-cohort study. <em>Lancet Respir Med</em> 2013;<strong>1</strong>:685–94. doi:<a href="https://doi.org/10.1016/S2213-2600(13)70191-7">10.1016/S2213-2600(13)70191-7</a></p>
 </div>
 </div>
             </body>

@@ -11,9 +11,9 @@ introduces methodology used throughout the thesis.
 Idiopathic pulmonary fibrosis (IPF) is a diagnosis of exclusion. It is made in the presence of a usual interstitial pneumonitis (UIP) pattern on high resolution CT scan or biopsy. The diagnosis requires that known causes of interstitial lung disease (such as drug toxicity, connective tissue disease, domestic, and occupational or environmental exposures) be excluded.[@Travis2013]
 
 Attributing a disease process to a specific exposure can be difficult. Disease processes are frequently complex or multifactorial, depending on the interaction of genetic and environmental components. Well-studied and relatively frequent entities such as chronic obstructive pulmonary disease, ischaemic heart disease and diabetes lend themselves to epidemiologic investigation, delineating the major risk factors for disease and their relative contributions to
-risk at the population level. IPF presents an additional challenge to attribution; because of its relative infrequency, epidemiologic study of the disease is largely limited to case-control studies.[@Reynolds2017] Specific occupational exposures also present their own challenges Occupational hygeine data is frequently limited and self-reported exposure, especially for exposures such as asbestos where the latency between exposure and disease is upwards of 20 years, are prone to recall bias.
+risk at the population level. IPF presents an additional challenge to attribution; because of its relative infrequency, epidemiologic study of the disease is largely limited to case-control studies.[@Reynolds2017] Studying specific occupational exposures also presents its own challenges; co-exposure is common, occupational hygeine data is frequently limited and self-reported exposure, especially for exposures such as asbestos where the latency between exposure and disease is upwards of 20 years, is prone to recall bias.
 
-I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors. Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies and case-reports identified.
+I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors. Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies used.
 
 Turner-Warwick (1998) discusses potential difficulties in establishing attribution and causality in IPF. She observes that there is variation in clinical practice with respect to the standard applied to exclude IPF; some clinicians exclude IPF when exposure to a potential cause is identified, others only when there is clear exposure to an established cause. She explains that diagnosis based on radiologic and clinical findings, and not on lung biopsy or bronchioalveolar lavage, may result in initiating agents for disease being overlooked. Further, that exposures such as asbestos, silica, coal,
 graphite, hard metal, and avian proteins, may result in disease that can not be differentiated from IPF.[@Turner-Warwick1998]
@@ -24,31 +24,89 @@ Taskar and Coultas (2006) review and carry out a meta-analysis of six case-contr
 
 Gulati and Redlich’s (2015) review of exposures causing usual interstitial pneumonia highlights that asbestosis may appear indistinguishable from IPF and summarises previous case-control studies but did not pool studies to perform a meta-analysis.[@Gulati2015]
 
+I sought to identify and meta-analyze all IPF case-control studies dealing with occupational exposures.
+
 ## Method
 
-Background: Optimal strategies to extract relevant content from Pubmed for occupational lung disease
-topics are not clearly defined and the utility of mining techniques has not been assessed.
-Aims and objectives: To evaluate, given a ‘seed’ of known relevant papers (here 12 occupational IPF
-case-control studies), the use of relative citation ratio (RCR)[1], jaccard similarity(JS)[2] and coverage(C)
-to identify additional relevant papers.
-Methods: We used the python programming language and the Pubmed application programming interface
-to extract all papers citing the 'seed' papers and to calculate and sort by RCR, JS, and C. Full analysis
-online.[3]
-Results: Papers citing 'seed' papers sorted by RCR, JS, and C. Table 1 and Figure 1.
-Conclusions: Pubmed mining techniques can help to identify additional relevant papers.
-
-## Results 
-
-We found (as of May 2017) 14 case-control studies looking at occupational exposures in IPF (Table \ref{metatable1]); the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. [@Scott1990][@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Miyake2005] [@Gustafson2007] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Koo2017] 
+Pubmed, embase, and google scholar search engines were searched for combinations of the terms 'idiopathic pulmonary fibrosis', 'occupation', 'case-control study' and synonyms. When relevant papers were identified papers referenced and papers citing the paper were reviewed. Medline ranker[@Fontaine2009] and bespoke pubmed 'mining' techniques[@Reynolds2017pubmed] were also used.
 
 Two investigators independently reviewed and abstracted data for five exposure categories
 common to the identified case-control studies: “vapors, gases, dusts, and/or fumes (VGDF)”, “metal dust”, “wood dust”, “silica dust”, and “agricultural dust”. We calculated PAF as follows: PAF=pc(OR - 1)/OR, where pc is the proportion of cases exposed and OR is the risk estimate.  
 
 We calculated pooled OR and pooled PAF for occupational exposures using fixed effects models and  random effects models in Stata. When there was  results of the models differed substantively, we used the results of the fixed effects model, which were more conservative. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.
 
-In all, 43 risk estimates from 14 publications (2027 IPF cases in total) were used. Each exposure category was assessed with 6-11 risk estimates. Pooled ORs were significantly elevated for each category; the pooled PAF estimates by category ranged from 4-14\% (Table \ref{metatable2]). We found funnel plot asymmetry using Egger's test, which may be due to publication bias, for VGDF (p = 0.04) and metal dust (p = 0.04) but not for wood dust (p = 0.1), silica dust (p = 0.2), and agricultural dust (p = 0.6). However, the number of studies included is small and funnel plot assymetry may be due to chance rather than bias.
+## Results 
 
+We found (as of May 2017) 14 case-control studies looking at occupational exposures in IPF (Table 3.1) the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. [@Scott1990][@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Miyake2005] [@Gustafson2007] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Koo2017] 
+
+In all, 43 risk estimates from 14 publications (2027 IPF cases in total) were used. Each exposure category was assessed with 6-11 risk estimates. Pooled ORs were significantly elevated for each category; the pooled PAF estimates by category ranged from 4-14\% (Table 3.2). We found funnel plot asymmetry using Egger's test, which may be due to publication bias, for VGDF (p = 0.04) and metal dust (p = 0.04) but not for wood dust (p = 0.1), silica dust (p = 0.2), and agricultural dust (p = 0.6). However, the number of studies included is small and funnel plot assymetry may be due to chance rather than bias.
+
+\begin{table}[htbp]\centering
+\caption{Summary of IPF case-control studies investigating occupational exposures}
+\label{metatable1}
+
+\tiny
+
+    \begin{tabular}{|p{1.5cm}|p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}|p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}|p{2.5cm}|p{2cm}|}
+
+    \midrule
+
+    \textbf{Reference (n cases)} & \multicolumn{5}{c}{\textbf{OR; 95\% CI}} & \multicolumn{5}{c}{\textbf{PAF \%}} & \textbf{Case Definition} & \textbf{Exposure Measure} \\
+
+            & vgdf* & metal & wood & ag & si & vgdf* & metal & wood & ag & si & & \\
+            \toprule
+
+
+                    Scott 1990(40)              & 1.3; 0.8, 2.0 & 11.0; 2.3, 52.0 & 2.9; 0.9, 9.9 & 10.9; 1.2, 96.0 & 1.6; 0.5, 4.8 & 17 & 12 & 10 & 12 & 15 & clinical assessment, CXR, pulmonary function             & questionnaire                         \\
+                    \hline
+                            Iwai 1994(86)                    &               & 1.3; 1.1, 1.6   &               & 3.0; 1.3, 7.4   &    &    &    &    &   & & clinical assessment, CXR or CT, pulmonary function       & questionnaire                         \\
+                            \hline
+                                    Iwai 1994(615)                   & 2.0; 1.2, 3.1 &               &               &               &    &    &    &    & & & autopsy                                                  & job group                             \\
+                                    \hline
+                                            Hubbard 1996(218)            &               & 1.7; 1.1, 2.7   & 1.7; 1.0, 2.9   &               &  1.8; 1.0, 3.1  & 10 & 6  &    &  & & clinical assessment, CXR or CT, pulmonary function       & questionnaire and telephone interview \\
+                                            \hline
+                                                    Mullen 1998(15)                   & 2.4; 0.7, 8.4   &               & 3.3; 0.4, 25.8  &  & 11; 1.1, 115             & 23 &    & 7  &    & 20 & clinical assessment, lung biopsy or CT                   & questionnaire                         \\
+                                                    \hline
+                                                            Baumgartner 2000(248)             &               & 2.0; 1.0, 4.0   & 1.6; 0.8, 3.3   & 1.6; 1.0, 2.5   & 3.9; 1.2, 12.7 &   & 5  & 3  & 7 & 3 & clinical assessment, lung biopsy or BAL, CT              & telephone interview                   \\
+                                                            \hline
+                                                                    Hubbard 2000(22)             &               & 1.1; 0.4, 2.7   &               &               &    & 5  &    &    &  & & death certificate diagnosis                              & job group                             \\
+                                                                    \hline
+                                                                            Miyake 2005(102)                 &               & 9.6; 1.7, 181.1 & 6.0; 0.3, 112.4 &    & 1.8; 0.5, 7.0           & 26 & 11 & 4  &    & 11 & clinical assessment, lung biopsy or BAL, CT              & questionnaire                         \\
+                                                                            \hline
+                                                                                    Gustafson 2007(140)            & 1.1; 0.7, 1.7   & 0.9; 0.5, 1.6   & 1.2; 0.7, 2.2   &   & 1.4; 0.7, 2.7           & 6  &    & 3  &    & 10 & pulmonary fibrosis of unknown aetiology + requiring LTOT & questionnaire                         \\
+                                                                                    \hline
+                                                                                            Garcia-Sancho Figueroa 2010(97)   & 1.2; 0.8, 1.9   &               &               &               & 9  &    &    &    & & & clinical assessment, CT +/- lung biopsy                  & questionnaire                         \\
+                                                                                            \hline
+                                                                                                    Garcia-Sancho 2011(100)          & 2.8; 1.5, 5.5   &               &               &               & 5  &    &    &    & & & clinical assessment, CT +/- lung biopsy                  & questionnaire                         \\
+                                                                                                    \hline
+                                                                                                            Awadalla 2012(201)                &               & 1.6; 0.7, 3.6   & 2.7; 1, 16.8    & 1.3; 0.7, 2.0   & 1.1; 0.5, 2.7 &   & 6  & 7  & 7  & 13 & clinical assessment, CT, pulmonary function              & questionnaire                         \\
+                                                                                                            \hline
+                                                                                                                    Paolocci 2013 (abstract only)(65) &               & 2.8; 1.1, 7.2   &               &               & 2.0; 0.9, 4.4 &   & 9  & 2  &    & 22 & clinical assessment and CT                               & questionnaire                         \\
+                                                                                                                    \hline
+                                                                                                                            Koo 2017(78)                      & 2.7; 0.7, 10.9  & 5.0; 1.4, 18.2  & 2.5; 0.5, 12.3  & & 1.2; 0.4, 3.8              & 35 & 22 & 5  &    & 27 & clinical assessment, CT +/- lung biopsy                  & interview       \\        
+                                                                                                                            \bottomrule             
+                                                                                                                            \end{tabular}
+                                                                                                                            \end{table}
+
+                                                                                                                            \begin{table}[htbp]\centering
+                                                                                                                            \caption{Pooled estimates of occupational contributions to IPF (based on 12 case-control studies)}
+                                                                                                                            \label{metatable2}
+                                                                                                                            \tiny
+                                                                                                                            \begin{tabular}{llll}
+                                                                                                                            \toprule
+                                                                                                                            \textbf{Exposure}          & \textbf{Risk estimates (n)} & \textbf{Pooled OR (95\% CI)} & \textbf{Pooled PAF (95\% CI)} \\
+                                                                                                                            \midrule
+                                                                                                                            VGDF*             & 8                  & 1.6 (1.3-1.9)       & 14 (12-17)           \\
+                                                                                                                            Metal dust        & 10                 & 1.4 (1.3-1.7)       & 8 (6-10)             \\
+                                                                                                                            Wood dust         & 11                 & 1.7 (1.3-2.2)       & 4 (3-5)              \\
+                                                                                                                            Agricultural dust & 6                  & 1.8 (1.0-3.1)         & 8 (5-10)             \\
+                                                                                                                            Silica dust       & 9                  & 1.7 (1.3-2.3)       & 7 (5-9)              \\
+                                                                                                                            \bottomrule
+                                                                                                                            \end{tabular}
+                                                                                                                            \end{table}
 ## Discussion 
+
+? methods paper paul gave to me
 
 Shortcomings of prev studies: 
 
