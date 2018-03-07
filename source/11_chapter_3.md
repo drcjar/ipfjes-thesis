@@ -2,52 +2,37 @@
 
 ## Introduction
 
-Mortality from Idiopathic Pulmonary Fibrosis in England and Wales by birth cohor
+The incidence of Idiopathic pulmonary fibrosis (IPF) has been increasing at a rate of 5% per annum since 2000. By definition, the diagnosis of IPF is not made in the presence of an identifiable cause. However, the distribution of the disease in the population (more common in men, manual workers, and those living in more industrial areas of the country) suggests a causal contribution from an occupational or environmental source.
 
-Introduction and objectives: The incidence of Idiopathic pulmonary fibrosis (IPF) has been increasing at a rate of 5% per annum since 2000.  By definition, the diagnosis of IPF is not made in the presence of an identifiable cause. However, the distribution of the disease in the population (more common in men, manual workers, and those living in more industrial areas of the country) suggests a causal contribution from an occupational or environmental source. This would be expected to produce a cohort effect.  Our aim was to examine trends in IPF mortality data for evidence of such an effect.
+It is hypothesised that a proportion of Idiopathic Pulmonary Fibrosis (IPF) cases are due to occult environmental or occupational exposures to asbestos dust. This would be expected to result in a spatio-temporal association between IPF, Mesothelioma, and Asbestosis mortality patterns coinciding with asbestos exposure. It would also be expected to produce a birth cohort effect   
 
-The recent publication of the INPULSIS­1, INPULSIS­2, and ASCEND trials mean that meaningful
-treatment for patients with IPF beyond palliation or lung transplantation is an emergent possibility.
-But for a history of asbestos exposure, IPF and Asbestosis may produce a clinically identical picture with progressive breathlessness and a Usual
+<!-- 
+what sort of spatio-temporal association is seen for mesothelioma? this is fundamentally same problem as mapping meso. revisit when have done meso work.    
 
-Interstitial Pneumonia on CT or hisotopathologic examination. A history of asbestos exposure may be easily missed and several authors have hypothesised
-that a proportion of IPF may be due to occult asbestos exposure.
-New antifibrotic treatments for IPF throw the question of whether or not a proportion of IPF is due to occult asbestos exposure into sharp focus; patients
-known to have Asbestos Exposure are currently not considered to be candidates for antifibrotic treatments and it may be timely to revisit this.
- These data show national and regional correlations, and marked sex differences,
-which are supportive of the hypothesis that a proportion of IPF is due to Occult Asbestos Exposure and provide motivation for further studies in this area.
+should add correlation coefficient and poisson regression results
 
-Background: It is hypothesised that a proportion of Idiopathic Pulmonary Fibrosis (IPF) cases are due to occult environmental or occupational
-exposures to asbestos dust. 
-Aims and objectives: To investigate a possible association between IPF, Mesothelioma, and Asbestosis mortality consistent with asbestos exposure. To
-visualise age­standardised annual mortality trends for IPF, Mesothelioma, and Asbestosis for men and women.
+should revisit with cosetta support and perhaps after have done some reading
+-->
 
+Our aim was to examine trends in IPF, Mesothelioma, and Asbestosis mortality data for evidence of cohort effect and association.
 
 ## Method
 
-Methods: Age and sex stratified mortality data for IPF were obtained for England and Wales from the Office of National Statistics for the period 1974–2012. Data were age-standardised and visualised using the Python Pandas data analysis library and matplotlib.
+Regional age and sex stratified mortality data for IPF, Mesothelioma, and Asbestosis were obtained for England and Wales from the Office of National Statistics for the period 1974–2012. Data were age-standardised and visualised using the Python Pandas data analysis library and matplotlib.
 
-We present new data obtained from the Office of National Statistics for England and Wales on the annual number of deaths due to IPF, Mesothelioma, and
-Asbestos for the period 1974­2012 broken down by age, sex, and region.
 
 ## Results
-Results: There is evidence of a cohort effect with age-specific IPF death rates increasing in successive cohorts, most clearly seen from age 60. Overall rates were higher for men but there were not marked sex differences in cohort mortality trends (data not shown).
 
-Results: IPF mortality continues to rise. Female:Male is approximately 1:1.6. 
-
-Figure \ref{mortalitytrends} shows a figure.
-
-Figure \ref{birthcohorts} shows a figure.
+IPF mortality continues to rise. Female:Male is approximately 1:1.6. There
+are more IPF deaths in the North West and South East of England. IPF mortality does appear to correlate with mesothelioma mortality (Figure \ref{mortalitytrends}). There is evidence of a cohort effect with age-specific IPF death rates increasing in successive cohorts, most clearly seen from age 60 (Figure \ref{birthcohorts}). While overall rates were higher for men but there were not marked sex differences in cohort mortality trends.
 
 ![IPF, mesothelioma, and asbestosis mortality trends \label{mortalitytrends}](source/figures/ipfasbmesomaletrend.jpg){ width=50% }
 
 ![IPF male birth cohorts \label{birthcohorts}](source/figures/ipfmalebirthcohorts.jpg){ width=50% }
 
 
-add Regional age standardised IPF mortality trends for males. There
-are more IPF deaths in the North West and South East of England.
-
 ## Discussion
+icd coding chat
 
 This is the discussion. Duis ultrices tempor sem vitae convallis. Pellentesque lobortis risus ac nisi varius bibendum. Phasellus volutpat aliquam varius. Mauris vitae neque quis libero volutpat finibus. Nunc diam metus, imperdiet vitae leo sed, varius posuere orci.
 

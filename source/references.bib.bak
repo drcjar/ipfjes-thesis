@@ -4208,4 +4208,11 @@
   revised         = {2014-12-09},
 }
 
+@Misc{Reynolds2017pubmed,
+  author    = {Reynolds, Carl and De Matteis, Sara and Cullinan, Paul and Szram, Joanna},
+  title     = {Pubmed mining for occupational idiopathic pulmonary fibrosis papers},
+  year      = {2017},
+  publisher = {Eur Respiratory Soc},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
