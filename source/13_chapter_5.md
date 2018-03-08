@@ -1,4 +1,8 @@
-# Genetic susceptibility in IPF
+# Genetic susceptibility in IPF and MUC5b
+
+<!--
+Reviews genetic suceptibility with particular reference to muc5b
+-->
 
 ## Introduction
 

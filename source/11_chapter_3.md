@@ -12,6 +12,8 @@ what sort of spatio-temporal association is seen for mesothelioma? this is funda
 should add correlation coefficient and poisson regression results
 
 should revisit with cosetta support and perhaps after have done some reading
+
+could also bring in european mortality data c.f bts abstract and chris barber import data paper
 -->
 
 Our aim was to examine trends in IPF, Mesothelioma, and Asbestosis mortality data for evidence of cohort effect and association.
