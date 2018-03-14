@@ -1,4 +1,4 @@
-# Genetic susceptibility in IPF and MUC5b
+# Genetic susceptibility in IPF and MUC5b: MUC5b + enivornmental insult = IPF?
 
 <!--
 Reviews genetic suceptibility with particular reference to muc5b

@@ -21,7 +21,8 @@
         \normalsize
         Supervised by:\\
         Professor Paul Cullinan\\
-        Dr Chris Barber 
+        Dr Chris Barber \\
+        Dr Sara De Matteis
 
         \vspace{0.8cm}
 
