@@ -24,7 +24,7 @@ Finally, job-exposure matricies (JEMs) are widely used in occupational epidemiol
 
 The asbestos exposure assessment literature is recognised to be at risk of bias arising from its economic importance to industrial and medicolegal actors. 
 
-We critically review different means of asbestos exposure assessment and consider their research and clinical utility.
+We critically review different means of asbestos exposure assessment and consider their clinical and research utility.
 
 ## Method
 
@@ -32,25 +32,32 @@ We searched pubmed and google scholar for combinations and synonyms of "asbestos
 
 ## Results
 
-### Lung biopsy
+### Lung biopsy and bronchoalveolar lavage
 
 The first report of fibrosis of the lung due to asbestos dust[@Cooke1924] included a description of the post mortem microscopic appearances of the lungs which showed abundent asbestos fibres in areas of fibrosis. 
 
-The demonstration of asbestos fibres on lung biopsy in the context of pulmonary fibrosis is clearly supportive of the diagnosis of asbestosis. However, a failure to demonstrate fibres can not be used to rule out asbestosis because counting methods have a significant false-negative rate.[@IIAC2005] 
+The demonstration of asbestos fibres on lung biopsy in the context of pulmonary fibrosis is clearly supportive of the diagnosis of asbestosis. However, a failure to demonstrate fibres can not be used to rule out asbestos exposure because fibres, particularly chyrostile fibres, may be cleared from the lung and counting methods have a significant false-negative rate.[@DeVuyst1998] 
 
-As alluded to previously lung biopsy carries significant health risks, particularly for patients who already have compromised lung function. Therefore it can not be justified solely on medico-legal grounds.[@Baur2014]
+Despite this recent 2014 Helsinki guidelines[@Wolff2015] and UK Royal College of Pathologist guidelines appear to suggest that a clear history of substantial occupational asbestos exposure is insufficient for diagnosis and that the absence of asbestos bodies or fibre counts above a certain threshold might be used to rule out a the diagnosis. The shortcomings of such an approach highlighted above are also described by responses to the Helsinki guideline.[@Hammar2015][@Baur2016][@Baur2017] 
 
-Lung biopsy asbestos fibre counts have recently been examined in a UK case-control study where mesothelioma cases were compared with lung cancer controls[@Rake2009][@Gilham2015] and in a follow up study where asbestos fibre counts from unselected surgically treated pneumothorax patients were used to show that population amphibole burden tracks mesothelioma mortality.[@Gilham2018]
+As alluded to previously lung biopsy also carries significant health risks, particularly for patients who already have compromised lung function. Therefore it can not be justified solely on medico-legal grounds.[@Baur2014] Therefore, the clinical utility of lung biospy and bronchoalveolar lavage is limited to ruling in asbestosis when a suggestive exposure history and radiology are lacking.
 
-### Bronchoalveolar lavage
+In a research context lung biopsy and brochoalveolar lavage have provided valuable population level insights. Lung biopsy asbestos fibre counts have been examined in a UK case-control study where mesothelioma cases were compared with lung cancer controls. Fibre counts were found to be higher in groups with greater occupational risk (as defined by PMR), providing additional support for the pre-eminance of an occupational history.[@Rake2009][@Gilham2015] In a follow up study asbestos fibre counts from unselected surgically treated pneumothorax patients were used to demonstrated that population amphibole burden is falling and is proportional to mesothelioma mortality.[@Gilham2018]
 
-[@Nuyts2017]
+A similar correlation with occupational exposure history, overall downward trend in fibre counts, and a significant false negative rate has been observed in a recent Belgian study of patients undergoing bronchoscopy with broncheoalvelolar lavage sampling for asbestos fibre quantification.[@Nuyts2016]
 
 ### Historic workplace measurements
 
-[@Valic2002] shortcoming of historic gravimetric measurements not fibres
+Occupational hygenists have recorded a large numbers of workplace measurements of asbestos in different settings, at different times, using a variety of different means. These measurements reside in national databases such as the HSE National Exposure Database[@Burns1989], and EV@LUTIL[@Orlowski2015], in the published literature, in unpublished company records.
+
+The use of different means of making workplace assessments resulting in difficulties with respect to the accuracy and comparability of measurements has been highlighted. For example, instruments that count particles rather than asbestos fibres have been used and there is no established conversion factor.[@Peto1985] Phase contrast microscopy has also been used which is less sensitive that scanning electron microscopy, which is in turn less senisitive than transmission electron microscopy and energy-dispersive x-ray analysis.[@ATSDR2001] 
+
+Where era and task specific workplace exposure data matching a particular patient occupational history is available and readily identiable it is a valuable means of assessing exposure history. Unfortunately, this is a rare occurence.
+
+Measurements have found greater utility in a research setting where they can help to quantify risk and inform regulatory policy and compliance in specific workplace settings, for example, in car mechanics.[@Blake2006]
 
 ### Exposure reconstruction
+
    The   paper describes a potentially valuable exposure assessment method for risk stratifying asbestos exposed workers to optimize mesothelioma screening efforts. The exposure assessment model is logical and the validation data is compelling. Theoretically the model would result in a more granular estimation of exposure than alternative estimation methods relying on job-title alone. The approach is limited by the relatively small number of industry-specific data points used for
    validation which is unavoidable because of the scarcity of exposure measurement data. 
 
