@@ -18,8 +18,7 @@ Historic workplace measurments are a valuable resource for assessing exposure bu
 
 Measurement of asbestos fibres in lung tissue by means of biopsy or bronchoalveolar lavage is invasive and both procedures carry the risk of serious complication including death. Additionally, the biopersistance of asbestos fibres is variable, counts are sensitive to techniques used, and establishing appropriate references ranges is challenging.[@DeVuyst1998] 
 
-Modern validated quantitative exposure reconstruction methods integrate historic workplace measurements with simulated workplace measurements and an individuals recollection of job processes he or she has carried out during their working life.[@Cherrie1999]  
-
+Modern validated quantitative exposure reconstruction methods integrate historic workplace measurements with simulated workplace measurements and an individuals recollection of job processes he or she has carried out during their working life.[@Cherrie1999]
 Finally, job-exposure matricies (JEMs) are widely used in occupational epidemiology studies to assess exposure to potential hazards. These assign levels of exposure to health hazards on the basis of job title.  
 
 The asbestos exposure assessment literature is recognised to be at risk of bias arising from its economic importance to industrial and medicolegal actors. 
@@ -54,11 +53,26 @@ The use of different means of making workplace assessments resulting in difficul
 
 Where era and task specific workplace exposure data matching a particular patient occupational history is available and readily identiable it is a valuable means of assessing exposure history. Unfortunately, this is a rare occurence.
 
-Measurements have found greater utility in a research setting where they can help to quantify risk and inform regulatory policy and compliance in specific workplace settings, for example, in car mechanics.[@Blake2006]
+Measurements have found greater utility in a research setting where they can help to quantify risk and inform regulatory policy and compliance in specific workplace settings, for example, in car mechanics[@Blake2006] or skilled craftsmen.[@Williams2007]
 
 ### Exposure reconstruction
 
-   The   paper describes a potentially valuable exposure assessment method for risk stratifying asbestos exposed workers to optimize mesothelioma screening efforts. The exposure assessment model is logical and the validation data is compelling. Theoretically the model would result in a more granular estimation of exposure than alternative estimation methods relying on job-title alone. The approach is limited by the relatively small number of industry-specific data points used for
+Modern asbestos exposure reconstruction methods combine a patients lifetime occupational history with available exposure measurements to arrive at a quantitative estimate of cummulative exposure.
+
+
+[@Sahmel2010]
+
+[@Chung2015]
+
+[@Rasmuson2014]
+
+
+[@Cherrie2018]
+
+
+
+
+The   paper describes a potentially valuable exposure assessment method for risk stratifying asbestos exposed workers to optimize mesothelioma screening efforts. The exposure assessment model is logical and the validation data is compelling. Theoretically the model would result in a more granular estimation of exposure than alternative estimation methods relying on job-title alone. The approach is limited by the relatively small number of industry-specific data points used for
    validation which is unavoidable because of the scarcity of exposure measurement data. 
 
    [@Cherrie2018]
@@ -98,6 +112,8 @@ inter-rater agreement, reliability, precision vs accuracy
 [@Orlowski1993] source of error jems
 
 [@Burdorf2011] quality criteria for exposure assessment 
+
+[@Teschke2002]
 
 ## Conclusion
 

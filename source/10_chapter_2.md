@@ -1,4 +1,4 @@
-# Literature review and meta-analysis
+# Literature review and meta-analysis: how much IPF is attributable to occupational exposures?
 
 <!--
 consider 'finishing off' lit search stuff and sticking more detail in here  - ?build a django app?    
@@ -13,7 +13,7 @@ Idiopathic pulmonary fibrosis (IPF) is a diagnosis of exclusion. It is made in t
 Attributing a disease process to a specific exposure can be difficult. Disease processes are frequently complex or multifactorial, depending on the interaction of genetic and environmental components. Well-studied and relatively frequent entities such as chronic obstructive pulmonary disease, ischaemic heart disease and diabetes lend themselves to epidemiologic investigation, delineating the major risk factors for disease and their relative contributions to
 risk at the population level. IPF presents an additional challenge to attribution; because of its relative infrequency, epidemiologic study of the disease is largely limited to case-control studies.[@Reynolds2017] Studying specific occupational exposures also presents its own challenges; co-exposure is common, occupational hygeine data is frequently limited and self-reported exposure is prone to recall bias.
 
-I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors (e.g Ley2013[@Ley2013]. Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies used.
+I identified several review articles of the epidemiology of interstitial lung disease that do not necessarily focus on IPF and only briefly mention occupational factors (e.g Ley2013[@Ley2013]). Here I consider review articles that specifically deal with occupational factors in IPF and cite the case-control studies used.
 
 Turner-Warwick (1998) discusses potential difficulties in establishing attribution and causality in IPF. She observes that there is variation in clinical practice with respect to the standard applied to exclude IPF; some clinicians exclude IPF when exposure to a potential cause is identified, others only when there is clear exposure to an established cause. She explains that diagnosis based on radiologic and clinical findings, and not on lung biopsy or bronchioalveolar lavage, may result in initiating agents for disease being overlooked. Further, that exposures such as asbestos, silica, coal,
 graphite, hard metal, and avian proteins, may result in disease that can not be differentiated from IPF.[@Turner-Warwick1998]
