@@ -47,7 +47,7 @@ A similar correlation with occupational exposure history, overall downward trend
 
 ### Historic workplace measurements
 
-Occupational hygenists have recorded a large numbers of workplace measurements of asbestos in different settings, at different times, using a variety of different means. These measurements reside in national databases such as the HSE National Exposure Database[@Burns1989], and EV@LUTIL[@Orlowski2015], in the published literature, in unpublished company records.
+Occupational hygenists have recorded a large numbers of workplace measurements of asbestos in different settings, at different times, using a variety of different means. These measurements reside in national databases such as the HSE National Exposure Database[@Burns1989], and EV@LUTIL[@Orlowski2015], in the published literature, and in unpublished company records.
 
 The use of different means of making workplace assessments resulting in difficulties with respect to the accuracy and comparability of measurements has been highlighted. For example, instruments that count particles rather than asbestos fibres have been used and there is no established conversion factor.[@Peto1985] Phase contrast microscopy has also been used which is less sensitive that scanning electron microscopy, which is in turn less senisitive than transmission electron microscopy and energy-dispersive x-ray analysis.[@ATSDR2001] 
 
@@ -55,16 +55,18 @@ Where era and task specific workplace exposure data matching a particular patien
 
 Measurements have found greater utility in a research setting where they can help to quantify risk and inform regulatory policy and compliance in specific workplace settings, for example, in car mechanics[@Blake2006] or skilled craftsmen.[@Williams2007]
 
+Temporal trend of exposure databases can be used to estimate historic levels in the precence of missing data.[@Chung2015]
+
+
 ### Exposure reconstruction
 
 Modern asbestos exposure reconstruction methods combine a patients lifetime occupational history with available exposure measurements to arrive at a quantitative estimate of cummulative exposure.
 
-
-[@Sahmel2010]
+Sahmel et al[@Sahmel2010] comprehensively review exposure reconstuction approaches. 
 
 [@Chung2015]
 
-[@Rasmuson2014]
+cummulative retrospective exposure assessment correlates with asbestos lung burden analysis[@Rasmuson2014]
 
 
 [@Cherrie2018]
@@ -88,7 +90,11 @@ One recent novel JEM[@Rake2009] assigned risk of exposure using occupational mor
 #### Proportional mortality ratios for pleural mesothelioma 
 
 add 'validation' thingy with lung bx
- 
+
+### Self-reported exposure
+
+[@Gramond2012] good overview of shortcomings of this approach.
+
 ## Discussion
 
 guidelines
@@ -114,6 +120,8 @@ inter-rater agreement, reliability, precision vs accuracy
 [@Burdorf2011] quality criteria for exposure assessment 
 
 [@Teschke2002]
+
+overview of comparative studies [@Gramond2012]
 
 ## Conclusion
 
