@@ -6,22 +6,25 @@ Reviews asbestos exposure assessment with particular reference to using job titl
 IIAC say asbestosis can be diagnosed on basis of clinical basis of interstitial pulmonary fibrosis and a history of substantial asbestos exposure.
 
 (Rake2009) Substantial asbestos exposure was defined as working with or disturbing AIB, sprayed coatings, lagging, other asbestos insulation or raw asbestos.
+
+what is exposure? biological exposure etc
 -->
 
 ## Introduction
 
 Asbestos related respiratory disease is initiated by inhalation of asbestos fibres. In the UK clinically significant asbestos exposure is largely occupational and, as a result of asbestos control legislation, historic. 
 
-Occupational asbestos exposure can be assessed quantitatively by sampling ambient air at a workplace and calculating a fibre count using microscopy. Alternatively, because inhaled asbestos fibres persist in the lung they can be sampled by lung biopsy or bronchoalveolar lavage. 
+Occupational asbestos exposure can be assessed quantitatively by sampling ambient air at a workplace and calculating a fibre count using microscopy. Alternatively, because inhaled asbestos fibres persist in the lung they can be sampled by lung biopsy, bronchoalveolar lavage, or at autopsy. 
 
-Historic workplace measurments are a valuable resource for assessing exposure but are limited in several ways. Measurements are not available for many occupations, where measurements are available they are dependant on working practices and measurment technique at the time of assessment and do not necessarily generalize well. 
+Historic workplace measurments are a valuable resource for assessing exposure but are limited in several ways. Measurements are not available for many occupations, where measurements are available they are dependant on working practices and measurment technique at the time of assessment do not necessarily generalize well. 
 
 Measurement of asbestos fibres in lung tissue by means of biopsy or bronchoalveolar lavage is invasive and both procedures carry the risk of serious complication including death. Additionally, the biopersistance of asbestos fibres is variable, counts are sensitive to techniques used, and establishing appropriate references ranges is challenging.[@DeVuyst1998] 
 
 Modern validated quantitative exposure reconstruction methods integrate historic workplace measurements with simulated workplace measurements and an individuals recollection of job processes he or she has carried out during their working life.[@Cherrie1999]
+
 Finally, job-exposure matricies (JEMs) are widely used in occupational epidemiology studies to assess exposure to potential hazards. These assign levels of exposure to health hazards on the basis of job title.  
 
-The asbestos exposure assessment literature is recognised to be at risk of bias arising from its economic importance to industrial and medicolegal actors. 
+The asbestos exposure assessment literature is large and recognised to be at risk of bias as a result of its economic importance to powerful industrial and medicolegal actors[@Nemery2017].  
 
 We critically review different means of asbestos exposure assessment and consider their clinical and research utility.
 
@@ -55,14 +58,25 @@ Where era and task specific workplace exposure data matching a particular patien
 
 Measurements have found greater utility in a research setting where they can help to quantify risk and inform regulatory policy and compliance in specific workplace settings, for example, in car mechanics[@Blake2006] or skilled craftsmen.[@Williams2007]
 
-Temporal trend of exposure databases can be used to estimate historic levels in the precence of missing data.[@Chung2015]
-
 
 ### Exposure reconstruction
 
-Modern asbestos exposure reconstruction methods combine a patients lifetime occupational history with available exposure measurements to arrive at a quantitative estimate of cummulative exposure.
+Sahmel et al[@Sahmel2010] propose a seven-step framework (see Figure \ref{ssframework}) which they use to enumerate and critique exposure reconstuction approaches.
 
-Sahmel et al[@Sahmel2010] comprehensively review exposure reconstuction approaches. 
+Reconstruction techniques may be quanitative, semi-quantitative, or qualitive. Quantitative exposure reconstruction bases exposure estimates on data from similar (historic or current) exposure scenarios or simulation studies. Semi-quantitative exposure reconstruction bases exposure estimates on exposure data matrices (using a job-exposure matrix) and/or exposure determinants (using an exposure model). Qualatative exposure reconstruction bases exposure estimates on the expert judgement of an industrial hygeinist and self reported exposures.
+
+Examples of quantitative asb historic studies
+Examples of simulate asb studies (advantage that can bring modern measurment techniques to bear)
+
+semiquantiative techniques often called jems 
+
+
+
+
+
+![Seven step framework for exposure reconstruction\label{ssframework}](source/figures/ssframework.png){ width=50% }
+
+
 
 [@Chung2015]
 
@@ -81,18 +95,59 @@ The   paper describes a potentially valuable exposure assessment method for risk
 
    [@Rasmuson2014]
 
-### Job-exposure matrices 
+#### Job-exposure matrices 
 
 [@Oyen2015][@Peters2016]
+[@Ahrens1993] pros/cons jems
+[@Orlowski1993] source of error jems
 
-One recent novel JEM[@Rake2009] assigned risk of exposure using occupational mortality statistics for pleural mesothelioma. Because pleural mesothelioma in men is nearly entirely attributable to occupational asbestos exposure, pleural mesothelioma is rapidly fatal, and death certificates record occupation in addition to cause of death, the proportional mortality ratio for pleural mesothelioma (number of deaths due to pleural mesothelioma/total number of deaths) can serve as proxy for average asbestos exposure in a particular occupation. 
+
+what are jems
+
+asbestos examples 
+
+what are their strenghts and weakness
+
+research and clinical utility
 
 #### Proportional mortality ratios for pleural mesothelioma 
 
-add 'validation' thingy with lung bx
+One recent novel JEM[@Rake2009] assigned risk of exposure using occupational mortality statistics for pleural mesothelioma. Because pleural mesothelioma in men is nearly entirely attributable to occupational asbestos exposure, pleural mesothelioma is rapidly fatal, and death certificates record occupation in addition to cause of death, the proportional mortality ratio for pleural mesothelioma (number of deaths due to pleural mesothelioma/total number of deaths) can serve as proxy for average asbestos exposure in a particular occupation. 
 
-### Self-reported exposure
+? stick in table of PMRs
 
+add 'validation' thingy with lung bx [gilham etc]
+
+#### Exposure modelling approaches
+
+what are exposure model approaches 
+
+what are their strenghts and weakness
+
+research and clinical utility
+
+asbestos examples
+
+
+Exposure modelling approaches typically modify existing measurment data on the basis of exposure determinant knowledge. 
+
+A common conceptual framework for this is the source-receptor model (link a pic).
+
+
+
+source receptor model e.g [@Tielemans2008] ?smith
+
+
+Temporal trends seen in the limit of detection (LOD) data in exposure databases tend to track regulatory controls and can be used to estimate historic exposure levels in the absebce of data by interpolation.[@Chung2015]
+
+#### Self-reported exposure
+
+what are self reported exposures
+
+strengths and weakness
+
+research and clinical utlity
+    
 [@Gramond2012] good overview of shortcomings of this approach.
 
 ## Discussion
@@ -109,13 +164,13 @@ jems dont take account of variation in job tasks
 
 include ANT on attribution from parkes
 
+[@Sahmel2010] point out several important considerations for the use of historical industrial hygeine measurements. Job or tasks for which there was a contempranously exposure concern were more likely to be subject to regulatory exposure control and sampled to demonstrate compliance. 
+
+
 [@Burstyn2011]
 can be an impossible task 
 exposure assessment methods limited
 inter-rater agreement, reliability, precision vs accuracy
-
-[@Ahrens1993] pros/cons jems
-[@Orlowski1993] source of error jems
 
 [@Burdorf2011] quality criteria for exposure assessment 
 

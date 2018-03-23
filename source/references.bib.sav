@@ -4974,4 +4974,15 @@ online version more detailed },
   revised         = {2014-05-15},
 }
 
+@Article{mith1991exposure,
+  author    = {Smith, Thomas J and Hammond, S Katharine and Hallock, Marilyn and Woskie, Susan R},
+  title     = {Exposure assessment for epidemiology: characteristics of exposure},
+  journal   = {Applied Occupational and Environmental Hygiene},
+  year      = {1991},
+  volume    = {6},
+  number    = {6},
+  pages     = {441--447},
+  publisher = {Taylor \& Francis},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
