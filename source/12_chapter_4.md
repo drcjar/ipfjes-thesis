@@ -16,7 +16,7 @@ Asbestos related respiratory disease is initiated by inhalation of asbestos fibr
 
 Occupational asbestos exposure can be assessed quantitatively by sampling ambient air at a workplace and calculating a fibre count using microscopy. Alternatively, because inhaled asbestos fibres persist in the lung they can be sampled by lung biopsy, bronchoalveolar lavage, or at autopsy. 
 
-Historic workplace measurments are a valuable resource for assessing exposure but are limited in several ways. Measurements are not available for many occupations, where measurements are available they are dependant on working practices and measurment technique at the time of assessment do not necessarily generalize well. 
+Historic workplace measurments are a valuable resource for assessing exposure but are limited in several ways. Measurements are not available for many occupations, where measurements are available they are dependant on working practices and measurment technique at the time of assessment and do not necessarily generalize well. 
 
 Measurement of asbestos fibres in lung tissue by means of biopsy or bronchoalveolar lavage is invasive and both procedures carry the risk of serious complication including death. Additionally, the biopersistance of asbestos fibres is variable, counts are sensitive to techniques used, and establishing appropriate references ranges is challenging.[@DeVuyst1998] 
 
@@ -24,7 +24,7 @@ Modern validated quantitative exposure reconstruction methods integrate historic
 
 Finally, job-exposure matricies (JEMs) are widely used in occupational epidemiology studies to assess exposure to potential hazards. These assign levels of exposure to health hazards on the basis of job title.  
 
-The asbestos exposure assessment literature is large and recognised to be at risk of bias as a result of its economic importance to powerful industrial and medicolegal actors[@Nemery2017].  
+The asbestos exposure assessment literature presents difficulties for review because it is large and recognised to be at risk of bias as a result of its economic importance to powerful industrial and medicolegal actors[@Nemery2017].  
 
 We critically review different means of asbestos exposure assessment and consider their clinical and research utility.
 
@@ -40,9 +40,9 @@ The first report of fibrosis of the lung due to asbestos dust[@Cooke1924] includ
 
 The demonstration of asbestos fibres on lung biopsy in the context of pulmonary fibrosis is clearly supportive of the diagnosis of asbestosis. However, a failure to demonstrate fibres can not be used to rule out asbestos exposure because fibres, particularly chyrostile fibres, may be cleared from the lung and counting methods have a significant false-negative rate.[@DeVuyst1998] 
 
-Despite this recent 2014 Helsinki guidelines[@Wolff2015] and UK Royal College of Pathologist guidelines appear to suggest that a clear history of substantial occupational asbestos exposure is insufficient for diagnosis and that the absence of asbestos bodies or fibre counts above a certain threshold might be used to rule out a the diagnosis. The shortcomings of such an approach highlighted above are also described by responses to the Helsinki guideline.[@Hammar2015][@Baur2016][@Baur2017] 
+Despite this, recent 2014 Helsinki guidelines[@Wolff2015] and UK Royal College of Pathologist guidelines appear to suggest that a clear history of substantial occupational asbestos exposure is insufficient for diagnosis and that the absence of asbestos bodies or fibre counts above a certain threshold might be used to rule out a the diagnosis. The shortcomings of such an approach highlighted above are also described by responses to the Helsinki guideline.[@Hammar2015][@Baur2016][@Baur2017] 
 
-As alluded to previously lung biopsy also carries significant health risks, particularly for patients who already have compromised lung function. Therefore it can not be justified solely on medico-legal grounds.[@Baur2014] Therefore, the clinical utility of lung biospy and bronchoalveolar lavage is limited to ruling in asbestosis when a suggestive exposure history and radiology are lacking.
+As alluded to previously lung biopsy also carries significant health risks, particularly for patients who already have compromised lung function and it can not be justified solely on medico-legal grounds.[@Baur2014] Therefore, the clinical utility of lung biospy and bronchoalveolar lavage is limited to ruling in asbestosis when a suggestive exposure history and radiology are lacking.
 
 In a research context lung biopsy and brochoalveolar lavage have provided valuable population level insights. Lung biopsy asbestos fibre counts have been examined in a UK case-control study where mesothelioma cases were compared with lung cancer controls. Fibre counts were found to be higher in groups with greater occupational risk (as defined by PMR), providing additional support for the pre-eminance of an occupational history.[@Rake2009][@Gilham2015] In a follow up study asbestos fibre counts from unselected surgically treated pneumothorax patients were used to demonstrated that population amphibole burden is falling and is proportional to mesothelioma mortality.[@Gilham2018]
 
@@ -66,38 +66,23 @@ Sahmel et al[@Sahmel2010] propose a seven-step framework (see Figure \ref{ssfram
 Reconstruction techniques may be quanitative, semi-quantitative, or qualitive. Quantitative exposure reconstruction bases exposure estimates on data from similar (historic or current) exposure scenarios or simulation studies. Semi-quantitative exposure reconstruction bases exposure estimates on exposure data matrices (using a job-exposure matrix) and/or exposure determinants (using an exposure model). Qualatative exposure reconstruction bases exposure estimates on the expert judgement of an industrial hygeinist and self reported exposures.
 
 Examples of quantitative asb historic studies
+
 Examples of simulate asb studies (advantage that can bring modern measurment techniques to bear)
-
-semiquantiative techniques often called jems 
-
-
-
 
 
 ![Seven step framework for exposure reconstruction\label{ssframework}](source/figures/ssframework.png){ width=50% }
 
 
-
-[@Chung2015]
-
-cummulative retrospective exposure assessment correlates with asbestos lung burden analysis[@Rasmuson2014]
-
-
-[@Cherrie2018]
-
-
-
-
-The   paper describes a potentially valuable exposure assessment method for risk stratifying asbestos exposed workers to optimize mesothelioma screening efforts. The exposure assessment model is logical and the validation data is compelling. Theoretically the model would result in a more granular estimation of exposure than alternative estimation methods relying on job-title alone. The approach is limited by the relatively small number of industry-specific data points used for
-   validation which is unavoidable because of the scarcity of exposure measurement data. 
-
-   [@Cherrie2018]
-
-   [@Rasmuson2014]
-
 #### Job-exposure matrices 
 
-[@Oyen2015][@Peters2016]
+Several job-exposure matrices that deal with asbestos have been reported. Pannett et al's 1985 job-exposure matrix for use in population studies in England and Wales[@Pannett1985] found good agreement between job-title assigned categories of exposure (none, low, moderate, high) for asbestos and direct review of the original occupational history.
+
+The Finish Information System on Occupational Exposure (FINJEM)[@Kauppinen2014] covers exposure to 84 different agents, including asbestos, for 311 jobs across 9 periods and spans 1945-2012. 
+
+
+asbjem [@Oyen2015]
+synjem [@Peters2016]
+
 [@Ahrens1993] pros/cons jems
 [@Orlowski1993] source of error jems
 
@@ -120,26 +105,18 @@ add 'validation' thingy with lung bx [gilham etc]
 
 #### Exposure modelling approaches
 
-what are exposure model approaches 
+Exposure modelling approaches modify existing measurment data on the basis of knowledge of the determinants of exposure.  
+    
+A common conceptual framework for this is the source-receptor model (?link a pic) source receptor model[@Tielemans2008][@Smith1991] wherby inhalation exposure is considered in terms of an exposure source, a pathway from source to receptor, and the receptor. The model is then used to propose modifying factors such as activity emission potential, substance emission potential, localized control, worker behavior, surface contamination and respiratory protection.[@Tielemans2008]. 
 
-what are their strenghts and weakness
+Exposure modelling approaches make strong intuitive sense; it is known that there is significant within-worker and between-worker variability in occupational exposures[@Symanski2006] and, for example, room size and ventillation have been empirically shown to affect the concentration of airborne chemical exposures.[@Cherrie1999a] Further, mathmatical exposure models that take account of known exposure modifying factors to estimate past exposures have shown a good correlation with
+measured values.[@Cherrie1999]
 
-research and clinical utility
+A quantified validated historic asbestos exposure model[@Cherrie2018] has recently been developed and proposed as a means of for risk stratifying asbestos exposed workers to optimize mesothelioma screening efforts. The approach has the advantage, compared with job-exposure matrices, of providing a more granular quantified exposure assessment, sensitive to the exposure circumstances of the individual. However, the approach is limited by the fact that the individual must recall that they must recall their exposure circumstances which due to the latency of asbestos related disease may have occurred over 30 years ago. The approach is also limited by the relatively small number of industry-specific data points used for validation, though is unavoidable because of the scarcity of exposure measurement data. 
 
-asbestos examples
+Exposure modelling approaches to assessing asbestos exposure have research and clinical utility notwithstanding the limitations outlined above together with the requirement that assessors be appropriately trained.  
 
-
-Exposure modelling approaches typically modify existing measurment data on the basis of exposure determinant knowledge. 
-
-A common conceptual framework for this is the source-receptor model (link a pic).
-
-
-
-source receptor model e.g [@Tielemans2008] ?smith
-
-
-Temporal trends seen in the limit of detection (LOD) data in exposure databases tend to track regulatory controls and can be used to estimate historic exposure levels in the absebce of data by interpolation.[@Chung2015]
-
+    
 #### Self-reported exposure
 
 what are self reported exposures
