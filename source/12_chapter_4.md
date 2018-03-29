@@ -75,13 +75,18 @@ Examples of simulate asb studies (advantage that can bring modern measurment tec
 
 #### Job-exposure matrices 
 
-Several job-exposure matrices that deal with asbestos have been reported. Pannett et al's 1985 job-exposure matrix for use in population studies in England and Wales[@Pannett1985] found good agreement between job-title assigned categories of exposure (none, low, moderate, high) for asbestos and direct review of the original occupational history.
+Several job-exposure matrices that deal with asbestos have been reported. Pannett et al's 1985 job-exposure matrix for use in population studies in England and Wales[@Pannett1985] found good agreement between job-title assigned categories of exposure (none, low, moderate, high) for asbestos and direct review of the original occupational history by an expert.
 
-The Finish Information System on Occupational Exposure (FINJEM)[@Kauppinen2014] covers exposure to 84 different agents, including asbestos, for 311 jobs across 9 periods and spans 1945-2012. 
+DOM-JEM[@Peters2011] was developed for use in population based multi-centre lung cancer case-control study. It assigns job titles one of three categories of asbestos exposure (no exposure, low exposure, high exposure) based on the consensus of three independent expert rators. DOM-JEM showed poor agreement with expert assessment (K 0.17) but less hetrogenetiy. 
 
+check domjem mention in offermans
 
-asbjem [@Oyen2015]
-synjem [@Peters2016]
+The Finish Information System on Occupational Exposure (FINJEM)[@Kauppinen2014] covers exposure to 84 different agents, including asbestos, for 311 jobs across 9 periods spaning 1945-2015. Era-specific estimates of the mean level of asbestos exposure are available for 27 jobs based on expert assessment and measurement data; the exact details of the grounds for estimates are kept in a proprietary FINJEM database which is not freely available. FINJEM showed poor agreement with
+expert assessment of asbestos exposure but reasonable identification of mesothelioma risk when evaluated using the Netherlands Cohort Study.[@Offermans2012][@Offermans2014] 
+
+AsbJEM[@Oyen2015] was developed in Australia by an expert panel of three industrial hygeinists using all available exposure data. It is based on FINJEM and provides quantitative estimates of annual exposure for 224 occupations across three time periods spanning 1943 to 2004.
+
+SYN-JEM[@Peters2016] describes a JEM developed for four carcinogens. It provides quantified asbestos exposure estimates based on 27958 personal measurements (spanning 1971-2009), a mixed effects statistical model, and an a priori categorical assessment of exposure (none, low, high). _
 
 [@Ahrens1993] pros/cons jems
 [@Orlowski1993] source of error jems
