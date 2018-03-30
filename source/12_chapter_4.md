@@ -77,36 +77,20 @@ Examples of simulate asb studies (advantage that can bring modern measurment tec
 
 Several job-exposure matrices that deal with asbestos have been reported. Pannett et al's 1985 job-exposure matrix for use in population studies in England and Wales[@Pannett1985] found good agreement between job-title assigned categories of exposure (none, low, moderate, high) for asbestos and direct review of the original occupational history by an expert.
 
-DOM-JEM[@Peters2011] was developed for use in population based multi-centre lung cancer case-control study. It assigns job titles one of three categories of asbestos exposure (no exposure, low exposure, high exposure) based on the consensus of three independent expert rators. DOM-JEM showed poor agreement with expert assessment (K 0.17) but less hetrogenetiy. 
+Rake et al[@Rake2009] assigned catergories risk of exposure (low, medium, high) using occupational mortality statistics for pleural mesothelioma. Because pleural mesothelioma in men is nearly entirely attributable to occupational asbestos exposure, pleural mesothelioma is rapidly fatal, and death certificates record occupation in addition to cause of death, the proportional mortality ratio for pleural mesothelioma (number of deaths due to pleural mesothelioma/total number of deaths) can serve as proxy for average asbestos exposure in a particular occupation. This approach has been validated in the same cohort by amphibole fibre counts.[@Gilham2015]
 
-check domjem mention in offermans
+DOM-JEM[@Peters2011] was developed for use in population based multi-centre lung cancer case-control study. It assigns job titles one of three categories of asbestos exposure (no exposure, low exposure, high exposure) based on the consensus of three independent expert rators. DOM-JEM showed poor agreement with expert assessment (\kappa = 0.17) but less hetrogenetiy. In a study applying DOM-JEM to the Netherlands Cohort Study (NCS) DOM-JEM showed poor agreement with expert assessment (K = 0.29).[@Offermans2012]  
 
 The Finish Information System on Occupational Exposure (FINJEM)[@Kauppinen2014] covers exposure to 84 different agents, including asbestos, for 311 jobs across 9 periods spaning 1945-2015. Era-specific estimates of the mean level of asbestos exposure are available for 27 jobs based on expert assessment and measurement data; the exact details of the grounds for estimates are kept in a proprietary FINJEM database which is not freely available. FINJEM showed poor agreement with
-expert assessment of asbestos exposure but reasonable identification of mesothelioma risk when evaluated using the Netherlands Cohort Study.[@Offermans2012][@Offermans2014] 
+expert assessment of asbestos exposure (\kappa = 0.23) but reasonable identification of mesothelioma risk when evaluated using the NCS.[@Offermans2012][@Offermans2014] 
 
-AsbJEM[@Oyen2015] was developed in Australia by an expert panel of three industrial hygeinists using all available exposure data. It is based on FINJEM and provides quantitative estimates of annual exposure for 224 occupations across three time periods spanning 1943 to 2004.
+AsbJEM[@Oyen2015] was developed in Australia by an expert panel of three industrial hygeinists using all available exposure data. It is based on FINJEM and provides quantitative estimates of annual exposure for 224 occupations across three time periods spanning 1943 to 2004. It also showed poor agreement with expert assessment of asbestos exposure (\kappa = 0.10)
 
-SYN-JEM[@Peters2016] describes a JEM developed for four carcinogens. It provides quantified asbestos exposure estimates based on 27958 personal measurements (spanning 1971-2009), a mixed effects statistical model, and an a priori categorical assessment of exposure (none, low, high). _
+SYN-JEM[@Peters2016] describes a JEM developed for four carcinogens. It provides quantified asbestos exposure estimates based on 27958 personal measurements (spanning 1971-2009), a mixed effects statistical model, and an a priori categorical assessment of exposure (none, low, high). Cherrie et al[@Cherrie2018] point out that SYN-JEM provides little contrast in the modelled exposure level between categories as the geometric mean for low jobs was 0.061 fibres/ml and for high jobs 0.074 fibres/ml and that there are wide variations in regional estimates that are difficult to explain. 
 
-[@Ahrens1993] pros/cons jems
-[@Orlowski1993] source of error jems
+JEMS are generally taken to be superior to direct questions about exposures because they are cheaper, have greater validity, and are less vulnerable to differntial recall. This is because recall of occupations is not influenced by disease status, coding of occupation is blind to case-control status, and translation of codes into exposure is standardized and can not be influence by disease status of a subject.[@Ahrens1993][@Teschke2002][@Gramond2012] 
 
-
-what are jems
-
-asbestos examples 
-
-what are their strenghts and weakness
-
-research and clinical utility
-
-#### Proportional mortality ratios for pleural mesothelioma 
-
-One recent novel JEM[@Rake2009] assigned risk of exposure using occupational mortality statistics for pleural mesothelioma. Because pleural mesothelioma in men is nearly entirely attributable to occupational asbestos exposure, pleural mesothelioma is rapidly fatal, and death certificates record occupation in addition to cause of death, the proportional mortality ratio for pleural mesothelioma (number of deaths due to pleural mesothelioma/total number of deaths) can serve as proxy for average asbestos exposure in a particular occupation. 
-
-? stick in table of PMRs
-
-add 'validation' thingy with lung bx [gilham etc]
+Orlowski et al[@Orlowski1993] compared two JEMs with a structured job specific questionnaire (SQ) in a lung cancer case-control study. They found that agreement between the JEMs and the SQ was poor (\kappa = 0.23-0.27) and suggested that the sources of error for JEMs were loss of information due to the use of job codes as surrogates for job task descriptions and the insuffuciency of published data on occupational asbestos exposure.
 
 #### Exposure modelling approaches
 
@@ -124,14 +108,22 @@ Exposure modelling approaches to assessing asbestos exposure have research and c
     
 #### Self-reported exposure
 
-what are self reported exposures
+Self-reported exposures are a subjects direct report of what they have been exposed to. Typically this is elicited by asking about a specific exposure via questionnaire or interview. 
+
+Most studies comparing self-reported exposures to industrial hygeine measurements have found significant associations but wide variation in the proportions of variance explained by the self reports. This is not surprising given that it is known there is significant within-worker and between-worker variability in occupational exposures. [@Teschke2002][@Symanski2006] 
+
+Two studies comparing self-reported exposures with JEMs found self-reported exposures were more sensitive and of similar or wrose specificity. Self-reported exposures have been shown to be more accurate for easily sensed exposures such as solvents with a strong smell, dusts with larger particle sizes, and vibrations that can be felt.[@Teschke2002]
+
+Several comparative studies have found that self-reporting to have less validity than assessment based on job history, for example using a JEM, or industrial hygenist assessment.
+
 
 strengths and weakness
 
 research and clinical utlity
     
-[@Gramond2012] good overview of shortcomings of this approach.
+good overview of shortcomings of this approach.
 
+?
 ## Discussion
 
 guidelines
