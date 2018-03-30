@@ -108,13 +108,14 @@ Exposure modelling approaches to assessing asbestos exposure have research and c
     
 #### Self-reported exposure
 
-Self-reported exposures are a subjects direct report of what they have been exposed to. Typically this is elicited by asking about a specific exposure via questionnaire or interview. Most studies comparing self-reported exposures to industrial hygeine measurements have found significant associations but wide variation in the proportions of variance explained by the self reports. This is not surprising given that it is known there is significant within-worker and between-worker variability in occupational exposures. [@Teschke2002][@Symanski2006] 
+Self-reported exposures are a subjects direct report of what they have been exposed to. Typically this is elicited by asking about a specific exposure via questionnaire or interview. Differential recall of self-reported exposures according to disease status is a concern but few studies have found evidence of this and it appears to be less of an issue when prompted responses, rather than volunteered, responses about occupational exposures are used.[@Teschke2000] 
+
+Most studies comparing self-reported exposures to industrial hygeine measurements have found significant associations but wide variation in the proportions of variance explained by the self reports. This is not surprising given that it is known there is significant within-worker and between-worker variability in occupational exposures. [@Teschke2002][@Symanski2006] 
 
 Two studies comparing self-reported exposures with JEMs found self-reported exposures were more sensitive and of similar or wrose specificity. Self-reported exposures have been shown to be more accurate for easily sensed exposures such as solvents with a strong smell, dusts with larger particle sizes, and vibrations that can be felt.[@Teschke2002]
 
-Several comparative studies have found self-reporting to have less validity than assessment based on job history, for example using a JEM, or industrial hygenist assessment.
 
-Differential recall of self-reported exposures according to disease status is a concern but few studies have found evidence of this and it appears to be less of an issue when prompted responses, rather than volunteered, responses about occupational exposures are used.[@Teschke2000] 
+Several comparative studies have found that self-reporting to have less validity than assessment based on job history, for example using a JEM, or industrial hygenist assessment.
 
 
 strengths and weakness
