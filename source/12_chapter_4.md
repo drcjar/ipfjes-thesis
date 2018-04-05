@@ -20,9 +20,11 @@ Historic workplace measurments are a valuable resource for assessing exposure bu
 
 Measurement of asbestos fibres in lung tissue by means of biopsy or bronchoalveolar lavage is invasive and both procedures carry the risk of serious complication including death. Additionally, the biopersistance of asbestos fibres is variable, counts are sensitive to techniques used, and establishing appropriate references ranges is challenging.[@DeVuyst1998] 
 
-Modern validated quantitative exposure reconstruction methods integrate historic workplace measurements with simulated workplace measurements and an individuals recollection of job processes he or she has carried out during their working life.[@Cherrie1999]
+Expert assessment and exposure modelling approaches integrate historic workplace measurements with simulated workplace measurements and an individuals recollection of job processes he or she has carried out during their working life.[@Cherrie1999]
 
-Finally, job-exposure matricies (JEMs) are widely used in occupational epidemiology studies to assess exposure to potential hazards. These assign levels of exposure to health hazards on the basis of job title.  
+Job-exposure matricies (JEMs) are widely used in occupational epidemiology studies to assess exposure to potential hazards. These assign levels of exposure to health hazards on the basis of job title.  
+
+Finally, self-reported exposures are a subjects direct report of what they have been exposed to, these are usually elicited by questionnaire or at interview.
 
 The asbestos exposure assessment literature presents difficulties for review because it is large and recognised to be at risk of bias as a result of its economic importance to powerful industrial and medicolegal actors[@Nemery2017].  
 
@@ -127,6 +129,7 @@ guidelines
 IIRAC
 ANT
 
+whats the gold standard?
 
 Attribution, specifically the required threshold of asbestos exposure (as assessed by various means) that must be crossed before it is possible to say that, for example, scarring of the lung with an usual interstital pneumonia pattern in an individual patient is caused by asbestos exposure, carries medicolegal in addition to scientific importance has not been well established for several assessment methodolgies.
 
