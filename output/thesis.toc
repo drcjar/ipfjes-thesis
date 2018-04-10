@@ -27,26 +27,26 @@
 \contentsline {subsection}{\numberline {4.2.2}Subsection 2}{10}{subsection.4.2.2}
 \contentsline {section}{\numberline {4.3}Results}{10}{section.4.3}
 \contentsline {section}{\numberline {4.4}Discussion}{10}{section.4.4}
-\contentsline {section}{\numberline {4.5}Conclusion}{10}{section.4.5}
-\contentsline {chapter}{\numberline {5}Research containing a table}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{13}{section.5.1}
-\contentsline {section}{\numberline {5.2}Method}{13}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Subsection 1}{14}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Subsection 2}{14}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Results}{14}{section.5.3}
-\contentsline {section}{\numberline {5.4}Discussion}{15}{section.5.4}
-\contentsline {section}{\numberline {5.5}Conclusion}{15}{section.5.5}
-\contentsline {chapter}{\numberline {6}Final research study}{16}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{16}{section.6.1}
-\contentsline {section}{\numberline {6.2}Method}{16}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Subsection 1}{16}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Subsection 2}{17}{subsection.6.2.2}
-\contentsline {section}{\numberline {6.3}Results}{17}{section.6.3}
-\contentsline {section}{\numberline {6.4}Discussion}{17}{section.6.4}
-\contentsline {section}{\numberline {6.5}Conclusion}{18}{section.6.5}
-\contentsline {chapter}{\numberline {7}Conclusion}{19}{chapter.7}
-\contentsline {section}{\numberline {7.1}Thesis summary}{19}{section.7.1}
-\contentsline {section}{\numberline {7.2}Future work}{19}{section.7.2}
-\contentsline {chapter}{Appendix 1: Some extra stuff}{21}{chapter*.8}
-\contentsline {chapter}{Appendix 2: Some more extra stuff}{22}{chapter*.9}
-\contentsline {chapter}{References}{23}{chapter*.10}
+\contentsline {section}{\numberline {4.5}Conclusion}{11}{section.4.5}
+\contentsline {chapter}{\numberline {5}Research containing a table}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}Method}{12}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Subsection 1}{13}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Subsection 2}{13}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Results}{13}{section.5.3}
+\contentsline {section}{\numberline {5.4}Discussion}{14}{section.5.4}
+\contentsline {section}{\numberline {5.5}Conclusion}{14}{section.5.5}
+\contentsline {chapter}{\numberline {6}Final research study}{15}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{15}{section.6.1}
+\contentsline {section}{\numberline {6.2}Method}{15}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Subsection 1}{15}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Subsection 2}{16}{subsection.6.2.2}
+\contentsline {section}{\numberline {6.3}Results}{16}{section.6.3}
+\contentsline {section}{\numberline {6.4}Discussion}{16}{section.6.4}
+\contentsline {section}{\numberline {6.5}Conclusion}{17}{section.6.5}
+\contentsline {chapter}{\numberline {7}Conclusion}{18}{chapter.7}
+\contentsline {section}{\numberline {7.1}Thesis summary}{18}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future work}{18}{section.7.2}
+\contentsline {chapter}{Appendix 1: Some extra stuff}{20}{chapter*.8}
+\contentsline {chapter}{Appendix 2: Some more extra stuff}{21}{chapter*.9}
+\contentsline {chapter}{References}{22}{chapter*.10}

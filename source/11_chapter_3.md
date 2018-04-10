@@ -1,13 +1,15 @@
 # Mortality analysis: do mortality trends support an occupational cause?    
 
 <!-- 
-what sort of spatio-temporal association is seen for mesothelioma? this is fundamentally same problem as mapping meso. revisit when have done meso work.    
+what sort of spatio-temporal association is seen for mesothelioma? this is fundamentally same problem as mapping meso. revisit when have done meso work.
 
 should add correlation coefficient and poisson regression results
 
 should revisit with cosetta support and perhaps after have done some reading
 
 could also bring in european mortality data c.f bts abstract and chris barber import data paper
+
+and wikipedia?
 -->
 
 
@@ -15,7 +17,7 @@ could also bring in european mortality data c.f bts abstract and chris barber im
 
 The incidence of Idiopathic pulmonary fibrosis (IPF) has been increasing at a rate of 5% per annum since 2000. By definition, the diagnosis of IPF is not made in the presence of an identifiable cause. However, the distribution of the disease in the population (more common in men, manual workers, and those living in more industrial areas of the country) suggests a causal contribution from an occupational or environmental source.
 
-It is hypothesised that a proportion of Idiopathic Pulmonary Fibrosis (IPF) cases are due to occult environmental or occupational exposures to asbestos dust. This would be expected to result in a spatio-temporal association between IPF, Mesothelioma, and Asbestosis mortality patterns coinciding with asbestos exposure. It would also be expected to produce a birth cohort effect   
+It is hypothesised that a proportion of Idiopathic Pulmonary Fibrosis (IPF) cases are due to occult environmental or occupational exposures to asbestos dust. This would be expected to result in a spatio-temporal association between IPF, Mesothelioma, and Asbestosis mortality patterns coinciding with asbestos exposure. It would also be expected to produce a birth cohort effect.
 
 Our aim was to examine trends in IPF, Mesothelioma, and Asbestosis mortality data for evidence of cohort effect and association.
 

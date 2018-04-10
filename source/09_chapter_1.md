@@ -17,7 +17,7 @@ My specific research questions are:
 1. Does a dose-response relationship exist for occupational asbestos exposure and IPF? 
 2. Does the presence of asbestos exposure modify the association between IPF and rs35705950? 
 
-# Data sources 
+## Data sources 
 
 - For the literature review and meta-analysis of occupational exposures in IPF I consider all published IPF case-control studies reporting on occupational exposures. 
 - For the mortality analysis I use data obtained from the Office of National Statistics, Health and Safety Executive, and the World Health Organisation Mortality Database.
