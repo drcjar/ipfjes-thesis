@@ -11,10 +11,13 @@ Third, advances in our understanding of IPF susceptibility now permit study of h
 
 ## Method
 
-Vivamus consectetur, velit in congue lobortis, massa massa lacinia urna, sollicitudin semper ipsum augue quis tortor. Donec quis nisl at arcu volutpat ultrices. Maecenas ex nibh, consequat ac blandit sit amet, molestie in odio. Morbi finibus libero et nisl dignissim, at ultricies ligula pulvinar.
+### DNA Extraction 
+We extracted DNA from collected 10ml EDTA blood samples using a GE Healthcare Nucleon BACC3 Genomic DNA Extraction Kit (see appendix 2 for IPFJES DNA Extraction Protocol).  
+(add detail on principles)
 
-
-C
+### Genotyping
+We used a QuantStudio TM 7 Flex Real-Time PCR system with a TaqMan SNP genotyping assay for MUC5b rs35705950 to genotype samples (see appendix 2 for IPFJES Genotyping Protocol). 
+(add detail on principles)
 
 ## Results
 

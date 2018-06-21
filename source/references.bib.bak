@@ -145,27 +145,25 @@
 }
 
 @Article{Awadalla2012,
-  Title                    = {Occupational and environmental risk factors for idiopathic pulmonary fibrosis in Egypt: a multicenter case-control study.},
-  Author                   = {N. J. Awadalla and A. Hegazy and R. A. Elmetwally and I. Wahby},
-  Journal                  = {Int J Occup Environ Med},
-  Year                     = {2012},
-
-  Month                    = {Jul},
-  Number                   = {3},
-  Pages                    = {107--116},
-  Volume                   = {3},
-
-  Abstract                 = {Despite the advances in medical therapy and technology, the prognosis of idiopathic pulmonary fibrosis (IPF) remains poor and the need for disease prevention based on identifying the risk factors becomes mandatory. Occupational and environmental exposures were studied in several countries and found to play important role in the disease development. However, in Egypt, a little attention has been paid to study the effect of these factors in the disease development.To identify the occupational and environmental risk factors associated with the development of IPF in Egypt.A multicenter hospital-based case-control study was carried out in chest hospitals affiliated to three Egyptian cities-Cairo, Tanta and Mansoura. Subjects were 201 patients with confirmed IPF (cases) and 205 age-, sex- and residence-matched controls. Data on occupational and environmental factors were obtained from a questionnaire. Multiple logistic regression analysis was used to determine the independent risk factors of IPF in both sexes for single factors with adjustment for age, residence and smoking status.Compared with the controls, the risk of IPF in male workers was observed to increase significantly in chemical and petrochemical industries and carpentry and wood working (OR = 2.56, 95\% CI: 1.02-7.01), and with occupational exposures to wood dust and wood preservatives. Among female workers, a significant increase was observed in farming (OR = 3.34, 95\% CI: 1.17-10.12), raising birds and occupational exposures to animal feeds, products and dusts and pesticides. Risk of IPF decreased significantly in male workers and insignificantly among female workers in sales and clerical related activities. The environmental exposures to birds and cats were significantly associated with elevated risk of IPF development in both sexes.In Egypt, farming, raising birds and wood working are important risk factors for the development of IPF.},
-  File                     = {Awadalla2012.pdf:Awadalla2012.pdf:PDF},
-  Institution              = {Department of Public Health and Preventive Medicine, Mansoura University, Egypt. njgirgis@yahoo.co.uk},
-  Keywords                 = {Adult; Agricultural Workers' Diseases, epidemiology; Case-Control Studies; Egypt, epidemiology; Female; Humans; Idiopathic Pulmonary Fibrosis, epidemiology; Male; Middle Aged; Occupational Exposure; Risk Factors; Wood},
-  Language                 = {eng},
-  Medline-pst              = {ppublish},
-  Owner                    = {sam},
-  Pii                      = {140},
-  Pmid                     = {23022860},
-  Review                   = {subjects were 201 patients with ipf (cases) + 205 age/sex/residence matched controls data on occupation and enviromental factors obtained from questionnaire environmental exposure to birds and cats assoc with dev of ipf},
-  Timestamp                = {2014.03.25}
+  author      = {N. J. Awadalla and A. Hegazy and R. A. Elmetwally and I. Wahby},
+  title       = {Occupational and environmental risk factors for idiopathic pulmonary fibrosis in Egypt: a multicenter case-control study.},
+  journal     = {Int J Occup Environ Med},
+  year        = {2012},
+  language    = {eng},
+  volume      = {3},
+  number      = {3},
+  month       = {Jul},
+  pages       = {107--116},
+  abstract    = {Despite the advances in medical therapy and technology, the prognosis of idiopathic pulmonary fibrosis (IPF) remains poor and the need for disease prevention based on identifying the risk factors becomes mandatory. Occupational and environmental exposures were studied in several countries and found to play important role in the disease development. However, in Egypt, a little attention has been paid to study the effect of these factors in the disease development.To identify the occupational and environmental risk factors associated with the development of IPF in Egypt.A multicenter hospital-based case-control study was carried out in chest hospitals affiliated to three Egyptian cities-Cairo, Tanta and Mansoura. Subjects were 201 patients with confirmed IPF (cases) and 205 age-, sex- and residence-matched controls. Data on occupational and environmental factors were obtained from a questionnaire. Multiple logistic regression analysis was used to determine the independent risk factors of IPF in both sexes for single factors with adjustment for age, residence and smoking status.Compared with the controls, the risk of IPF in male workers was observed to increase significantly in chemical and petrochemical industries and carpentry and wood working (OR = 2.56, 95\% CI: 1.02-7.01), and with occupational exposures to wood dust and wood preservatives. Among female workers, a significant increase was observed in farming (OR = 3.34, 95\% CI: 1.17-10.12), raising birds and occupational exposures to animal feeds, products and dusts and pesticides. Risk of IPF decreased significantly in male workers and insignificantly among female workers in sales and clerical related activities. The environmental exposures to birds and cats were significantly associated with elevated risk of IPF development in both sexes.In Egypt, farming, raising birds and wood working are important risk factors for the development of IPF.},
+  comment     = {subjects were 201 patients with ipf (cases) + 205 age/sex/residence matched controls data on occupation and enviromental factors obtained from questionnaire environmental exposure to birds and cats assoc with dev of ipf},
+  file        = {Awadalla2012.pdf:Awadalla2012.pdf:PDF},
+  institution = {Department of Public Health and Preventive Medicine, Mansoura University, Egypt. njgirgis@yahoo.co.uk},
+  keywords    = {Adult; Agricultural Workers' Diseases, epidemiology; Case-Control Studies; Egypt, epidemiology; Female; Humans; Idiopathic Pulmonary Fibrosis, epidemiology; Male; Middle Aged; Occupational Exposure; Risk Factors; Wood},
+  medline-pst = {ppublish},
+  owner       = {sam},
+  pii         = {140},
+  pmid        = {23022860},
+  timestamp   = {2014.03.25},
 }
 
 @Article{Bakke1991,
@@ -206,19 +204,18 @@
 }
 
 @Article{Banks1999,
-  Title                    = {Asbestos exposure, asbestosis, and lung cancer},
-  Author                   = {Banks, Daniel E and Wang, Mei-lin and Parker, John E},
-  Journal                  = {CHEST Journal},
-  Year                     = {1999},
-  Number                   = {2},
-  Pages                    = {320--322},
-  Volume                   = {115},
-
-  File                     = {Banks1999.pdf:Banks1999.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {American College of Chest Physicians},
-  Review                   = {?Browne hypothesis? that lung cancer in asbestos exposed workers was due to asbestosis and not to asbestos exposure per se. presence of both asbestosis and an excess of lung cancer in the majority of reports presented by Weiss are consistent with a dose­related effect recognition that pleural abnormalities (another marker of clinically important asbestos exposure) may well be associated with an increased risk of lung cancer leads one to speculate that lung cancer can occur at an excessive rate in populations without clinically recognized asbestosis. (we say this with lung cancer = ipf) see also doll and peto asbestos lung cancer work},
-  Timestamp                = {2015.09.29}
+  author    = {Banks, Daniel E and Wang, Mei-lin and Parker, John E},
+  title     = {Asbestos exposure, asbestosis, and lung cancer},
+  journal   = {CHEST Journal},
+  year      = {1999},
+  volume    = {115},
+  number    = {2},
+  pages     = {320--322},
+  comment   = {?Browne hypothesis? that lung cancer in asbestos exposed workers was due to asbestosis and not to asbestos exposure per se. presence of both asbestosis and an excess of lung cancer in the majority of reports presented by Weiss are consistent with a dose­related effect recognition that pleural abnormalities (another marker of clinically important asbestos exposure) may well be associated with an increased risk of lung cancer leads one to speculate that lung cancer can occur at an excessive rate in populations without clinically recognized asbestosis. (we say this with lung cancer = ipf) see also doll and peto asbestos lung cancer work},
+  file      = {Banks1999.pdf:Banks1999.pdf:PDF},
+  owner     = {sam},
+  publisher = {American College of Chest Physicians},
+  timestamp = {2015.09.29},
 }
 
 @Article{Barber2015,
@@ -448,19 +445,18 @@
 }
 
 @Article{Cabot2010,
-  Title                    = {Case 12-2010: An 89-Year-Old Man with Progressive Dyspnea},
-  Author                   = {Cabot, Richard C and Harris, Nancy Lee and Shepard, Jo-Anne O and Rosenberg, Eric S and Cort, Alice M and Ebeling, Sally H and Peters, Christine C and Kradin, Richard L and Digumarthy, Subba R and Baggish, Aaron L and others},
-  Journal                  = {N. Engl. J. Med.},
-  Year                     = {2010},
-  Number                   = {16},
-  Pages                    = {1522--1531},
-  Volume                   = {362},
-
-  File                     = {Cabot2010.pdf:Cabot2010.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Mass Medical Soc},
-  Review                   = {asbestos bodies stain blue with iron stain, nice pics case highlites need for occupational history},
-  Timestamp                = {2015.09.29}
+  author    = {Cabot, Richard C and Harris, Nancy Lee and Shepard, Jo-Anne O and Rosenberg, Eric S and Cort, Alice M and Ebeling, Sally H and Peters, Christine C and Kradin, Richard L and Digumarthy, Subba R and Baggish, Aaron L and others},
+  title     = {Case 12-2010: An 89-Year-Old Man with Progressive Dyspnea},
+  journal   = {N. Engl. J. Med.},
+  year      = {2010},
+  volume    = {362},
+  number    = {16},
+  pages     = {1522--1531},
+  comment   = {asbestos bodies stain blue with iron stain, nice pics case highlites need for occupational history},
+  file      = {Cabot2010.pdf:Cabot2010.pdf:PDF},
+  owner     = {sam},
+  publisher = {Mass Medical Soc},
+  timestamp = {2015.09.29},
 }
 
 @Article{Camidge2006,
@@ -560,20 +556,19 @@
 }
 
 @Article{Coggon1995,
-  Title                    = {Differences in occupational mortality from pleural cancer, peritoneal cancer, and asbestosis.},
-  Author                   = {Coggon, David and Inskip, Hazel and Winter, Paul and Pannett, Brain},
-  Journal                  = {Occup. Environ. Med.},
-  Year                     = {1995},
-  Number                   = {11},
-  Pages                    = {775--777},
-  Volume                   = {52},
-
-  Abstract                 = {Abstract Objective-To assess whether the increased risk of disease related to asbestos in occupations from the con- struction and engineering industries applies equally to pleural cancer, peri- toneal cancer, and asbestosis. Methods-Analysis was based on deaths among men aged 20-74 in England and Wales during 1979-80 and 1982-90. (n = 1 656 096). Information about cause of death and the last full time occupation of decedents was derived from death certifi- cates. Proportional mortality ratios (PMRs) by occupation were calculated for each of pleural cancer, peritoneal cancer, and asbestosis. Results-Altogether, 2848 deaths were attributed to cancer of the pleura, 362 to cancer of the peritoneum, and 281 to asbestosis. When occupations were ranked according to PMRs from these diseases, striking differences were found. The category of construction workers which included laggers had the highest mortality from peritoneal cancer (PMR 990, 64 deaths), but a PMR of only 160 (77 deaths) for pleural cancer. In contrast, several occupations with much higher mortality from pleural tumours had no excess of peritoneal cancer. PMRs for asbestosis related more closely to those for peritoneal than pleural cancer. Conclusions-These findings suggest that the exposure-response relations for dis- eases related to asbestos are not all linear, and that risks of pleural mesothelioma may be underestimated by simple extrap- olation from observations in cohorts with heavy exposure.},
-  File                     = {Coggon1995.pdf:Coggon1995.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd},
-  Review                   = {PMR = The proportion of deaths due to the disease of interest in the exposed population divided by the proportion of deaths due to the disease of interest in the unexposed or reference population. It is frequently converted to a percent by multiplying the ratio by 100. (PMRs) for cancer of the pleura (ICD-9 = 163), cancer of the peri- toneum (ICD-9 = 158-8 and 158-9), and asbestosis (ICD-9 = 501), PMRs for asbestosis related more closely to those for peritoneal than pleural cancer exposure-response relations for mesothelioma and asbestosis are non-linear, with the risk of pleural mesothelioma increasing relatively more steeply at low exposures but less steeply at high exposures* the risks of pleural mesothelioma may be underestimated if a linear exposure-response is assumed. This should be taken into account when control limits are reviewed.},
-  Timestamp                = {2015.09.29}
+  author    = {Coggon, David and Inskip, Hazel and Winter, Paul and Pannett, Brain},
+  title     = {Differences in occupational mortality from pleural cancer, peritoneal cancer, and asbestosis.},
+  journal   = {Occup. Environ. Med.},
+  year      = {1995},
+  volume    = {52},
+  number    = {11},
+  pages     = {775--777},
+  abstract  = {Abstract Objective-To assess whether the increased risk of disease related to asbestos in occupations from the con- struction and engineering industries applies equally to pleural cancer, peri- toneal cancer, and asbestosis. Methods-Analysis was based on deaths among men aged 20-74 in England and Wales during 1979-80 and 1982-90. (n = 1 656 096). Information about cause of death and the last full time occupation of decedents was derived from death certifi- cates. Proportional mortality ratios (PMRs) by occupation were calculated for each of pleural cancer, peritoneal cancer, and asbestosis. Results-Altogether, 2848 deaths were attributed to cancer of the pleura, 362 to cancer of the peritoneum, and 281 to asbestosis. When occupations were ranked according to PMRs from these diseases, striking differences were found. The category of construction workers which included laggers had the highest mortality from peritoneal cancer (PMR 990, 64 deaths), but a PMR of only 160 (77 deaths) for pleural cancer. In contrast, several occupations with much higher mortality from pleural tumours had no excess of peritoneal cancer. PMRs for asbestosis related more closely to those for peritoneal than pleural cancer. Conclusions-These findings suggest that the exposure-response relations for dis- eases related to asbestos are not all linear, and that risks of pleural mesothelioma may be underestimated by simple extrap- olation from observations in cohorts with heavy exposure.},
+  comment   = {PMR = The proportion of deaths due to the disease of interest in the exposed population divided by the proportion of deaths due to the disease of interest in the unexposed or reference population. It is frequently converted to a percent by multiplying the ratio by 100. (PMRs) for cancer of the pleura (ICD-9 = 163), cancer of the peri- toneum (ICD-9 = 158-8 and 158-9), and asbestosis (ICD-9 = 501), PMRs for asbestosis related more closely to those for peritoneal than pleural cancer exposure-response relations for mesothelioma and asbestosis are non-linear, with the risk of pleural mesothelioma increasing relatively more steeply at low exposures but less steeply at high exposures* the risks of pleural mesothelioma may be underestimated if a linear exposure-response is assumed. This should be taken into account when control limits are reviewed.},
+  file      = {Coggon1995.pdf:Coggon1995.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd},
+  timestamp = {2015.09.29},
 }
 
 @Article{Cole1979,
@@ -705,19 +700,18 @@
 }
 
 @Article{Darnton2012,
-  Title                    = {Mortality from asbestosis and mesothelioma in Britain by birth cohort},
-  Author                   = {Darnton, Andrew and Hodgson, John and Benson, Paul and Coggon, David},
-  Journal                  = {Occup. Med.},
-  Year                     = {2012},
-  Number                   = {7},
-  Pages                    = {549--552},
-  Volume                   = {62},
-
-  File                     = {Darnton2012.pdf:Darnton2012.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Soc Occupational Med},
-  Review                   = {no decline in work attributable death from asbestosis 1991-2000 despite stricter controls over recent decades likely because legislation only in 70s and exposure over first 45 years is what counts},
-  Timestamp                = {2015.09.29}
+  author    = {Darnton, Andrew and Hodgson, John and Benson, Paul and Coggon, David},
+  title     = {Mortality from asbestosis and mesothelioma in Britain by birth cohort},
+  journal   = {Occup. Med.},
+  year      = {2012},
+  volume    = {62},
+  number    = {7},
+  pages     = {549--552},
+  comment   = {no decline in work attributable death from asbestosis 1991-2000 despite stricter controls over recent decades likely because legislation only in 70s and exposure over first 45 years is what counts},
+  file      = {Darnton2012.pdf:Darnton2012.pdf:PDF},
+  owner     = {sam},
+  publisher = {Soc Occupational Med},
+  timestamp = {2015.09.29},
 }
 
 @Article{Demedts2002,
@@ -1001,9 +995,9 @@
   number        = {2},
   pages         = {181--183},
   __markedentry = {[drcjar:1]},
+  comment       = {critique of criteria},
   file          = {Gibbs2007.pdf:Gibbs2007.pdf:PDF},
   owner         = {sam},
-  review        = {critique of criteria},
   timestamp     = {2015.09.29},
 }
 
@@ -1221,35 +1215,33 @@
 }
 
 @Article{Gustafson2007,
-  Title                    = {Occupational exposure and severe pulmonary fibrosis},
-  Author                   = {Gustafson, Torbj{\"o}rn and Dahlman-H{\"o}glund, Anna and Nilsson, Kenneth and Str{\"o}m, Kerstin and Tornling, G{\"o}ran and Tor{\'e}n, Kjell},
-  Journal                  = {Respir. Med.},
-  Year                     = {2007},
-  Number                   = {10},
-  Pages                    = {2207--2212},
-  Volume                   = {101},
-
-  File                     = {Gustafson2007.pdf:Gustafson2007.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Elsevier},
-  Review                   = {15 of 140 with IPF had asbestos exposure},
-  Timestamp                = {2015.09.29}
+  author    = {Gustafson, Torbj{\"o}rn and Dahlman-H{\"o}glund, Anna and Nilsson, Kenneth and Str{\"o}m, Kerstin and Tornling, G{\"o}ran and Tor{\'e}n, Kjell},
+  title     = {Occupational exposure and severe pulmonary fibrosis},
+  journal   = {Respir. Med.},
+  year      = {2007},
+  volume    = {101},
+  number    = {10},
+  pages     = {2207--2212},
+  comment   = {15 of 140 with IPF had asbestos exposure},
+  file      = {Gustafson2007.pdf:Gustafson2007.pdf:PDF},
+  owner     = {sam},
+  publisher = {Elsevier},
+  timestamp = {2015.09.29},
 }
 
 @Article{Hagemeyer2006,
-  Title                    = {Asbestos consumption, asbestos exposure and asbestos-related occupational diseases in Germany},
-  Author                   = {Hagemeyer, O and Otten, H and Kraus, T},
-  Journal                  = {Int. Arch. Occup. Environ. Health},
-  Year                     = {2006},
-  Number                   = {8},
-  Pages                    = {613--620},
-  Volume                   = {79},
-
-  File                     = {Hagemeyer2006.pdf:Hagemeyer2006.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Springer},
-  Review                   = {about 30 year lag between asbestos exposure and mesothelioma most mesothelioma due to asbestos arguement ?interaction of insurance model on rates of diagnosis. boasts of success of german 'pay as you go' model},
-  Timestamp                = {2015.09.29}
+  author    = {Hagemeyer, O and Otten, H and Kraus, T},
+  title     = {Asbestos consumption, asbestos exposure and asbestos-related occupational diseases in Germany},
+  journal   = {Int. Arch. Occup. Environ. Health},
+  year      = {2006},
+  volume    = {79},
+  number    = {8},
+  pages     = {613--620},
+  comment   = {about 30 year lag between asbestos exposure and mesothelioma most mesothelioma due to asbestos arguement ?interaction of insurance model on rates of diagnosis. boasts of success of german 'pay as you go' model},
+  file      = {Hagemeyer2006.pdf:Hagemeyer2006.pdf:PDF},
+  owner     = {sam},
+  publisher = {Springer},
+  timestamp = {2015.09.29},
 }
 
 @Article{Harding2009,
@@ -1281,26 +1273,24 @@
 }
 
 @Article{Harris2001,
-  Title                    = {Occupational distribution and geographic clustering of deaths certified to be cryptogenic fibrosing alveolitis in england and wales.},
-  Author                   = {J. M. Harris and P. Cullinan and J. C. McDonald},
-  Journal                  = {Chest},
-  Year                     = {2001},
-
-  Month                    = {Feb},
-  Number                   = {2},
-  Pages                    = {428--433},
-  Volume                   = {119},
-
-  Abstract                 = {The etiology of cryptogenic fibrosing alveolitis (CFA) remains largely obscure, although a 1996 report suggested an increased risk from occupational exposure to metal and wood dusts. Using data from death certificates in England and Wales, we sought evidence of any relationship between occupation and CFA and of the extent of any temporospatial clustering of place of birth and place of death as possible evidence of a geographically related environmental factor.Data on occupation and address (postal code) were obtained from certificates of men and women dying as a result of CFA between 1981 and 1990 and were compared with national mortality statistics. Place of birth data were extracted from certificates for deaths between 1993 and 1995, the only available years, and were compared with national birth statistics.Standardized mortality ratios (SMRs) were raised (p<0.05) in the following four occupational groups: members of the armed forces (SMR, 217.8); miners and quarrymen (SMR, 142.0); service, sports, and recreation workers (SMR, 118.6); and electrical and electronic workers (SMR, 146.6). Of these four groups, the latter group might be worth testing in a future study. There was statistical evidence of geographic clustering in postal code sectors for the recorded place of death, but the high-rate areas were different in men and women. Deaths were increased for those subjects born in urban areas, although these did not follow a clear geographic pattern.Overall, these analyses provide little evidence of any important contribution from environmental factors to the etiology of CFA and suggest that more consideration be given to alternative concepts of causation.},
-  File                     = {Harris2001.pdf:Harris2001.pdf:PDF},
-  Institution              = {Department of Occupational and Environmental Medicine, National Heart and Lung Institute, Imperial College, London, UK. jessica.harris@ic.ac.uk},
-  Keywords                 = {Adolescent; Adult; Aged; Aged, 80 and over; Causality; Child; Child, Preschool; Cluster Analysis; England, epidemiology; Female; Humans; Infant; Male; Middle Aged; Occupational Diseases, mortality; Pulmonary Fibrosis, mortality; Wales, epidemiology},
-  Language                 = {eng},
-  Medline-pst              = {ppublish},
-  Owner                    = {sam},
-  Pmid                     = {11171719},
-  Review                   = {apparent increase in IPF deaths could be due to greater interest and awareness of physicians (and there are more of em now) looked at occupation and postcode of cfa deaths mention poss of ipf being misclassified asbestos find little evidence of environmental cause - overall v negative},
-  Timestamp                = {2014.03.25}
+  author      = {J. M. Harris and P. Cullinan and J. C. McDonald},
+  title       = {Occupational distribution and geographic clustering of deaths certified to be cryptogenic fibrosing alveolitis in england and wales.},
+  journal     = {Chest},
+  year        = {2001},
+  language    = {eng},
+  volume      = {119},
+  number      = {2},
+  month       = {Feb},
+  pages       = {428--433},
+  abstract    = {The etiology of cryptogenic fibrosing alveolitis (CFA) remains largely obscure, although a 1996 report suggested an increased risk from occupational exposure to metal and wood dusts. Using data from death certificates in England and Wales, we sought evidence of any relationship between occupation and CFA and of the extent of any temporospatial clustering of place of birth and place of death as possible evidence of a geographically related environmental factor.Data on occupation and address (postal code) were obtained from certificates of men and women dying as a result of CFA between 1981 and 1990 and were compared with national mortality statistics. Place of birth data were extracted from certificates for deaths between 1993 and 1995, the only available years, and were compared with national birth statistics.Standardized mortality ratios (SMRs) were raised (p<0.05) in the following four occupational groups: members of the armed forces (SMR, 217.8); miners and quarrymen (SMR, 142.0); service, sports, and recreation workers (SMR, 118.6); and electrical and electronic workers (SMR, 146.6). Of these four groups, the latter group might be worth testing in a future study. There was statistical evidence of geographic clustering in postal code sectors for the recorded place of death, but the high-rate areas were different in men and women. Deaths were increased for those subjects born in urban areas, although these did not follow a clear geographic pattern.Overall, these analyses provide little evidence of any important contribution from environmental factors to the etiology of CFA and suggest that more consideration be given to alternative concepts of causation.},
+  comment     = {apparent increase in IPF deaths could be due to greater interest and awareness of physicians (and there are more of em now) looked at occupation and postcode of cfa deaths mention poss of ipf being misclassified asbestos find little evidence of environmental cause - overall v negative},
+  file        = {Harris2001.pdf:Harris2001.pdf:PDF},
+  institution = {Department of Occupational and Environmental Medicine, National Heart and Lung Institute, Imperial College, London, UK. jessica.harris@ic.ac.uk},
+  keywords    = {Adolescent; Adult; Aged; Aged, 80 and over; Causality; Child; Child, Preschool; Cluster Analysis; England, epidemiology; Female; Humans; Infant; Male; Middle Aged; Occupational Diseases, mortality; Pulmonary Fibrosis, mortality; Wales, epidemiology},
+  medline-pst = {ppublish},
+  owner       = {sam},
+  pmid        = {11171719},
+  timestamp   = {2014.03.25},
 }
 
 @Book{Hennekens1987,
@@ -1384,35 +1374,33 @@
 }
 
 @Article{Hubbard1996,
-  Title                    = {Mortality rates from cryptogenic fibrosing alveolitis in seven countries.},
-  Author                   = {Hubbard, Richard and Johnston, Ian and Coultas, David B and Britton, John},
-  Journal                  = {Thorax},
-  Year                     = {1996},
-  Number                   = {7},
-  Pages                    = {711--716},
-  Volume                   = {51},
-
-  File                     = {Hubbard1996.pdf:Hubbard1996.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society},
-  Review                   = {increase ipf death not explained by diagnostic transfer as a result of changing the names of things change of coding in 84 in line c WHO recommendation re underlying cause identification put CFA diagnoses up by 6% ?increased ascertainment should tail off as reach 'true' prev},
-  Timestamp                = {2015.09.29}
+  author    = {Hubbard, Richard and Johnston, Ian and Coultas, David B and Britton, John},
+  title     = {Mortality rates from cryptogenic fibrosing alveolitis in seven countries.},
+  journal   = {Thorax},
+  year      = {1996},
+  volume    = {51},
+  number    = {7},
+  pages     = {711--716},
+  comment   = {increase ipf death not explained by diagnostic transfer as a result of changing the names of things change of coding in 84 in line c WHO recommendation re underlying cause identification put CFA diagnoses up by 6% ?increased ascertainment should tail off as reach 'true' prev},
+  file      = {Hubbard1996.pdf:Hubbard1996.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd and British Thoracic Society},
+  timestamp = {2015.09.29},
 }
 
 @Article{Hubbard1996a,
-  Title                    = {Occupational exposure to metal or wood dust and aetiology of cryptogenic fibrosing alveolitis},
-  Author                   = {Hubbard, R and Lewis, S and Richards, K and Britton, J and Johnston, I},
-  Journal                  = {The Lancet},
-  Year                     = {1996},
-  Number                   = {8997},
-  Pages                    = {284--289},
-  Volume                   = {347},
-
-  File                     = {Hubbard1996a.pdf:Hubbard1996a.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Elsevier},
-  Review                   = {Dust exposure in IPF literature rv - make a table of the studies, Ref|Country|N Cases|Findings|Notes schwartz king p901 Matched case-control analysis was carried out by conditional logistic regression. assumptions The study was designed to include 225 cases of CFA and an average of four controls per case matched for age, sex, and community to provide more than 90% power to detect an odds ratio of 3-0, assuming an exposure prevalence in the control group of 3-0%. median time between the start of exposure and diagnosis of disease was 47-5 years for metal 45-5 years for wood dust No significant association was found between CFA and asbestos exposure (adjusted odds ratio 1-00 [0-41-2-40], p=0997). tiles, coal, building sites, and tobacco, as well as sand. Questionnaire data suggested a significant association with exposure to textile dust (1-80 [1-10-2-96], p=0-019) and sand (1-76 [1?OI-3?07], p=0-047) but not to other dusts.},
-  Timestamp                = {2015.09.29}
+  author    = {Hubbard, R and Lewis, S and Richards, K and Britton, J and Johnston, I},
+  title     = {Occupational exposure to metal or wood dust and aetiology of cryptogenic fibrosing alveolitis},
+  journal   = {The Lancet},
+  year      = {1996},
+  volume    = {347},
+  number    = {8997},
+  pages     = {284--289},
+  comment   = {Dust exposure in IPF literature rv - make a table of the studies, Ref|Country|N Cases|Findings|Notes schwartz king p901 Matched case-control analysis was carried out by conditional logistic regression. assumptions The study was designed to include 225 cases of CFA and an average of four controls per case matched for age, sex, and community to provide more than 90% power to detect an odds ratio of 3-0, assuming an exposure prevalence in the control group of 3-0%. median time between the start of exposure and diagnosis of disease was 47-5 years for metal 45-5 years for wood dust No significant association was found between CFA and asbestos exposure (adjusted odds ratio 1-00 [0-41-2-40], p=0997). tiles, coal, building sites, and tobacco, as well as sand. Questionnaire data suggested a significant association with exposure to textile dust (1-80 [1-10-2-96], p=0-019) and sand (1-76 [1?OI-3?07], p=0-047) but not to other dusts.},
+  file      = {Hubbard1996a.pdf:Hubbard1996a.pdf:PDF},
+  owner     = {sam},
+  publisher = {Elsevier},
+  timestamp = {2015.09.29},
 }
 
 @Article{Hunninghake2014a,
@@ -1525,28 +1513,26 @@
 }
 
 @Article{Iwai1994,
-  Title                    = {Idiopathic pulmonary fibrosis. Epidemiologic approaches to occupational exposure.},
-  Author                   = {K. Iwai and T. Mori and N. Yamada and M. Yamaguchi and Y. Hosoda},
-  Journal                  = {Am. J. Respir. Crit. Care Med.},
-  Year                     = {1994},
-
-  Month                    = {Sep},
-  Number                   = {3},
-  Pages                    = {670--675},
-  Volume                   = {150},
-
-  Abstract                 = {Idiopathic pulmonary fibrosis (IPF) risk-related factors were epidemiologically investigated on the basis of 1,311 Japanese IPF autopsy cases selected from the annual complications of autopsy data records in Japan during a 12-yr period. Age and sex distribution of the subjects revealed a high peak in their seventh decade with males predominating. The IPF rate was more than two times higher (p < 0.01) among subjects engaged in occupations that exposed them to dust or organic solvents compared with those in other jobs. To ascertain job characteristics, an autopsy-case control study was conducted using other annual volumes of the autopsy data records and a similar tendency was observed. Then, a live-case control study was undertaken of 86 subjects with IPF. A significantly higher odds ratio was noted among metal production workers and miners compared with healthy and hospital control subjects (1.37 and 1.34, respectively, p < 0.01), and also a significantly lower odds ratio among subjects who frequently eat fish. Taken together with results of recent in vitro studies, the intrapulmonary deposition of hazardous dusts, especially metallic dusts, appears to play at least a partial role in initiating IPF.},
-  Doi                      = {10.1164/ajrccm.150.3.8087336},
-  File                     = {Iwai1994.pdf:Iwai1994.pdf:PDF},
-  Institution              = {Research Institute of Tuberculosis, Japan Anti-Tuberculosis Association, National Institute of Health and Nutrition, Kiyose,Tokyo.},
-  Keywords                 = {Adolescent; Adult; Age Distribution; Aged; Aged, 80 and over; Autopsy, statistics /&/ numerical data; Case-Control Studies; Chi-Square Distribution; Dust, adverse effects; Epidemiologic Methods; Female; Humans; Incidence; Japan, epidemiology; Logistic Models; Male; Middle Aged; Occupational Exposure, adverse effects/statistics /&/ numerical data; Pulmonary Fibrosis, epidemiology/etiology/pathology; Questionnaires; Sex Distribution},
-  Language                 = {eng},
-  Medline-pst              = {ppublish},
-  Owner                    = {sam},
-  Pmid                     = {8087336},
-  Review                   = {case control study 86 ipf cases two healthy control subjects from voter's list + a hospital control of non-ipf resp disease total 4x86 =344 cases and controls questionnaire over 217 variables relating to food, beverage, smoking habits, hobbies, previous illness, domestic chemicals, residential area},
-  Timestamp                = {2014.03.25},
-  Url                      = {http://dx.doi.org/10.1164/ajrccm.150.3.8087336}
+  author      = {K. Iwai and T. Mori and N. Yamada and M. Yamaguchi and Y. Hosoda},
+  title       = {Idiopathic pulmonary fibrosis. Epidemiologic approaches to occupational exposure.},
+  journal     = {Am. J. Respir. Crit. Care Med.},
+  year        = {1994},
+  language    = {eng},
+  volume      = {150},
+  number      = {3},
+  month       = {Sep},
+  pages       = {670--675},
+  doi         = {10.1164/ajrccm.150.3.8087336},
+  url         = {http://dx.doi.org/10.1164/ajrccm.150.3.8087336},
+  abstract    = {Idiopathic pulmonary fibrosis (IPF) risk-related factors were epidemiologically investigated on the basis of 1,311 Japanese IPF autopsy cases selected from the annual complications of autopsy data records in Japan during a 12-yr period. Age and sex distribution of the subjects revealed a high peak in their seventh decade with males predominating. The IPF rate was more than two times higher (p < 0.01) among subjects engaged in occupations that exposed them to dust or organic solvents compared with those in other jobs. To ascertain job characteristics, an autopsy-case control study was conducted using other annual volumes of the autopsy data records and a similar tendency was observed. Then, a live-case control study was undertaken of 86 subjects with IPF. A significantly higher odds ratio was noted among metal production workers and miners compared with healthy and hospital control subjects (1.37 and 1.34, respectively, p < 0.01), and also a significantly lower odds ratio among subjects who frequently eat fish. Taken together with results of recent in vitro studies, the intrapulmonary deposition of hazardous dusts, especially metallic dusts, appears to play at least a partial role in initiating IPF.},
+  comment     = {case control study 86 ipf cases two healthy control subjects from voter's list + a hospital control of non-ipf resp disease total 4x86 =344 cases and controls questionnaire over 217 variables relating to food, beverage, smoking habits, hobbies, previous illness, domestic chemicals, residential area},
+  file        = {Iwai1994.pdf:Iwai1994.pdf:PDF},
+  institution = {Research Institute of Tuberculosis, Japan Anti-Tuberculosis Association, National Institute of Health and Nutrition, Kiyose,Tokyo.},
+  keywords    = {Adolescent; Adult; Age Distribution; Aged; Aged, 80 and over; Autopsy, statistics /&/ numerical data; Case-Control Studies; Chi-Square Distribution; Dust, adverse effects; Epidemiologic Methods; Female; Humans; Incidence; Japan, epidemiology; Logistic Models; Male; Middle Aged; Occupational Exposure, adverse effects/statistics /&/ numerical data; Pulmonary Fibrosis, epidemiology/etiology/pathology; Questionnaires; Sex Distribution},
+  medline-pst = {ppublish},
+  owner       = {sam},
+  pmid        = {8087336},
+  timestamp   = {2014.03.25},
 }
 
 @Article{Johnson1986,
@@ -1570,19 +1556,18 @@
 }
 
 @Article{Johnston1990,
-  Title                    = {Rising mortality from cryptogenic fibrosing alveolitis.},
-  Author                   = {Johnston, Ian and Britton, John and Kinnear, William and Logan, Richard},
-  Journal                  = {BMJ},
-  Year                     = {1990},
-  Number                   = {6759},
-  Pages                    = {1017},
-  Volume                   = {301},
-
-  File                     = {Johnston1990.pdf:Johnston1990.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Group},
-  Review                   = {diagnostic accuracy of death cert high for ipf-> death registration IPF has good positive predictive value for IPF. 19/23 c gold standard being case note rv c documentation of crackles, restrictive lung function, and xray changes and no documentation of occupational exposure. poor sensitivity tho, only 17 of 45 known to have the disease were certified to have died of it (= it was written as underlying cause on death cert, it was mentioned at all on total of 25 death certs) used age standardised rates based on 1979 population. showed 1979-88. more men and older people dying. did do regional breakdown. more common in east midlands. didn't find impact of social class or manual vs non manual work they mention limitation of our approach which is variation in number of death certs where IPF is assigned underlying cause of death according to number of pt it is considered to be cause. In 1984 the Office of Population Censuses and Surveys changed the rules on coding according to rule 3 of the World Health Organisation, so that if the cause of death was recorded as, for example, unspecified pneumonia or broncho- pneumonia in part 1 of the death certificate the disease mentioned in part 2 became the underlying cause of death. Duplicate coding of all deaths ascribed to cryptogenic fibrosing alveolitis in 1984 according to the new and old rules showed a 6% increase in deaths ascribed to the disease under the new rule. Consequently the number of deaths from 1984 onwards should be scaled down by a factor of 0-94 so that the two periods are comparable. explores why mort rate increasing. more diagnosis? cf rcp map :-)x`},
-  Timestamp                = {2015.09.29}
+  author    = {Johnston, Ian and Britton, John and Kinnear, William and Logan, Richard},
+  title     = {Rising mortality from cryptogenic fibrosing alveolitis.},
+  journal   = {BMJ},
+  year      = {1990},
+  volume    = {301},
+  number    = {6759},
+  pages     = {1017},
+  comment   = {diagnostic accuracy of death cert high for ipf-> death registration IPF has good positive predictive value for IPF. 19/23 c gold standard being case note rv c documentation of crackles, restrictive lung function, and xray changes and no documentation of occupational exposure. poor sensitivity tho, only 17 of 45 known to have the disease were certified to have died of it (= it was written as underlying cause on death cert, it was mentioned at all on total of 25 death certs) used age standardised rates based on 1979 population. showed 1979-88. more men and older people dying. did do regional breakdown. more common in east midlands. didn't find impact of social class or manual vs non manual work they mention limitation of our approach which is variation in number of death certs where IPF is assigned underlying cause of death according to number of pt it is considered to be cause. In 1984 the Office of Population Censuses and Surveys changed the rules on coding according to rule 3 of the World Health Organisation, so that if the cause of death was recorded as, for example, unspecified pneumonia or broncho- pneumonia in part 1 of the death certificate the disease mentioned in part 2 became the underlying cause of death. Duplicate coding of all deaths ascribed to cryptogenic fibrosing alveolitis in 1984 according to the new and old rules showed a 6% increase in deaths ascribed to the disease under the new rule. Consequently the number of deaths from 1984 onwards should be scaled down by a factor of 0-94 so that the two periods are comparable. explores why mort rate increasing. more diagnosis? cf rcp map :-)x`},
+  file      = {Johnston1990.pdf:Johnston1990.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Group},
+  timestamp = {2015.09.29},
 }
 
 @Article{Johnston1997,
@@ -1930,19 +1915,18 @@
 }
 
 @Article{Lin2007,
-  Title                    = {Ecological association between asbestos-related diseases and historical asbestos consumption: an international analysis},
-  Author                   = {Lin, Ro-Ting and Takahashi, Ken and Karjalainen, Antti and Hoshuyama, Tsutomu and Wilson, Donald and Kameda, Takashi and Chan, Chang-Chuan and Wen, Chi-Pang and Furuya, Sugio and Higashi, Toshiaki and others},
-  Journal                  = {The Lancet},
-  Year                     = {2007},
-  Number                   = {9564},
-  Pages                    = {844--849},
-  Volume                   = {369},
-
-  File                     = {Lin2007.pdf:Lin2007.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Elsevier},
-  Review                   = {good on ecological association between asbestos related disease and historical asbestos consumption stongest assoc seen for asbestosis in men ?UK asbestosis consumption per head?},
-  Timestamp                = {2015.09.29}
+  author    = {Lin, Ro-Ting and Takahashi, Ken and Karjalainen, Antti and Hoshuyama, Tsutomu and Wilson, Donald and Kameda, Takashi and Chan, Chang-Chuan and Wen, Chi-Pang and Furuya, Sugio and Higashi, Toshiaki and others},
+  title     = {Ecological association between asbestos-related diseases and historical asbestos consumption: an international analysis},
+  journal   = {The Lancet},
+  year      = {2007},
+  volume    = {369},
+  number    = {9564},
+  pages     = {844--849},
+  comment   = {good on ecological association between asbestos related disease and historical asbestos consumption stongest assoc seen for asbestosis in men ?UK asbestosis consumption per head?},
+  file      = {Lin2007.pdf:Lin2007.pdf:PDF},
+  owner     = {sam},
+  publisher = {Elsevier},
+  timestamp = {2015.09.29},
 }
 
 @Article{Liu2013,
@@ -2042,47 +2026,44 @@
 }
 
 @Article{Mannix1994,
-  Title                    = {Exercise impairment in asbestos-induced pleural fibrosis. Is it really just interstitial fibrosis?},
-  Author                   = {Mannix, E T and Martin, W J},
-  Journal                  = {Chest},
-  Year                     = {1994},
-
-  Month                    = may,
-  Pages                    = {1312--1313},
-  Volume                   = {105},
-
-  Chemicals                = {Asbestos},
-  Citation-subset          = {AIM, IM},
-  Completed                = {1994-06-15},
-  Country                  = {United States},
-  Created                  = {1994-06-15},
-  ISSN                     = {0012-3692},
-  Issn-linking             = {0012-3692},
-  Issue                    = {5},
-  Keywords                 = {Asbestos, adverse effects; Exercise Test; Fibrosis, etiology, physiopathology; Humans; Occupational Diseases, diagnosis, etiology, physiopathology; Pleura, pathology; Pulmonary Fibrosis, diagnosis, etiology; Respiratory Mechanics},
-  Nlm-id                   = {0231335},
-  Owner                    = {NLM},
-  Pii                      = {S0012-3692(16)38704-9},
-  Pmid                     = {8181312},
-  Pubmodel                 = {Print},
-  Pubstatus                = {ppublish},
-  Review                   = {subclinic asbestosis},
-  Revised                  = {2004-11-17}
+  author          = {Mannix, E T and Martin, W J},
+  title           = {Exercise impairment in asbestos-induced pleural fibrosis. Is it really just interstitial fibrosis?},
+  journal         = {Chest},
+  year            = {1994},
+  volume          = {105},
+  issue           = {5},
+  month           = may,
+  pages           = {1312--1313},
+  issn            = {0012-3692},
+  chemicals       = {Asbestos},
+  citation-subset = {AIM, IM},
+  comment         = {subclinic asbestosis},
+  completed       = {1994-06-15},
+  country         = {United States},
+  created         = {1994-06-15},
+  issn-linking    = {0012-3692},
+  keywords        = {Asbestos, adverse effects; Exercise Test; Fibrosis, etiology, physiopathology; Humans; Occupational Diseases, diagnosis, etiology, physiopathology; Pleura, pathology; Pulmonary Fibrosis, diagnosis, etiology; Respiratory Mechanics},
+  nlm-id          = {0231335},
+  owner           = {NLM},
+  pii             = {S0012-3692(16)38704-9},
+  pmid            = {8181312},
+  pubmodel        = {Print},
+  pubstatus       = {ppublish},
+  revised         = {2004-11-17},
 }
 
 @InProceedings{Mapel1999,
-  Title                    = {The environmental epidemiology of idiopathic interstitial lung disease including sarcoidosis},
-  Author                   = {Mapel, Douglas W and Coultas, David B},
-  Booktitle                = {Seminars in respiratory and critical care medicine},
-  Year                     = {1999},
-  Number                   = {06},
-  Organization             = {Copyright{\copyright} 1999 by Thieme Medical Publishers, Inc.},
-  Pages                    = {521--529},
-  Volume                   = {20},
-
-  Owner                    = {sam},
-  Review                   = {Dust exposure in IPF literature rv - make a table of the studies, Ref|Country|N Cases|Findings|Notes schwartz king p901},
-  Timestamp                = {2015.09.29}
+  author       = {Mapel, Douglas W and Coultas, David B},
+  title        = {The environmental epidemiology of idiopathic interstitial lung disease including sarcoidosis},
+  booktitle    = {Seminars in respiratory and critical care medicine},
+  year         = {1999},
+  volume       = {20},
+  number       = {06},
+  organization = {Copyright{\copyright} 1999 by Thieme Medical Publishers, Inc.},
+  pages        = {521--529},
+  comment      = {Dust exposure in IPF literature rv - make a table of the studies, Ref|Country|N Cases|Findings|Notes schwartz king p901},
+  owner        = {sam},
+  timestamp    = {2015.09.29},
 }
 
 @Article{Martinez2005,
@@ -2160,6 +2141,7 @@
   doi         = {10.1043/1543-2165-134.3.462},
   url         = {http://dx.doi.org/10.1043/1543-2165-134.3.462},
   abstract    = {Asbestosis is defined as diffuse pulmonary fibrosis caused by the inhalation of excessive amounts of asbestos fibers. Pathologically, both pulmonary fibrosis of a particular pattern and evidence of excess asbestos in the lungs must be present. Clinically, the disease usually progresses slowly, with a typical latent period of more than 20 years from first exposure to onset of symptoms.IDIOPATHIC PULMONARY FIBROSIS: The pulmonary fibrosis of asbestosis is interstitial and has a basal subpleural distribution, similar to that seen in idiopathic pulmonary fibrosis, which is the principal differential diagnosis. However, there are differences between the 2 diseases apart from the presence or absence of asbestos. First, the interstitial fibrosis of asbestosis is accompanied by very little inflammation, which, although not marked, is better developed in idiopathic pulmonary fibrosis. Second, in keeping with the slow tempo of the disease, the fibroblastic foci that characterize idiopathic pulmonary fibrosis are infrequent in asbestosis. Third, asbestosis is almost always accompanied by mild fibrosis of the visceral pleura, a feature that is rare in idiopathic pulmonary fibrosis.RESPIRATORY BRONCHIOLITIS: Asbestosis is believed to start in the region of the respiratory bronchiole and gradually extends outward to involve more and more of the lung acinus, until the separate foci of fibrosis link, resulting in the characteristically diffuse pattern of the disease. These early stages of the disease are diagnostically problematic because similar centriacinar fibrosis is often seen in cigarette smokers and is characteristic of mixed-dust pneumoconiosis. Fibrosis limited to the walls of the bronchioles does not represent asbestosis.Histologic evidence of asbestos inhalation is provided by the identification of asbestos bodies either lying freely in the air spaces or embedded in the interstitial fibrosis. Asbestos bodies are distinguished from other ferruginous bodies by their thin, transparent core. Two or more asbestos bodies per square centimeter of a 5- mu m-thick lung section, in combination with interstitial fibrosis of the appropriate pattern, are indicative of asbestosis. Fewer asbestos bodies do not necessarily exclude a diagnosis of asbestosis, but evidence of excess asbestos would then require quantitative studies performed on lung digests.Quantification of asbestos load may be performed on lung digests or bronchoalveolar lavage material, employing either light microscopy, scanning electron microscopy, or transmission electron microscopy. Whichever technique is employed, the results are only dependable if the laboratory is well practiced in the method chosen, frequently performs such analyses, and the results are compared with those obtained by the same laboratory applying the same technique to a control population.},
+  comment     = {An important differential diagnosis that arises in cases of asbestosis?especially when there is clinical-radiologic controversy about the diagnosis?is determining whether the disorder represents asbestosis or another interstitial disorder, such as one of the idiopathic interstitial pneumonias, especially UIP. One point of distinction is that UIP tends to be more rapidly progressive than asbestosis, which is usually either static or only slowly progressive,69 although cases of rapidly progressive asbestosis do occur.72 About 50% or fewer cases progress after cessation of asbestos exposure.67 Clinical asbestosis can be induced by cumulative asbestos exposure amounting to an estimated 25 fibers/ ml?yrs,31,67 and Browne73 and Churg74 have indicated that a ??dose?? in the range of 25 to 100 fibers/ml?yrs is required for the development of asbestosis. One Chinese study,75 based on chest radiographs of workers involved in the manufacture of asbestos products, found a 1% prevalence of grade I asbestosis (according to the Chinese system of grading), at a cumulative exposure of 22 fibers/ml?yrs. Green et al,76 in an autopsy study on the South Carolina asbestos textile workers, reported that histologic asbesto- sis was usually detectable with exposures in excess of 20 fibers/ml?yrs, and a few cases were found with estimated cumulative exposures of 10?20 fibers/ml?yrs (histologic examination being the most sensitive and specific means for the diagnosis of asbestosis). From an analysis of cases in the German Mesothelioma Register, Fischer et al77 reported that a requirement for asbestos exposure amounting to 25 fibers/ml?yrs for the diagnosis of asbestosis?including minimal histologic asbestosis? would lead to underrecognition of 42% of asbestosis cases and false-positive diagnoses in 24%. Estimates of cumulative asbestos exp},
   file        = {Roggli2010a.pdf:Roggli2010a.pdf:PDF;Roggli2010.pdf:Roggli2010.pdf:PDF},
   institution = {Department of Pathology, Duke University Medical Center, Durham, North Carolina 27710, USA. roggl002@mc.duke.edu},
   keywords    = {Asbestos, Amphibole, adverse effects/analysis/classification; Asbestos, Serpentine, adverse effects/analysis/classification; Asbestosis, diagnosis/etiology; Bronchiolitis, diagnosis; Diagnosis, Differential; Humans; Mineral Fibers; Practice Guidelines as Topic; Pulmonary Fibrosis, diagnosis; Radiography, Thoracic; Societies, Medical; United States},
@@ -2167,24 +2149,22 @@
   owner       = {sam},
   pii         = {10.1043/1543-2165-134.3.462},
   pmid        = {20196674},
-  review      = {An important differential diagnosis that arises in cases of asbestosis?especially when there is clinical-radiologic controversy about the diagnosis?is determining whether the disorder represents asbestosis or another interstitial disorder, such as one of the idiopathic interstitial pneumonias, especially UIP. One point of distinction is that UIP tends to be more rapidly progressive than asbestosis, which is usually either static or only slowly progressive,69 although cases of rapidly progressive asbestosis do occur.72 About 50% or fewer cases progress after cessation of asbestos exposure.67 Clinical asbestosis can be induced by cumulative asbestos exposure amounting to an estimated 25 fibers/ ml?yrs,31,67 and Browne73 and Churg74 have indicated that a ??dose?? in the range of 25 to 100 fibers/ml?yrs is required for the development of asbestosis. One Chinese study,75 based on chest radiographs of workers involved in the manufacture of asbestos products, found a 1% prevalence of grade I asbestosis (according to the Chinese system of grading), at a cumulative exposure of 22 fibers/ml?yrs. Green et al,76 in an autopsy study on the South Carolina asbestos textile workers, reported that histologic asbesto- sis was usually detectable with exposures in excess of 20 fibers/ml?yrs, and a few cases were found with estimated cumulative exposures of 10?20 fibers/ml?yrs (histologic examination being the most sensitive and specific means for the diagnosis of asbestosis). From an analysis of cases in the German Mesothelioma Register, Fischer et al77 reported that a requirement for asbestos exposure amounting to 25 fibers/ml?yrs for the diagnosis of asbestosis?including minimal histologic asbestosis? would lead to underrecognition of 42% of asbestosis cases and false-positive diagnoses in 24%. Estimates of cumulative asbestos exp},
   timestamp   = {2014.04.27},
 }
 
 @Article{Miyake2005,
-  Title                    = {Occupational and environmental factors and idiopathic pulmonary fibrosis in Japan},
-  Author                   = {Miyake, Yoshihiro and Sasaki, Satoshi and Yokoyama, Tetsuji and Chida, Kingo and Azuma, Arata and Suda, Takafumi and Kudoh, Shoji and Sakamoto, Naomasa and Okamoto, Kazushi and Kobashi, Gen and others},
-  Journal                  = {Ann. Occup. Hyg.},
-  Year                     = {2005},
-  Number                   = {3},
-  Pages                    = {259--265},
-  Volume                   = {49},
-
-  File                     = {Miyake2005.pdf:Miyake2005.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BOHS},
-  Review                   = {mortality rate of IPF appears to be increasing in Western populations questionnaire not given but stated that covered occupational agent exposure which was defined as present if > 10h per week, asked what job held for longest amount of time did not take full occupational history (Johnston et al., 1990; Hubbard et al., 1996a; Mannino et al., 1996). Men are more likely than women to develop or die from IPF (Johnston et al., 1990; Coultas et al., 1994; Iwai et al., 1994; Hubbard et al., 1996a; Mannino et al., 1996). A study in the UK found increased deaths due to IPF in traditionally industrialized areas (Johnston et al., 1990)},
-  Timestamp                = {2015.09.29}
+  author    = {Miyake, Yoshihiro and Sasaki, Satoshi and Yokoyama, Tetsuji and Chida, Kingo and Azuma, Arata and Suda, Takafumi and Kudoh, Shoji and Sakamoto, Naomasa and Okamoto, Kazushi and Kobashi, Gen and others},
+  title     = {Occupational and environmental factors and idiopathic pulmonary fibrosis in Japan},
+  journal   = {Ann. Occup. Hyg.},
+  year      = {2005},
+  volume    = {49},
+  number    = {3},
+  pages     = {259--265},
+  comment   = {mortality rate of IPF appears to be increasing in Western populations questionnaire not given but stated that covered occupational agent exposure which was defined as present if > 10h per week, asked what job held for longest amount of time did not take full occupational history (Johnston et al., 1990; Hubbard et al., 1996a; Mannino et al., 1996). Men are more likely than women to develop or die from IPF (Johnston et al., 1990; Coultas et al., 1994; Iwai et al., 1994; Hubbard et al., 1996a; Mannino et al., 1996). A study in the UK found increased deaths due to IPF in traditionally industrialized areas (Johnston et al., 1990)},
+  file      = {Miyake2005.pdf:Miyake2005.pdf:PDF},
+  owner     = {sam},
+  publisher = {BOHS},
+  timestamp = {2015.09.29},
 }
 
 @Article{Moerman2013,
@@ -2217,19 +2197,18 @@
 }
 
 @Article{Monso1991,
-  Title                    = {Lung dust content in idiopathic pulmonary fibrosis: a study with scanning electron microscopy and energy dispersive x ray analysis.},
-  Author                   = {Mons{\'o}, E and Tura, JM and Pujadas, J and Morell, F and Ruiz, J and Morera, J},
-  Journal                  = {Br. J. Ind. Med.},
-  Year                     = {1991},
-  Number                   = {5},
-  Pages                    = {327--331},
-  Volume                   = {48},
-
-  File                     = {Monso1991.pdf:Monso1991.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd},
-  Review                   = {optical microscopy + polarised light is not sensitive enought to detect low diameter asbestos fibres 25 patients c prev pathological diagnosis of IPF + 25 controls scanning electron microscopy + energy dispersive x ray analysis two cases (of the 25) had > 100 asbestos fibres per field},
-  Timestamp                = {2015.09.29}
+  author    = {Mons{\'o}, E and Tura, JM and Pujadas, J and Morell, F and Ruiz, J and Morera, J},
+  title     = {Lung dust content in idiopathic pulmonary fibrosis: a study with scanning electron microscopy and energy dispersive x ray analysis.},
+  journal   = {Br. J. Ind. Med.},
+  year      = {1991},
+  volume    = {48},
+  number    = {5},
+  pages     = {327--331},
+  comment   = {optical microscopy + polarised light is not sensitive enought to detect low diameter asbestos fibres 25 patients c prev pathological diagnosis of IPF + 25 controls scanning electron microscopy + energy dispersive x ray analysis two cases (of the 25) had > 100 asbestos fibres per field},
+  file      = {Monso1991.pdf:Monso1991.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd},
+  timestamp = {2015.09.29},
 }
 
 @Article{Monso1990,
@@ -2295,19 +2274,18 @@
 }
 
 @Article{Mossman2011,
-  Title                    = {Pulmonary endpoints (lung carcinomas and asbestosis) following inhalation exposure to asbestos},
-  Author                   = {Mossman, Brooke T and Lippmann, Morton and Hesterberg, Thomas W and Kelsey, Karl T and Barchowsky, Aaron and Bonner, James C},
-  Journal                  = {Journal of Toxicology and Environmental Health, Part B},
-  Year                     = {2011},
-  Number                   = {1-4},
-  Pages                    = {76--121},
-  Volume                   = {14},
-
-  File                     = {Mossman2011.pdf:Mossman2011.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Taylor \& Francis},
-  Review                   = {good on limitations of lit re dose response fdor asbestos exposure and asbestosis},
-  Timestamp                = {2015.09.29}
+  author    = {Mossman, Brooke T and Lippmann, Morton and Hesterberg, Thomas W and Kelsey, Karl T and Barchowsky, Aaron and Bonner, James C},
+  title     = {Pulmonary endpoints (lung carcinomas and asbestosis) following inhalation exposure to asbestos},
+  journal   = {Journal of Toxicology and Environmental Health, Part B},
+  year      = {2011},
+  volume    = {14},
+  number    = {1-4},
+  pages     = {76--121},
+  comment   = {good on limitations of lit re dose response fdor asbestos exposure and asbestosis},
+  file      = {Mossman2011.pdf:Mossman2011.pdf:PDF},
+  owner     = {sam},
+  publisher = {Taylor \& Francis},
+  timestamp = {2015.09.29},
 }
 
 @Article{Mullen1998,
@@ -2420,19 +2398,18 @@
 }
 
 @Article{Navaratnam2011,
-  Title                    = {The rising incidence of idiopathic pulmonary fibrosis in the UK},
-  Author                   = {Navaratnam, V and Fleming, KM and West, J and Smith, CJP and Jenkins, RG and Fogarty, A and Hubbard, RB},
-  Journal                  = {Thorax},
-  Year                     = {2011},
-  Number                   = {6},
-  Pages                    = {462--467},
-  Volume                   = {66},
-
-  File                     = {Navaratnam2011.pdf:Navaratnam2011.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd and British Thoracic Society},
-  Review                   = {1. Using ONS data: Over this period of time, three different ICD (International Classification of Diseases) codes were used to code death from IPF-CS. From 1965 to 1978, ICD-8 code 517 (other chronic interstitial pneumonia) From 1979 to 1999, ICD-9 codes 516.3 (idiopathic fibrosing alveolitis) and 515 (postinflammatory fibrosis) From 2000 onwards, ICD-10 code J84.1 (idiopathic pulmonary fibrosis) From 2010 onwards ICD-10 code Used population from England and Wales for each year for the years 1968-2008 as our denominators. For these analyses, the data on registered deaths and the general population were grouped into 5 year age bands over the age of 55 years and calendar periods were grouped into 5 year periods, but without combining years with different ICD codes. We calculated age- and sex stratum-specific mortality rates for each year and then applied these rates to the 2008 population to generate annual standardised mortality numbers. Poisson regression modelling was used to estimate annual mortality rate ratios with adjustment for sex and age. 2. Using THIN data: We calculated crude annual incidence rates, stratified by sex and age in 5 year age bands over the age of 55 years. Poisson regression modelling was applied to estimate annual incidence rate ratios, controlling for age, sex and health authority. 3. Survival analysis, individuals with IPF-CS were assigned a start date that was defined as the date of diagnosis and a stop date that was defined as the earliest of either the last THIN data collection or the date of death. In order to determine if mortality was changing over time, we calculated the median survival for this cohort overall and survival stratified by 2 year calendar periods using KaplaneMeir methods. Cox regression was used to compare mortality rates between the different age groups, sex and calendar periods. Multiplicative interaction terms were applied to test for interactions between mortality rates in the different calendar periods and age or sex},
-  Timestamp                = {2015.09.29}
+  author    = {Navaratnam, V and Fleming, KM and West, J and Smith, CJP and Jenkins, RG and Fogarty, A and Hubbard, RB},
+  title     = {The rising incidence of idiopathic pulmonary fibrosis in the UK},
+  journal   = {Thorax},
+  year      = {2011},
+  volume    = {66},
+  number    = {6},
+  pages     = {462--467},
+  comment   = {1. Using ONS data: Over this period of time, three different ICD (International Classification of Diseases) codes were used to code death from IPF-CS. From 1965 to 1978, ICD-8 code 517 (other chronic interstitial pneumonia) From 1979 to 1999, ICD-9 codes 516.3 (idiopathic fibrosing alveolitis) and 515 (postinflammatory fibrosis) From 2000 onwards, ICD-10 code J84.1 (idiopathic pulmonary fibrosis) From 2010 onwards ICD-10 code Used population from England and Wales for each year for the years 1968-2008 as our denominators. For these analyses, the data on registered deaths and the general population were grouped into 5 year age bands over the age of 55 years and calendar periods were grouped into 5 year periods, but without combining years with different ICD codes. We calculated age- and sex stratum-specific mortality rates for each year and then applied these rates to the 2008 population to generate annual standardised mortality numbers. Poisson regression modelling was used to estimate annual mortality rate ratios with adjustment for sex and age. 2. Using THIN data: We calculated crude annual incidence rates, stratified by sex and age in 5 year age bands over the age of 55 years. Poisson regression modelling was applied to estimate annual incidence rate ratios, controlling for age, sex and health authority. 3. Survival analysis, individuals with IPF-CS were assigned a start date that was defined as the date of diagnosis and a stop date that was defined as the earliest of either the last THIN data collection or the date of death. In order to determine if mortality was changing over time, we calculated the median survival for this cohort overall and survival stratified by 2 year calendar periods using KaplaneMeir methods. Cox regression was used to compare mortality rates between the different age groups, sex and calendar periods. Multiplicative interaction terms were applied to test for interactions between mortality rates in the different calendar periods and age or sex},
+  file      = {Navaratnam2011.pdf:Navaratnam2011.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd and British Thoracic Society},
+  timestamp = {2015.09.29},
 }
 
 @Article{Navaratnam2014,
@@ -2762,19 +2739,18 @@
 }
 
 @Article{Raghu2006,
-  Title                    = {Incidence and prevalence of idiopathic pulmonary fibrosis},
-  Author                   = {Raghu, Ganesh and Weycker, Derek and Edelsberg, John and Bradford, Williamson Z and Oster, Gerry},
-  Journal                  = {Am. J. Respir. Crit. Care Med.},
-  Year                     = {2006},
-  Number                   = {7},
-  Pages                    = {810--816},
-  Volume                   = {174},
-
-  File                     = {Raghu2006.pdf:Raghu2006.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Am Thoracic Soc},
-  Review                   = {ipf increasing in US disproportionately so in men},
-  Timestamp                = {2015.09.29}
+  author    = {Raghu, Ganesh and Weycker, Derek and Edelsberg, John and Bradford, Williamson Z and Oster, Gerry},
+  title     = {Incidence and prevalence of idiopathic pulmonary fibrosis},
+  journal   = {Am. J. Respir. Crit. Care Med.},
+  year      = {2006},
+  volume    = {174},
+  number    = {7},
+  pages     = {810--816},
+  comment   = {ipf increasing in US disproportionately so in men},
+  file      = {Raghu2006.pdf:Raghu2006.pdf:PDF},
+  owner     = {sam},
+  publisher = {Am Thoracic Soc},
+  timestamp = {2015.09.29},
 }
 
 @Article{Rake2009,
@@ -2815,12 +2791,11 @@
 }
 
 @Electronic{RCP,
-  Author                   = {RCP},
-  Url                      = {http://www.rcplondon.ac.uk/sites/default/files/respiratory-medicine-census-2010.pdf},
-
-  Owner                    = {sam},
-  Review                   = {maybe IPF just varies with no of resp consultants :-)},
-  Timestamp                = {2014.03.25}
+  author    = {RCP},
+  url       = {http://www.rcplondon.ac.uk/sites/default/files/respiratory-medicine-census-2010.pdf},
+  comment   = {maybe IPF just varies with no of resp consultants :-)},
+  owner     = {sam},
+  timestamp = {2014.03.25},
 }
 
 @Article{Reynolds2014,
@@ -2853,22 +2828,21 @@
 }
 
 @Article{Roggli1986,
-  Title                    = {Asbestos content of lung tissue in asbestos associated diseases: a study of 110 cases.},
-  Author                   = {Roggli, VL and Pratt, PC and Brody, AR},
-  Journal                  = {Br. J. Ind. Med.},
-  Year                     = {1986},
-  Number                   = {1},
-  Pages                    = {18--28},
-  Volume                   = {43},
-
-  File                     = {Roggli1986.pdf:Roggli1986.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd},
-  Review                   = {asbestos content in lungs higher in asbestosis than asbestos assoc diseases used ipf as a control! roggli is good on type of fibre too},
-  Timestamp                = {2015.09.29}
+  author    = {Roggli, VL and Pratt, PC and Brody, AR},
+  title     = {Asbestos content of lung tissue in asbestos associated diseases: a study of 110 cases.},
+  journal   = {Br. J. Ind. Med.},
+  year      = {1986},
+  volume    = {43},
+  number    = {1},
+  pages     = {18--28},
+  comment   = {asbestos content in lungs higher in asbestosis than asbestos assoc diseases used ipf as a control! roggli is good on type of fibre too},
+  file      = {Roggli1986.pdf:Roggli1986.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd},
+  timestamp = {2015.09.29},
 }
 
-@Article{Roggli2010,
+@Article{Roggli2010a,
   author        = {Victor L Roggli and Allen R Gibbs and Richard Attanoos and Andrew Churg and Helmut Popper and Philip Cagle and Bryan Corrin and Teri J Franks and Francoise Galateau-Salle and Jeff Galvin and Philip S Hasleton and Douglas W Henderson and Koichi Honma},
   title         = {Pathology of asbestosis- An update of the diagnostic criteria: Report of the asbestosis committee of the college of american pathologists and pulmonary pathology society.},
   journal       = {Arch. Pathol. Lab. Med.},
@@ -2882,6 +2856,7 @@
   url           = {http://dx.doi.org/10.1043/1543-2165-134.3.462},
   __markedentry = {[drcjar:1]},
   abstract      = {Asbestosis is defined as diffuse pulmonary fibrosis caused by the inhalation of excessive amounts of asbestos fibers. Pathologically, both pulmonary fibrosis of a particular pattern and evidence of excess asbestos in the lungs must be present. Clinically, the disease usually progresses slowly, with a typical latent period of more than 20 years from first exposure to onset of symptoms.IDIOPATHIC PULMONARY FIBROSIS: The pulmonary fibrosis of asbestosis is interstitial and has a basal subpleural distribution, similar to that seen in idiopathic pulmonary fibrosis, which is the principal differential diagnosis. However, there are differences between the 2 diseases apart from the presence or absence of asbestos. First, the interstitial fibrosis of asbestosis is accompanied by very little inflammation, which, although not marked, is better developed in idiopathic pulmonary fibrosis. Second, in keeping with the slow tempo of the disease, the fibroblastic foci that characterize idiopathic pulmonary fibrosis are infrequent in asbestosis. Third, asbestosis is almost always accompanied by mild fibrosis of the visceral pleura, a feature that is rare in idiopathic pulmonary fibrosis.RESPIRATORY BRONCHIOLITIS: Asbestosis is believed to start in the region of the respiratory bronchiole and gradually extends outward to involve more and more of the lung acinus, until the separate foci of fibrosis link, resulting in the characteristically diffuse pattern of the disease. These early stages of the disease are diagnostically problematic because similar centriacinar fibrosis is often seen in cigarette smokers and is characteristic of mixed-dust pneumoconiosis. Fibrosis limited to the walls of the bronchioles does not represent asbestosis.Histologic evidence of asbestos inhalation is provided by the identification of asbestos bodies either lying freely in the air spaces or embedded in the interstitial fibrosis. Asbestos bodies are distinguished from other ferruginous bodies by their thin, transparent core. Two or more asbestos bodies per square centimeter of a 5- mu m-thick lung section, in combination with interstitial fibrosis of the appropriate pattern, are indicative of asbestosis. Fewer asbestos bodies do not necessarily exclude a diagnosis of asbestosis, but evidence of excess asbestos would then require quantitative studies performed on lung digests.Quantification of asbestos load may be performed on lung digests or bronchoalveolar lavage material, employing either light microscopy, scanning electron microscopy, or transmission electron microscopy. Whichever technique is employed, the results are only dependable if the laboratory is well practiced in the method chosen, frequently performs such analyses, and the results are compared with those obtained by the same laboratory applying the same technique to a control population.},
+  comment       = {An important differential diagnosis that arises in cases of asbestosis?especially when there is clinical-radiologic controversy about the diagnosis?is determining whether the disorder represents asbestosis or another interstitial disorder, such as one of the idiopathic interstitial pneumonias, especially UIP. One point of distinction is that UIP tends to be more rapidly progressive than asbestosis, which is usually either static or only slowly progressive,69 although cases of rapidly progressive asbestosis do occur.72 About 50% or fewer cases progress after cessation of asbestos exposure.67 Clinical asbestosis can be induced by cumulative asbestos exposure amounting to an estimated 25 fibers/ ml?yrs,31,67 and Browne73 and Churg74 have indicated that a ??dose?? in the range of 25 to 100 fibers/ml?yrs is required for the development of asbestosis. One Chinese study,75 based on chest radiographs of workers involved in the manufacture of asbestos products, found a 1% prevalence of grade I asbestosis (according to the Chinese system of grading), at a cumulative exposure of 22 fibers/ml?yrs. Green et al,76 in an autopsy study on the South Carolina asbestos textile workers, reported that histologic asbesto- sis was usually detectable with exposures in excess of 20 fibers/ml?yrs, and a few cases were found with estimated cumulative exposures of 10?20 fibers/ml?yrs (histologic examination being the most sensitive and specific means for the diagnosis of asbestosis). From an analysis of cases in the German Mesothelioma Register, Fischer et al77 reported that a requirement for asbestos exposure amounting to 25 fibers/ml?yrs for the diagnosis of asbestosis?including minimal histologic asbestosis? would lead to underrecognition of 42% of asbestosis cases and false-positive diagnoses in 24%. Estimates of cumulative asbestos exp},
   file          = {Roggli2010a.pdf:Roggli2010a.pdf:PDF;Roggli2010.pdf:Roggli2010.pdf:PDF},
   institution   = {Department of Pathology, Duke University Medical Center, Durham, North Carolina 27710, USA. roggl002@mc.duke.edu},
   keywords      = {Asbestos, Amphibole, adverse effects/analysis/classification; Asbestos, Serpentine, adverse effects/analysis/classification; Asbestosis, diagnosis/etiology; Bronchiolitis, diagnosis; Diagnosis, Differential; Humans; Mineral Fibers; Practice Guidelines as Topic; Pulmonary Fibrosis, diagnosis; Radiography, Thoracic; Societies, Medical; United States},
@@ -2889,7 +2864,6 @@
   owner         = {sam},
   pii           = {10.1043/1543-2165-134.3.462},
   pmid          = {20196674},
-  review        = {An important differential diagnosis that arises in cases of asbestosis?especially when there is clinical-radiologic controversy about the diagnosis?is determining whether the disorder represents asbestosis or another interstitial disorder, such as one of the idiopathic interstitial pneumonias, especially UIP. One point of distinction is that UIP tends to be more rapidly progressive than asbestosis, which is usually either static or only slowly progressive,69 although cases of rapidly progressive asbestosis do occur.72 About 50% or fewer cases progress after cessation of asbestos exposure.67 Clinical asbestosis can be induced by cumulative asbestos exposure amounting to an estimated 25 fibers/ ml?yrs,31,67 and Browne73 and Churg74 have indicated that a ??dose?? in the range of 25 to 100 fibers/ml?yrs is required for the development of asbestosis. One Chinese study,75 based on chest radiographs of workers involved in the manufacture of asbestos products, found a 1% prevalence of grade I asbestosis (according to the Chinese system of grading), at a cumulative exposure of 22 fibers/ml?yrs. Green et al,76 in an autopsy study on the South Carolina asbestos textile workers, reported that histologic asbesto- sis was usually detectable with exposures in excess of 20 fibers/ml?yrs, and a few cases were found with estimated cumulative exposures of 10?20 fibers/ml?yrs (histologic examination being the most sensitive and specific means for the diagnosis of asbestosis). From an analysis of cases in the German Mesothelioma Register, Fischer et al77 reported that a requirement for asbestos exposure amounting to 25 fibers/ml?yrs for the diagnosis of asbestosis?including minimal histologic asbestosis? would lead to underrecognition of 42% of asbestosis cases and false-positive diagnoses in 24%. Estimates of cumulative asbestos exp},
   timestamp     = {2014.04.27},
 }
 
@@ -3130,19 +3104,18 @@
 }
 
 @Article{Scott1990,
-  Title                    = {What causes cryptogenic fibrosing alveolitis? A case-control study of environmental exposure to dust.},
-  Author                   = {Scott, Jonathan and Johnston, Ian and Britton, John},
-  Journal                  = {BMJ},
-  Year                     = {1990},
-  Number                   = {6759},
-  Pages                    = {1015},
-  Volume                   = {301},
-
-  File                     = {Scott1990.pdf:Scott1990.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Group},
-  Review                   = {good on diagnostic difficulties in asbestosis types of fibre important},
-  Timestamp                = {2015.09.29}
+  author    = {Scott, Jonathan and Johnston, Ian and Britton, John},
+  title     = {What causes cryptogenic fibrosing alveolitis? A case-control study of environmental exposure to dust.},
+  journal   = {BMJ},
+  year      = {1990},
+  volume    = {301},
+  number    = {6759},
+  pages     = {1015},
+  comment   = {good on diagnostic difficulties in asbestosis types of fibre important},
+  file      = {Scott1990.pdf:Scott1990.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Group},
+  timestamp = {2015.09.29},
 }
 
 @Article{Seibold2011,
@@ -3341,18 +3314,17 @@
 }
 
 @Article{Society2004a,
-  Title                    = {Diagnosis and initial management of nonmalignant diseases related to asbestos.},
-  Author                   = {American Thoracic Society and others},
-  Journal                  = {Am. J. Respir. Crit. Care Med.},
-  Year                     = {2004},
-  Number                   = {6},
-  Pages                    = {691},
-  Volume                   = {170},
-
-  File                     = {Society2004.pdf:Society2004.pdf:PDF},
-  Owner                    = {sam},
-  Review                   = {ATS2004 ?dx non-malignant asbestosis doesn't increase RR asbestos assoc malignant disease guideline focuses on non-malignant conditions diagnostic criteria: 1. evidence of structural change asssoc with asbestosis basically UIP on imaging or histpath 2. appropriate occupation or environmental exposure c appropriate temporal relation to infer causation inc latency, markers of exposure e.g pleural plaques, recovery of asbestosis bodies on BAL 3. exclusion of alternative plausible causes for findings guidelines suggest latency of >=15 years is needed and an exposure of 10-20 years, lower limit of several months to 1yr of high exposure e.g ship yard workers >1 asbestos body / ml on BAL give high probability of sig asbestos exposure In one large series, patients with asbestosis had a log mean of 120 AB/ml, those with pleural plaques had 5 AB/ml, those exposed to asbestos who had a normal chest X-ray had 4 AB/ml, and those with malignant mesothelioma or lung cancer had 8 AB/ml. Of those with more than 100 AB/ml, 60% had asbestosis; others had pleural plaques, mesothelioma, or lung cancer, and only 6% were exposed but had no evidence of pathology (59). The six minerals that are traditionally defined as asbestos include chrysotile asbestos (the asbestiform variety of serpentine); the amphiboles, which include crocidolite (the asbestiform variety of riebeckite) and amosite (the asbestiform variety of cumming- tonite-grunerite); and the asbestiform varieties of the amphi- boles, which include anthophyllite (anthophyllite asbestos), ac- tinolite (actinolite asbestos), and tremolite (tremolite asbestos) (6). BAL performed on asbestos-exposed subjects has recovered 28 ?103 fibers compared with 1 ?103 in unexposed subjects (60 For every 100 fibers (seen using EM), there is typically 1 asbestos body. *** n one large series, patients with asbestosis had a log mean of 120 AB/ml, those with pleural plaques had 5 AB/ml, those exposed to asbestos who had a normal chest X-ray had 4 AB/ml, and those with malignant mesothelioma or lung cancer had 8 AB/ml. Of those with more than 100 AB/ml, 60% had asbestosis; others had pleural plaques, mesothelioma, or lung cancer, and only 6% were exposed but had no evidence of pathology (59). *** 4 main groups affected: basically those making and using/working with asbesosis 1. legacy group, used to work with asbestos, not so many since 70s and 80s (cos legislation in response to recognition of risk) 2. occupations where exposure remains e.g those working in building maintainence 3. asbestos abatement activities inc removal and renweal of wall insulation 4. renovation and demolition of structures contaning asbestos degree of fibrosis in asbestosis is dose dependant (?= linear) p693 ref 9-12 variable relation between no of asbestos bodies on BAL and amount of fibrosis considerable between lab variation in methods to quantify asbestos in lung tissue e.g EM ?energy dispersive x-ray analysis asbestos bodies are asbestos fibres coated with iron rich proteinaceous concretion symptoms classically insiduous e.g grad SOBOE, non productive cough, wheeze, chest pain common (norm intemittent, constant in 9%), restrictive defect on PFT seen in 1/3 o/e fine bibasal end insp creps, basilar rales International labour organisation (ILO) training to read pneumoconiosis xray = b-reader classification of asbestosis xray makes critical distinction is made between films that are suggestive but not presumptively diagnostic (0/1) and those that are presump- tively diagnostic but not unequivocal (1/0). xray limited sens and specficiity, one study 15-20% proven asbestosis histologically had no xray changes HRCT better. 34% of asbestos exposed peeps in one study had ILO score 0/0 or 0/1 cxr but HRCT suggestive of asbestosis n addition to diminished lung volumes, the carbon monoxide diffusing capacity is commonly reduced due to diminished alveo- lar?capillary gas diffusion, as well as ventilation?perfusion mis- matching. Although a low diffusing capacity for carbon monox- ide is often reported as the most sensitive indicator},
-  Timestamp                = {2015.09.29}
+  author    = {American Thoracic Society and others},
+  title     = {Diagnosis and initial management of nonmalignant diseases related to asbestos.},
+  journal   = {Am. J. Respir. Crit. Care Med.},
+  year      = {2004},
+  volume    = {170},
+  number    = {6},
+  pages     = {691},
+  comment   = {ATS2004 ?dx non-malignant asbestosis doesn't increase RR asbestos assoc malignant disease guideline focuses on non-malignant conditions diagnostic criteria: 1. evidence of structural change asssoc with asbestosis basically UIP on imaging or histpath 2. appropriate occupation or environmental exposure c appropriate temporal relation to infer causation inc latency, markers of exposure e.g pleural plaques, recovery of asbestosis bodies on BAL 3. exclusion of alternative plausible causes for findings guidelines suggest latency of >=15 years is needed and an exposure of 10-20 years, lower limit of several months to 1yr of high exposure e.g ship yard workers >1 asbestos body / ml on BAL give high probability of sig asbestos exposure In one large series, patients with asbestosis had a log mean of 120 AB/ml, those with pleural plaques had 5 AB/ml, those exposed to asbestos who had a normal chest X-ray had 4 AB/ml, and those with malignant mesothelioma or lung cancer had 8 AB/ml. Of those with more than 100 AB/ml, 60% had asbestosis; others had pleural plaques, mesothelioma, or lung cancer, and only 6% were exposed but had no evidence of pathology (59). The six minerals that are traditionally defined as asbestos include chrysotile asbestos (the asbestiform variety of serpentine); the amphiboles, which include crocidolite (the asbestiform variety of riebeckite) and amosite (the asbestiform variety of cumming- tonite-grunerite); and the asbestiform varieties of the amphi- boles, which include anthophyllite (anthophyllite asbestos), ac- tinolite (actinolite asbestos), and tremolite (tremolite asbestos) (6). BAL performed on asbestos-exposed subjects has recovered 28 ?103 fibers compared with 1 ?103 in unexposed subjects (60 For every 100 fibers (seen using EM), there is typically 1 asbestos body. *** n one large series, patients with asbestosis had a log mean of 120 AB/ml, those with pleural plaques had 5 AB/ml, those exposed to asbestos who had a normal chest X-ray had 4 AB/ml, and those with malignant mesothelioma or lung cancer had 8 AB/ml. Of those with more than 100 AB/ml, 60% had asbestosis; others had pleural plaques, mesothelioma, or lung cancer, and only 6% were exposed but had no evidence of pathology (59). *** 4 main groups affected: basically those making and using/working with asbesosis 1. legacy group, used to work with asbestos, not so many since 70s and 80s (cos legislation in response to recognition of risk) 2. occupations where exposure remains e.g those working in building maintainence 3. asbestos abatement activities inc removal and renweal of wall insulation 4. renovation and demolition of structures contaning asbestos degree of fibrosis in asbestosis is dose dependant (?= linear) p693 ref 9-12 variable relation between no of asbestos bodies on BAL and amount of fibrosis considerable between lab variation in methods to quantify asbestos in lung tissue e.g EM ?energy dispersive x-ray analysis asbestos bodies are asbestos fibres coated with iron rich proteinaceous concretion symptoms classically insiduous e.g grad SOBOE, non productive cough, wheeze, chest pain common (norm intemittent, constant in 9%), restrictive defect on PFT seen in 1/3 o/e fine bibasal end insp creps, basilar rales International labour organisation (ILO) training to read pneumoconiosis xray = b-reader classification of asbestosis xray makes critical distinction is made between films that are suggestive but not presumptively diagnostic (0/1) and those that are presump- tively diagnostic but not unequivocal (1/0). xray limited sens and specficiity, one study 15-20% proven asbestosis histologically had no xray changes HRCT better. 34% of asbestos exposed peeps in one study had ILO score 0/0 or 0/1 cxr but HRCT suggestive of asbestosis n addition to diminished lung volumes, the carbon monoxide diffusing capacity is commonly reduced due to diminished alveo- lar?capillary gas diffusion, as well as ventilation?perfusion mis- matching. Although a low diffusing capacity for carbon monox- ide is often reported as the most sensitive indicator},
+  file      = {Society2004.pdf:Society2004.pdf:PDF},
+  owner     = {sam},
+  timestamp = {2015.09.29},
 }
 
 @Article{Society2000,
@@ -3382,19 +3354,18 @@
 }
 
 @Article{Spirtas1994,
-  Title                    = {Malignant mesothelioma: attributable risk of asbestos exposure.},
-  Author                   = {Spirtas, Robert and Heineman, Ellen F and Bernstein, Leslie and Beebe, Gilbert W and Keehn, Robert J and Stark, Alice and Harlow, Bernard L and Benichou, Jacques},
-  Journal                  = {Occup. Environ. Med.},
-  Year                     = {1994},
-  Number                   = {12},
-  Pages                    = {804--811},
-  Volume                   = {51},
-
-  File                     = {Spirtas1994.pdf:Spirtas1994.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {BMJ Publishing Group Ltd},
-  Review                   = {most pleural and peritoneal mesotheliomas in men are attributable to asbestos exposure higher attributable risk to asbestos exposure for pleural mesothelioma (88%) rahter than peritoneal (58%)},
-  Timestamp                = {2015.09.29}
+  author    = {Spirtas, Robert and Heineman, Ellen F and Bernstein, Leslie and Beebe, Gilbert W and Keehn, Robert J and Stark, Alice and Harlow, Bernard L and Benichou, Jacques},
+  title     = {Malignant mesothelioma: attributable risk of asbestos exposure.},
+  journal   = {Occup. Environ. Med.},
+  year      = {1994},
+  volume    = {51},
+  number    = {12},
+  pages     = {804--811},
+  comment   = {most pleural and peritoneal mesotheliomas in men are attributable to asbestos exposure higher attributable risk to asbestos exposure for pleural mesothelioma (88%) rahter than peritoneal (58%)},
+  file      = {Spirtas1994.pdf:Spirtas1994.pdf:PDF},
+  owner     = {sam},
+  publisher = {BMJ Publishing Group Ltd},
+  timestamp = {2015.09.29},
 }
 
 @Article{Stayner2013,
@@ -3506,19 +3477,18 @@
 }
 
 @Article{Taskar2006,
-  Title                    = {Is idiopathic pulmonary fibrosis an environmental disease?},
-  Author                   = {Taskar, Varsha S and Coultas, David B},
-  Journal                  = {Proc. Am. Thorac. Soc.},
-  Year                     = {2006},
-  Number                   = {4},
-  Pages                    = {293--298},
-  Volume                   = {3},
-
-  File                     = {Taskar2006.pdf:Taskar2006.pdf:PDF},
-  Owner                    = {sam},
-  Publisher                = {Am Thoracic Soc},
-  Review                   = {nice overview of diagnostic difficulties in ipf and evidence for environmental cause},
-  Timestamp                = {2015.09.29}
+  author    = {Taskar, Varsha S and Coultas, David B},
+  title     = {Is idiopathic pulmonary fibrosis an environmental disease?},
+  journal   = {Proc. Am. Thorac. Soc.},
+  year      = {2006},
+  volume    = {3},
+  number    = {4},
+  pages     = {293--298},
+  comment   = {nice overview of diagnostic difficulties in ipf and evidence for environmental cause},
+  file      = {Taskar2006.pdf:Taskar2006.pdf:PDF},
+  owner     = {sam},
+  publisher = {Am Thoracic Soc},
+  timestamp = {2015.09.29},
 }
 
 @Article{Teschke2002,
@@ -3566,10 +3536,10 @@
   number        = {4},
   pages         = {311--316},
   __markedentry = {[drcjar:1]},
+  comment       = {define no of asbestos bodies/fibres that should be seen in lung for suspicion of exposure and together with diffuse interstitial fibrosis for diagnosis 'rare cases' have no asbestos bodies pleural plaques not specific for diagnosis (ILO 1980) peritoneal mesotheliomas assoc with higher levels of asbestos exposure than pleural about 80% of mesothelioma patients have been exposed to asbestos},
   file          = {Tossavainen1997.pdf:Tossavainen1997.pdf:PDF},
   owner         = {sam},
   publisher     = {Scandinavian Journal of Work, Environment \& Health},
-  review        = {define no of asbestos bodies/fibres that should be seen in lung for suspicion of exposure and together with diffuse interstitial fibrosis for diagnosis 'rare cases' have no asbestos bodies pleural plaques not specific for diagnosis (ILO 1980) peritoneal mesotheliomas assoc with higher levels of asbestos exposure than pleural about 80% of mesothelioma patients have been exposed to asbestos},
   timestamp     = {2015.09.29},
 }
 
@@ -3990,8 +3960,8 @@
   volume    = {6},
   number    = {2},
   pages     = {154--160},
+  comment   = {nice overview of risk factor snps and epigenetics},
   publisher = {Elsevier},
-  review    = {nice overview of risk factor snps and epigenetics},
 }
 
 @Book{Parkes2017,
@@ -4357,7 +4327,7 @@
   revised         = {2006-02-27},
 }
 
-@Article{Finkelstein1995,
+@Article{Finkelstein1995a,
   author          = {Finkelstein, M M},
   title           = {Potential pitfall in using cumulative exposure in exposure-response relationships: demonstration and discussion.},
   journal         = {American journal of industrial medicine},
@@ -4411,7 +4381,7 @@
   revised         = {2017-02-20},
 }
 
-@Article{DeVuyst1998,
+@Article{DeVuyst1998a,
   author          = {De Vuyst, P and Karjalainen, A and Dumortier, P and Pairon, J C and Monsó, E and Brochard, P and Teschler, H and Tossavainen, A and Gibbs, A},
   title           = {Guidelines for mineral fibre analyses in biological samples: report of the ERS Working Group. European Respiratory Society.},
   journal         = {The European respiratory journal},
@@ -4613,6 +4583,9 @@
   __markedentry   = {[drcjar:1]},
   chemicals       = {Biomarkers, Asbestos},
   citation-subset = {IM},
+  comment         = {published consensus report
+
+online version more detailed },
   completed       = {2015-09-18},
   country         = {Finland},
   issn-linking    = {0355-3140},
@@ -4623,9 +4596,6 @@
   pmid            = {25299403},
   pubmodel        = {Print-Electronic},
   pubstatus       = {ppublish},
-  review          = {published consensus report
-
-online version more detailed },
   revised         = {2016-05-02},
 }
 
@@ -4858,7 +4828,7 @@ online version more detailed },
   timestamp     = {2014.05.19},
 }
 
-@InCollection{Peto1985,
+@InCollection{Peto1985a,
   author        = {Peto J},
   title         = {Problems in dose response and risk assessment: the example of asbestos.},
   booktitle     = {Epidemiology and quantitation of environmental risk in humans from radiation and other agents. NATO ASI Series. New Yotk: Plenum Press. pp175-185},
@@ -4960,6 +4930,7 @@ online version more detailed },
   abstract        = {To estimate the proportion of pleural mesothelioma cases that can be attributed to asbestos exposure in France including non-occupational exposure. A population-based case-control study including 437 incident cases and 874 controls was conducted from 1998 to 2002. Occupational and non-occupational asbestos exposure was assessed retrospectively by two expert hygienists. ORs of pleural mesothelioma for asbestos-exposed subjects compared to non-exposed subjects, and population-attributable risk (ARp) of asbestos exposure were estimated using a conditional logistic regression. A clear dose-response relationship was observed between occupational asbestos exposure and pleural mesothelioma (OR=4.0 (99% CI 1.9 to 8.3) for men exposed at less than 0.1 f/mL-year vs. 67.0 (99% CI 25.6 to 175.1) for men exposed at more than 10 f/mL-year). The occupational asbestos ARp was 83.1% (99% CI 74.5% to 91.7%) for men and 41.7% (99% CI 25.3% to 58.0%) for women. A higher risk of pleural mesothelioma was observed in subjects non-occupationally exposed to asbestos compared to those never exposed. The non-occupational asbestos ARp for these subjects was 20.0% (99% CI -33.5% to 73.5%) in men and 38.7% (99% CI 8.4% to 69.0%) in women. When considering all kinds of asbestos exposure, ARp was 87.3% (99% CI 78.9% to 95.7%) for men and 64.8% (99% CI 45.4% to 84.3%) for women. Our study suggests that the overall ARp in women is largely driven by non-occupational asbestos exposure arguing for the strong impact of such exposure in pleural mesothelioma occurrence. Considering the difficulty in assessing domestic or environmental asbestos exposure, this could explain the observed difference in ARp between men and women.},
   chemicals       = {Asbestos},
   citation-subset = {IM},
+  comment         = {ARp was 83.1% (99% CI 74.5% to 91.7%) for men and 41.7% (99% CI 25.3% to 58.0%) },
   completed       = {2014-06-26},
   country         = {England},
   issn-linking    = {0040-6376},
@@ -4970,7 +4941,6 @@ online version more detailed },
   pmid            = {24508707},
   pubmodel        = {Print-Electronic},
   pubstatus       = {ppublish},
-  review          = {ARp was 83.1% (99% CI 74.5% to 91.7%) for men and 41.7% (99% CI 25.3% to 58.0%) },
   revised         = {2014-05-15},
 }
 
@@ -5227,7 +5197,7 @@ online version more detailed },
   revised         = {2011-01-18},
 }
 
-@Article{Teschke2000,
+@Article{Teschke2000a,
   author          = {Teschke, K and Smith, J C and Olshan, A F},
   title           = {Evidence of recall bias in volunteered vs. prompted responses about occupational exposures.},
   journal         = {American journal of industrial medicine},
@@ -5351,7 +5321,7 @@ online version more detailed },
   revised         = {2006-11-15},
 }
 
-@Article{Iwatsubo1998,
+@Article{Iwatsubo1998a,
   author          = {Iwatsubo, Y and Pairon, J C and Boutin, C and Ménard, O and Massin, N and Caillaud, D and Orlowski, E and Galateau-Salle, F and Bignon, J and Brochard, P},
   title           = {Pleural mesothelioma: dose-response relation at low levels of asbestos exposure in a French population-based case-control study.},
   journal         = {American journal of epidemiology},
@@ -5377,7 +5347,7 @@ online version more detailed },
   revised         = {2006-11-15},
 }
 
-@Article{Iwatsubo1998,
+@Article{Iwatsubo1998b,
   author          = {Iwatsubo, Y and Pairon, J C and Boutin, C and Ménard, O and Massin, N and Caillaud, D and Orlowski, E and Galateau-Salle, F and Bignon, J and Brochard, P},
   title           = {Pleural mesothelioma: dose-response relation at low levels of asbestos exposure in a French population-based case-control study.},
   journal         = {American journal of epidemiology},
@@ -5468,7 +5438,6 @@ online version more detailed },
   month           = mar,
   pages           = {262--275},
   issn            = {0271-3586},
-  __markedentry   = {[drcjar:6]},
   abstract        = {This study examines the role of occupational factors in the development of diffuse malignant mesothelioma with special emphasis on the dose-response relationship for asbestos and on the exposure to man-made vitreous fibers (MMVFs). One hundred and twenty-five male cases, diagnosed by a panel of pathologists, were personally interviewed concerning their occupational and smoking history. The same number of population controls (matched for sex, age and region of residence) underwent similar interviews by trained interviewers. Odds ratios (OR) were calculated for an expert-based exposure index using conditional logistic regression. Exposure to asbestos shows the expected sharp gradient with an OR of about 45 for a cumulative exposure > 1.5 fiber years (arithmetic mean 16 fiber years). A significant OR was calculated even for the lowest exposure category "> 0 - < or = 0.15 fiber years". Although the mean cumulative exposure to MMVF is roughly 10% of the exposure to asbestos, an increased OR is observed in an ever/never evaluation. This observation is heavily hampered by methodical problems. A corresponding case-control study was performed using a lung tissue fiber analysis in addition to interviews. Both interviews and the lung tissue analysis yielded similar OR levels between the reference and the maximum exposure intervals. Despite a possible influence as a result of selection and information bias, our results confirm the previously reported observation of a distinct dose-response relationship even at levels of cumulative exposure below 1 fiber year. Moreover, the study confirms that asbestos is a relevant confounder for MMVF. A causal relationship between exposure to MMVF and mesothelioma could neither be detected nor excluded, as in other studies.},
   chemicals       = {Asbestos},
   citation-subset = {IM},
@@ -5513,6 +5482,72 @@ online version more detailed },
   institution = {U.S. Department of Health and Human Services, Public Health Service.},
   year        = {2001},
   url         = {https://www.atsdr.cdc.gov/toxprofiles/TP.asp?id=30&tid=4#bookmark16},
+}
+
+@Article{baur2016collegium,
+  author    = {Baur, Xaver and Frank, Arthur L and Budnik, Lygia Therese and Woitowitz, Hans Joachim and Oliver, L Christine and Welch, Laura Stewart and Landrigan, Philip and Lemen, Richard},
+  title     = {Collegium Ramazzini: Comments on the 2014 Helsinki consensus report on asbestos},
+  journal   = {American journal of industrial medicine},
+  year      = {2016},
+  volume    = {59},
+  number    = {7},
+  pages     = {591--594},
+  publisher = {Wiley Online Library},
+}
+
+@Article{Nuyts2017,
+  author          = {Nuyts, Valerie and Vanhooren, Hadewijch and Begyn, Sarah and Nackaerts, Kristiaan and Nemery, Benoit},
+  title           = {Asbestos bodies in bronchoalveolar lavage in the 21st century: a time-trend analysis in a clinical population.},
+  journal         = {Occupational and environmental medicine},
+  year            = {2017},
+  volume          = {74},
+  issue           = {1},
+  month           = jan,
+  pages           = {59--65},
+  issn            = {1470-7926},
+  doi             = {10.1136/oemed-2016-103710},
+  abstract        = {Asbestos bodies (AB) in bronchoalveolar lavage (BAL) can be detected by light microscopy and their concentration is indicative of past cumulative asbestos exposure. We assessed clinical and exposure characteristics, as well as possible time trends, among patients in whom AB had been quantified in BAL. BAL samples obtained from 578 participants between January 1997 and December 2014 were available for analysis. The processing of samples and the microscopic analysis were performed by a single expert and 76% of samples came from a single tertiary care hospital, allowing clinical and exposure data to be extracted from patient files. The study population (95% males) had a mean age of 62.5 (±12.4) years. AB were detected in 55.2% of the samples, giving a median concentration of 0.5 AB/mL (95th centile: 23.6 AB/mL; highest value: 164.5 AB/mL). The AB concentration exceeded 1 AB/mL in 39.4% and 5 AB/mL in 17.8%. A significant decrease from a geometric mean of 0.93 AB/mL in 1997 to 0.2 AB/mL in 2014 was apparent. High AB concentrations generally corresponded with occupations with (presumed) high asbestos exposure. AB concentrations were higher among patients with asbestosis and pleural plaques, when compared with other disease groups. Nevertheless, a substantial proportion of participants with likely exposure to asbestos did not exhibit high AB counts. This retrospective study of a large clinical population supports the value of counting AB in BAL as a complementary approach to assess past exposure to asbestos.},
+  chemicals       = {Asbestos},
+  citation-subset = {IM},
+  completed       = {2017-06-15},
+  country         = {England},
+  issn-linking    = {1351-0711},
+  keywords        = {Adult; Aged; Aged, 80 and over; Asbestos, adverse effects, analysis; Belgium, epidemiology; Bias; Bronchoalveolar Lavage; Bronchoalveolar Lavage Fluid, chemistry; Female; Hospitals, University; Humans; Lung Diseases, diagnosis, epidemiology; Male; Microscopy, Polarization; Middle Aged; Occupational Diseases, diagnosis, epidemiology; Occupational Exposure, adverse effects, analysis; Regression Analysis; Retrospective Studies; Asbestos Bodies; Asbestos-related diseases; Bronchoalveolar Lavage; Occupational exposure},
+  nlm-id          = {9422759},
+  owner           = {NLM},
+  pii             = {oemed-2016-103710},
+  pmid            = {27550908},
+  pubmodel        = {Print-Electronic},
+  pubstatus       = {ppublish},
+  revised         = {2018-02-05},
+}
+
+@Article{Lee2015,
+  author          = {Lee, Sang Hoon and Kim, Dong Soon and Kim, Young Whan and Chung, Man Pyo and Uh, Soo Taek and Park, Choon Sik and Jeong, Sung Hwan and Park, Yong Bum and Lee, Hong Lyeol and Song, Jeong Sup and Shin, Jong Wook and Yoo, Nam Soo and Lee, Eun Joo and Lee, Jin Hwa and Jegal, Yangin and Lee, Hyun Kyung and Park, Moo Suk},
+  title           = {Association between occupational dust exposure and prognosis of idiopathic pulmonary fibrosis: a Korean national survey.},
+  journal         = {Chest},
+  year            = {2015},
+  volume          = {147},
+  issue           = {2},
+  month           = feb,
+  pages           = {465--474},
+  issn            = {1931-3543},
+  doi             = {10.1378/chest.14-0994},
+  __markedentry   = {[drcjar:]},
+  abstract        = {Previous studies have investigated the relationship between occupational and environmental agents and idiopathic pulmonary fibrosis (IPF). However, there have been few studies regarding the prognosis of patients with IPF according to patient occupation. We investigated whether occupational dust exposure was associated with clinically decreased lung function and poor prognosis. The Korean Interstitial Lung Disease Research Group conducted a national survey to evaluate the clinical, physiologic, radiologic, and survival characteristics of patients with IPF. A total of 1,311 patients with IPF were stratified into five groups according to their occupation: (1) unemployed or homemakers (n = 628); (2) farmers, fishers, or ranchers (n = 230); (3) sales or service personnel (n = 131); (4) clerical or professional personnel (n = 151); and (5) specific dust-exposed workers (n = 171). The mean age of subjects at diagnosis, was 67.5 ± 9.7 years. Current smokers were 336 patients, 435 were exsmokers, and 456 were never smokers. Dust-exposed workers showed early onset of IPF (61.3 ± 8.6 years; P < .001) and a longer duration of symptoms at diagnosis (17.0 ± 28.2 months; P = .004). Aging (P = .001; hazard ratio [HR], 1.034; 95% CI, 1.014-1.054), FVC % predicted at diagnosis (P = .004; HR, 0.984; 95% CI, 0.974-0.995), and dust-exposure occupation (P = .033; HR, 1.813; 95% CI, 1.049-3.133) were associated with mortality. These findings indicate that occupational dust may be an aggravating factor associated with a poor prognosis in IPF.},
+  chemicals       = {Dust},
+  citation-subset = {AIM, IM},
+  completed       = {2015-04-21},
+  country         = {United States},
+  issn-linking    = {0012-3692},
+  keywords        = {Aged; Ailanthus; Dust; Humans; Idiopathic Pulmonary Fibrosis, complications, epidemiology, physiopathology; Lung Neoplasms, complications, mortality; Middle Aged; Occupational Diseases, epidemiology; Occupational Exposure; Prognosis; Respiratory Function Tests; Respiratory Insufficiency, complications, mortality; Survival Analysis},
+  nlm-id          = {0231335},
+  owner           = {NLM},
+  pii             = {S0012-3692(15)30181-1},
+  pmid            = {25275573},
+  pubmodel        = {Print},
+  pubstatus       = {ppublish},
+  revised         = {2017-05-22},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
