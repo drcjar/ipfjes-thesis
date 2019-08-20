@@ -67,7 +67,7 @@ Each exposure category was assessed with 6-11 risk estimates (Table 3.2).
 \hline
         Hubbard 2000(22)\cite{Hubbard2000}                  &               & 1.1; 0.4, 2.7   &               &               &    &   & 5   &    &  &     \\
 \hline
-        Miyake 2005(102)\cite{Miyake2005}                  &  5.6; 2.1, 17.9    & 9.6; 1.7, 181.1 & 6.0; 0.3, 112.4 & 0.6; 0.2, 1.9   & 1.8; 0.5, 7.0           & 26 & 11 & 4  & 0   &                    \\
+        Miyake 2005(102)\cite{Miyake2005}                  &  5.6; 2.1, 17.9    & 9.6; 1.7, 181.1 & 6.0; 0.3, 112.4 & 0.6; 0.2, 1.9   & 1.8; 0.5, 7.0           & 26 & 11 & 4  & 0   &  5                  \\
 \hline
         Gustafson 2007(140)\cite{Gustafson2007}               & 1.1; 0.7, 1.7   & 0.9; 0.5, 1.6   & 1.2; 0.7, 2.2   &   & 1.4; 0.7, 2.7           & 6  & 0   & 3  &    & 3                   \\
 \hline
