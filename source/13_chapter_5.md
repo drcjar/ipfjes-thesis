@@ -22,6 +22,19 @@ Mucins are highly evolutionary conserved large glycoproteins that date back arou
 
 The earliest human mucin analgoue is found in Xenopus tropicalis, the African clawed frog, which evolved about 300 million years ago. Mucins are the likely explanation for the observation that frogs show such great resistance to infection during disection and it has been shown that without mucins xenopus get infections.[@Dubaissi2018] 
 
+Mucus is an essential part of the innate immune system, considered to be universal within most phyla of both aquatic and teresterial meazoans. It plays a piviotal role in the prevention of disease by serving as an antimicrobial barier, it also has physiological function including allowing hte exchange of oxygen, carbon diaoxide, nutiresnt and metabolits , whilst lubricating surfaces and reducing ddamage due to sheeer and reducing deydration ofd the
+epoitheliia, and providing hte polymeric matrix which enables ciliary-mucus particle transport.[@Bakshani2018]
+
+evolution of effective barrier properties in a functional surface mucosa appears assosiated with general exclusion of bacteria from bodily tissues. [@Bakshani2018] 
+
+oligisaccharide chains and polymeric strucutre anre thought to confer viscoeleastic properties of mucus which confer its barrier properties. also play crucial role in storage and secreation; intracellular gel-forming mucins are stored in a compact and condensed form in granules within mucus-serceting cells. they're anionic and in stored form high concentration of calcium ions and protons is thought to mask charge and prevent electrostatic repulsion. upon secreation mucins expand 1000-3000 fold taking up water to form a gel as calciu is exchanged for sodium and the pH rises.[@Bakshani2018]
+
+rs35705950 associated with ILA, IPF, CHP, and RA-ILD.
+not associated with SSc-ILD, sarcoidosis, myositis-ILD
+[@Adegunsoye2019]
+
+one study looked at muc5b promotor and risk of coal workers pneumoconiosis rs2672794 and found a non-significant association[@Ji2014]
+
 In the distal airway MUC5b is expressed preferentially, compared with MUC5Ac [@Seibold2013],
 Honeycomb cysts are a defining characteristic of the usual interstitial pneumonia CT pattern typically seen in IPF. MUC5b is the dominant gel-forming mucin in honeycomb cysts[@Seibold2013]  
 
@@ -71,6 +84,16 @@ Understanding how expression of mucins and other genes are spatially regulated w
 [@Bonser2019]
 
 
+muc5b is found in the respiratory tract, salivary glands, cervix, gallbladder, seminal fluid, and middle ear epithelium.
+
+mucins as decoys for microbial adhesins, for example salivary muc5b interacts with streptococcal species 
+
+mucin barrier can be subverted by pathogens, strategies include production of enzymes to degrade mucin core proteins and mucin carbohydrates and effective motility through mucus gels. many mucosal bacterial pahtogens are flagellated for this reason. is evidence that degradative enzymes required for pathogeneisis e.g vibrio cholorae and flagella required e.g h.pylori with dysfunctional flagella has greatly reduced ability to infect. 
+
+[@Linden2008]
+
+
+
 Gain of function promotor variant rs5270590, 3.5 kb upstream of the mucin 5b (MUC5B) transcriptional start site, is the strongest identified risk factor (genetic or otherwise) for the develiopment of either sporadic or familial IPF. The association between rs35705950 has been replicated in 3 gwas and a total of 10 indeopendant cohorts including a mexican cohort and two asian cohorts. However, penetrace is low iwth up to 20\% of non-hispanic whites having a least one copy of the
 variant yet IPF occuring only rarely.
 
@@ -95,11 +118,29 @@ on the other the inflammatory response is a response to injury and may be caused
 
 IL-1β, or interleukin-1 receptor accessory protein (IRAP), are elevated in AMs of patients with ILD, including IPF, sarcoidosis, and asbestosis 82, 83, 84. [@Byrne2016]
 
+asbestos like silica is used in animal models of ipf[@Mohning2019]
+
 
 Stimulated MUC5B production from epithelial cells has been directly linked to antibacterial defense and enhanced alveolar macrophage function,12 and is inducible by PAMPs such as β-glucan14 and by some NF-κB-mediated cytokines (e.g., IL-1β, IL-17A).15 [@LeivaJuarez2018] 
 
 
-innate immune activation of Nalp3 inflammasome by asbestos and silica leads to increased IL-1\beta.[@Dostert2008]
+innate immune activation of Nalp3 inflammasome by asbestos and silica leads to increased IL-1\beta.[@Dostert2008] this is mediated by asbestos and silica causing damage resulting in DAMPs recogniszed by the NLRP3 inflammasome.[@Howrylak2017]
+
+The development of pulmonary fibrosis is strongly associated with increased age, with most
+cases developing in adults over 50 years of age (147). This age-related increase in fibrotic lung
+disease appears to be due in part to greater activity of the NLRP3 inflammasome. Studies per-
+formed in a murine model of bleomycin-induced lung fibrosis showed larger levels of morbidity
+and mortality in older mice compared to younger ones. Moreover, older mice had enhanced levels
+of NLRP3 activity, as well as increased levels of IL-1β and IL-18.[@Howrylak2017][@StoutDelgado2016]
+
+innate immunity prob important; TOLLIP, roll of macrophages etc [@ODwyer2019a]
+
+TOLLIP assoc with incresed suceptibility to ipf and normally functions as negative regulatoro of TLR signalling[@WarheitNiemi2019]
+
+Inflammasomes are key inflammatory signaling platforms that detect microbial substances (pathogen associated molecular patternrs - PAMPS), sterile environmental insults, and molecules derived from host cells (damage associated molecular patterns - DAMPS). Activation of the inflammasome promotes caspase-1-mediated secretion of proinflammatory cytokines interleukin (IL)-1β and IL-18 and pyroptosis. Key first step is priming mediated by TLR activation and upregularion of NF-kB to
+increase transcroption of inflammasome componenet genes and transcription of pro IL-1B. Second step is the asemply of the multiprotein complex and activation of caspase 1. [@WarheitNiemi2009]
+
+
 
 In non-Hispanic whites in the COPDGene cohort with interstitial features (n=454), the MUC5B promoter polymorphism was associated with a 61% lower odds of a prospectively reported acute respiratory disease event (P=0.001), a longer time-to-first event (HR=0.57; P=0.006) and 40% fewer events (P=0.016). The MUC5B promoter polymorphism may have a beneficial effect on the risk of acute respiratory disease events in smokers with interstitial CT features.[@Ash2018]
 
