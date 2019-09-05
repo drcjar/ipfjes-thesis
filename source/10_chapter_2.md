@@ -90,7 +90,7 @@ Each exposure category was assessed with 6-11 risk estimates (Table 3.2).
 \end{table}
 
 
-# Discussion 
+## Discussion 
 
 Our results support the case for a  proportion of IPF cases being attributable to occupational exposures. 
 

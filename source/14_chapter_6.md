@@ -16,6 +16,16 @@ Secondary (exploratory) analysis will investigate gene-environment interaction. 
 
 ## Method
 
+<!--
+https://journals.lww.com/epidem/Abstract/1999/03000/Case_Only_Design_to_Measure_Gene_Gene_Interaction_.14.aspx#pdf-link
+
+https://academic.oup.com/ije/article/40/5/1329/657226
+
+list of wood exposed socs paul from sinonasal cancer
+buckinghamshire
+?http://www.hse.gov.uk/research/rrpdf/rr933.pdf
+-->
+
 In tincidunt viverra dolor, ac pharetra tellus faucibus eget. Pellentesque tempor a enim nec venenatis. Morbi blandit magna imperdiet posuere auctor. Maecenas in maximus est.
 
 
