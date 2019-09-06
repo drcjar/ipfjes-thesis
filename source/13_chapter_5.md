@@ -15,6 +15,7 @@ read up chapter on pot mechnisms of function
 
 ## Introduction
 
+### Mucins, MUC5b structure, function, and evolutionary importance
 
 The mucin family includes proteins that contain tandom repeat structures with a high proportion of prolines, threonines, and serines (which constitute the PTS domain). They are futer defined by extensive glycosylation of the PTS domain through N-Acetylgalactosamine O-linkages at the threonine and serine residues.[@Kufe2009] 
 
@@ -22,29 +23,15 @@ Mucins are highly evolutionary conserved large glycoproteins that date back arou
 
 The earliest human mucin analgoue is found in Xenopus tropicalis, the African clawed frog, which evolved about 300 million years ago. Mucins are the likely explanation for the observation that frogs show such great resistance to infection during disection and it has been shown that without mucins xenopus get infections.[@Dubaissi2018] 
 
-Mucus is an essential part of the innate immune system, considered to be universal within most phyla of both aquatic and teresterial meazoans. It plays a piviotal role in the prevention of disease by serving as an antimicrobial barier, it also has physiological function including allowing hte exchange of oxygen, carbon diaoxide, nutiresnt and metabolits , whilst lubricating surfaces and reducing ddamage due to sheeer and reducing deydration ofd the
-epoitheliia, and providing hte polymeric matrix which enables ciliary-mucus particle transport.[@Bakshani2018]
+Mucus is an essential part of the innate immune system, considered to be universal within most phyla of both aquatic and teresterial meazoans. It plays a piviotal role in the prevention of disease by serving as an antimicrobial barier, it also has physiological function including allowing hte exchange of oxygen, carbon diaoxide, nutiresnt and metabolits , whilst lubricating surfaces and reducing ddamage due to sheeer and reducing deydration ofd the epoitheliia, and providing hte polymeric matrix which enables ciliary-mucus particle transport.[@Bakshani2018]
 
 evolution of effective barrier properties in a functional surface mucosa appears assosiated with general exclusion of bacteria from bodily tissues. [@Bakshani2018] 
 
 oligisaccharide chains and polymeric strucutre anre thought to confer viscoeleastic properties of mucus which confer its barrier properties. also play crucial role in storage and secreation; intracellular gel-forming mucins are stored in a compact and condensed form in granules within mucus-serceting cells. they're anionic and in stored form high concentration of calcium ions and protons is thought to mask charge and prevent electrostatic repulsion. upon secreation mucins expand 1000-3000 fold taking up water to form a gel as calciu is exchanged for sodium and the pH rises.[@Bakshani2018]
 
-rs35705950 associated with ILA, IPF, CHP, and RA-ILD.
-not associated with SSc-ILD, sarcoidosis, myositis-ILD
-[@Adegunsoye2019]
-
-one study looked at muc5b promotor and risk of coal workers pneumoconiosis rs2672794 and found a non-significant association[@Ji2014]
-
-In the distal airway MUC5b is expressed preferentially, compared with MUC5Ac [@Seibold2013],
-Honeycomb cysts are a defining characteristic of the usual interstitial pneumonia CT pattern typically seen in IPF. MUC5b is the dominant gel-forming mucin in honeycomb cysts[@Seibold2013]  
 
 Normal mucus is 97\% water and 3\%solids (mucins, non-mucins, salts, lipids, and cellular debris). Mucin hypersecreation may increase the concentration of solids up to 15\% resulting in viscous elastic mucus that is not easily cleared.
 [@Fahy2010]
-
-excessive MUC5b production in small airway may lead to impaired cilia-mediated clearance leading to chronic airwayy infection and inflamation, bronchiectassis, and distal lung remodelling[@Evans2016]
-
-possible mechanisms of pathogenesis include 1. excessive production of MUC5B by stem cells that attempt to regenerate injured bronchiolar and alvelar epithelium could disrupt normal development pathways and highjack normal repartive mechanisms of the distl jung resulting in fibroprolferation oand honeycomb cyst formation 2. excessive MUC5B production leads to reduced mucocilary function,
-retention of particles, and enhanced lung injury. 3. interaction between MUC5b and motile cilia since distinct cilium gene expression in ipf lung has been observed. 4. excessive MUC5b production may induce endoplasmic retiulum stress and unfolded protein response.[@Evans2016]
 
 Secreted mucins are among the largest molecules encoded in mammalian genomes, their expression induces and requires an endoplasmic reticulum stress response[@Dickey2017] they are glycoproteins (up to 3x10^6 D per monomer) with a regions rich in serine and threonine residues linked by their hydroxyl side groups to sugar chains (O-glycosylation). They account for less than 30\% of the solids in mucus.
 
@@ -71,8 +58,28 @@ mucus gel is propelled in a proximal direction by ciliary beating as part of the
 
 [@Fahy2010]
 
+### MUC5b rs3570950 and respiratory disease
 
-production and secreation of mucus are discrete
+#### Evoltionary medcicine
+
+
+#### Potential role in IPF pathogenesis
+
+
+rs35705950 associated with ILA, IPF, CHP, and RA-ILD.
+not associated with SSc-ILD, sarcoidosis, myositis-ILD
+[@Adegunsoye2019]
+
+one study looked at muc5b promotor and risk of coal workers pneumoconiosis rs2672794 and found a non-significant association[@Ji2014]
+
+In the distal airway MUC5b is expressed preferentially, compared with MUC5Ac [@Seibold2013],
+Honeycomb cysts are a defining characteristic of the usual interstitial pneumonia CT pattern typically seen in IPF. MUC5b is the dominant gel-forming mucin in honeycomb cysts[@Seibold2013]  
+
+
+excessive MUC5b production in small airway may lead to impaired cilia-mediated clearance leading to chronic airwayy infection and inflamation, bronchiectassis, and distal lung remodelling[@Evans2016]
+
+possible mechanisms of pathogenesis include 1. excessive production of MUC5B by stem cells that attempt to regenerate injured bronchiolar and alvelar epithelium could disrupt normal development pathways and highjack normal repartive mechanisms of the distl jung resulting in fibroprolferation oand honeycomb cyst formation 2. excessive MUC5B production leads to reduced mucocilary function,
+retention of particles, and enhanced lung injury. 3. interaction between MUC5b and motile cilia since distinct cilium gene expression in ipf lung has been observed. 4. excessive MUC5b production may induce endoplasmic retiulum stress and unfolded protein response.[@Evans2016]
 
 
 knockout and overexpression models of muc5ac and muc5b in mice:
