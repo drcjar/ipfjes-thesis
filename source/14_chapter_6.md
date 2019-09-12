@@ -26,6 +26,13 @@ buckinghamshire
 ?http://www.hse.gov.uk/research/rrpdf/rr933.pdf
 -->
 
+
+Genotyping
+
+Genotypes of the MUC5B SNP rs35705950 were determined using TaqMan assays (Life Technologies, Carlsbad, CA). Reactions were performed in 384-well plates, and fluorescence was read using an Applied Biosystems Viia7 Sequence Detection System.
+
+
+
 In tincidunt viverra dolor, ac pharetra tellus faucibus eget. Pellentesque tempor a enim nec venenatis. Morbi blandit magna imperdiet posuere auctor. Maecenas in maximus est.
 
 
