@@ -26,77 +26,35 @@ Taskar and Coultas (2006) review and carry out a meta-analysis of six case-contr
 
 Gulati and Redlich’s (2015) review of exposures causing usual interstitial pneumonia highlights that asbestosis may appear indistinguishable from IPF and summarises previous case-control studies but did not pool studies to perform a meta-analysis.[@Gulati2015]
 
-I sought to identify and meta-analyze all IPF case-control studies dealing with occupational exposures.
+I sought to identify and meta-analyze all IPF case-control studies dealing with occupational exposures. This work also contributed to a joint ERS-ATS taskforce on the occupational burden of non-malignant respiratory disease.[@Blanc2019]
 
 ## Method
 
-Pubmed, embase, and google scholar search engines were searched for combinations of the terms 'idiopathic pulmonary fibrosis', 'occupation', 'case-control study' and synonyms. When a relevant papers was identified papers referenced and papers citing the paper were reviewed. Medline ranker[@Fontaine2009] and bespoke pubmed 'mining' techniques[@Reynolds2017pubmed] were also used.
+I searched Pubmed, embase, and google scholar databases for combinations of the terms 'idiopathic pulmonary fibrosis', 'occupation', 'case-control study' and synonyms. My search included all publications from published from the respective database start dates until September 2018. When I identified a relevant paper I also reviewed the references and papers citing the paper. I also used Medline ranker[@Fontaine2009] and bespoke pubmed 'mining' techniques[@Reynolds2017pubmed].
 
-Two investigators independently reviewed and abstracted data for five exposure categories
-common to the identified case-control studies: “vapors, gases, dusts, and/or fumes (VGDF)”, “metal dust”, “wood dust”, “silica dust”, and “agricultural dust”. We calculated PAF as follows: PAF=pc(OR - 1)/OR, where pc is the proportion of cases exposed and OR is the risk estimate.  
+A colleague independently reviewed and abstracted data for five exposure categories common to the identified case-control studies: “vapors, gases, dusts, and/or fumes (VGDF)”, “metal dust”, “wood dust”, “silica dust”, and “agricultural dust”. I calculated PAF as follows: PAF=pc(OR - 1)/OR, where pc is the proportion of cases exposed and OR is the risk estimate.  
 
-We calculated pooled OR and pooled PAF for occupational exposures using fixed effects models and  random effects models in Stata. When there was  results of the models differed substantively, we used the results of the fixed effects model, which were more conservative. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.
+I calculated pooled OR and pooled PAF for occupational exposures using fixed effects models and random effects models in Stata (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP). When there was results of the models differed substantively, we used the results of the fixed effects model, which were more conservative. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.
 
 ## Results 
 
-We found (as of May 2017) 15 case-control studies looking at occupational exposures in IPF the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. [@Scott1990] [@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Pinheiro2008] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Ekstrom2014] [@Koo2017] 
+I found (as of September 2018) 15 case-control studies looking at occupational exposures in IPF the most recent review article covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. [@Scott1990] [@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Pinheiro2008] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Ekstrom2014] [@Koo2017] One study[@Paolocci2013] was included even though it was only available as an abstract at the time of analysis because we knew the fulltext paper was forthcoming.[@Paolocci2018] All figures are adapted from Blanc et al 2019.[@Blanc2019] 
 
-40 risk estimates from 12 publications (1326 IPF cases in total) were used (Table 3.1)[@Scott1990] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Koo2017] 
+![Previous IPF case-control studies reporting on occupational exposures](source/figures/prevstudies.jpg)
 
-Three studies were not used, one because data was not collected on the proportion of cases with specific occupational exposures[@Iwai1994], one because of methodological differences in exposure assignment[@Pinheiro2008], and one because if reported data for pulmonary fibrosis rather than IPF.[@Ekstrom2014] 
+I used 40 risk estimates from 12 publications (1326 IPF cases in total) to perform a metanalysis.[@Scott1990] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Koo2017] Three studies were not used, one because data was not collected on the proportion of cases with specific occupational exposures[@Iwai1994], one because of methodological differences in exposure assignment[@Pinheiro2008], and one because if reported data for pulmonary fibrosis rather than IPF.[@Ekstrom2014] Each exposure category was assessed with 6-11 risk estimates (Table 2.2).
 
-Each exposure category was assessed with 6-11 risk estimates (Table 3.2).
+![Pooled population attributable risk factors for occupation and idiopathic pulmonary fibrosis](source/figures/paf.png)
 
-\begin{table}[htbp]\centering
-\caption{Summary of IPF case-control studies investigating occupational exposures}
-\label{metatable1}
-\small
-    \begin{tabular}{|p{1.5cm}|p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}|p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}p{0.5cm}|p{2.5cm}|p{2cm}|}
-\midrule
-\textbf{Reference (n cases)} & \multicolumn{5}{c}{\textbf{OR; 95\% CI}} & \multicolumn{5}{c}{\textbf{PAF \%}}  \\
-        & vgdf* & metal & wood & ag & si & vgdf* & metal & wood & ag & si  \\
-\toprule
-        Scott 1990(40)\cite{Scott1990}                   & 1.3; 0.8, 2.0 & 11.0; 2.3, 52.4 & 2.9; 0.9, 9.9 & 10.9; 1.2, 96.0 & 1.6; 0.5, 4.8 & 17 & 12 & 10 & 12 & 5   \\
-\hline
-
-        Hubbard 1996(218)\cite{Hubbard1996a}                 &               & 1.7; 1.1, 2.7   & 1.7; 1.0, 2.9   &               &   &  & 10  & 6   &  &\\
-\hline
-        Mullen 1998(15)\cite{Mullen1998}                   & 2.4; 0.7, 8.4   &               & 3.3; 0.4, 25.8  &  & 11; 1.1, 115             & 20 &    & 7  &    & 20                         \\
-\hline
-        Baumgartner 2000(248)\cite{Baumgartner2000}             &               & 2.0; 1.0, 4.0   & 1.6; 0.8, 3.3   & 1.6; 1.0, 2.5   & 3.9; 1.2, 12.7 &   & 5  & 3  & 7 & 2                \\
-\hline
-        Hubbard 2000(22)\cite{Hubbard2000}                  &               & 1.1; 0.4, 2.7   &               &               &    &   & 5   &    &  &     \\
-\hline
-        Miyake 2005(102)\cite{Miyake2005}                  &  5.6; 2.1, 17.9    & 9.6; 1.7, 181.1 & 6.0; 0.3, 112.4 & 0.6; 0.2, 1.9   & 1.8; 0.5, 7.0           & 26 & 11 & 4  & 0   &  5                  \\
-\hline
-        Gustafson 2007(140)\cite{Gustafson2007}               & 1.1; 0.7, 1.7   & 0.9; 0.5, 1.6   & 1.2; 0.7, 2.2   &   & 1.4; 0.7, 2.7           & 6  & 0   & 3  &    & 3                   \\
-\hline
-        Garcia-Sancho Figueroa 2010(97)\cite{Garcia-SanchoFigueroa2010}   & 1.2; 0.8, 1.9   &               &               &               &   & 9   &    &    & &                  \\
-\hline
-        Garcia-Sancho 2011(100)\cite{Garcia-Sancho2011}           & 2.8; 1.5, 5.5   &               &               &               &   &  50  &    &    & &                         \\
-\hline
-        Awadalla 2012 men (95)\cite{Awadalla2012}                &               & 1.6; 0.7, 3.6   & 2.7; 1.1, 6.8    & 1.0; 0.4, 2.3   & 1.1; 0.5, 2.7 &   & 6  & 9  & 0  & 1                         \\
-\hline
-        Awadalla 2012 women (106)\cite{Awadalla2012}                &               &    & 4.3; 0.8, 22.1    & 3.3; 1.2, 10.1  & &   &   & 6  & 14  &             \\
-\hline
-        Paolocci 2013 soft wood (abstract only)(65)\cite{Paolocci2013} &               &     2.8; 1.1, 7.2       & 1.1; 0.4, 3.3 &   & 2.0; 0.9, 4.4               &   &  9  & 0  &    & 11 \\
-\hline
-
-        Paolocci 2013 hard wood (abstract only)(n/a)\cite{Paolocci2013} &               &                        & 	0.9; 0.3, 2.8	 & 		 &               &   &    &  0 &    &        \\
-\hline
-        Koo 2017(78)\cite{Koo2017}                      & 2.7; 0.7, 10.9  & 5.0; 1.4, 18.2  & 2.5; 0.5, 12.3  & & 1.2; 0.4, 3.8              & 35 & 22 & 5  &    & 5     \\        
-\bottomrule             
-\end{tabular}
-\end{table}
-
+![Forrest plot of pooled population attributable risk factors for occupational VGDF exposure and idiopathic pulmonary fibrosis](source/figures/forrest.jpg)
 
 ## Discussion 
 
-Our results support the case for a  proportion of IPF cases being attributable to occupational exposures. 
+My results support the case for a proportion of IPF cases being attributable to occupational exposures. 
 
-Pooled ORs were significantly elevated for VGDF, metal dust, wood dust, agricultural dust, and silica dust; the pooled PAF estimates by category ranged from 4-23\%. This is an important finding for an otherwise idiopathic disease which carries significant morbidity and mortality; identifying causal occupational agents would permit remidiation and prevention.  
+Pooled ORs were significantly elevated for VGDF, metal dust, wood dust, agricultural dust, and silica dust; the pooled PAF estimates by category ranged from 4-23\%. This is an important finding for an otherwise idiopathic disease which carries significant morbidity and mortality; identifying causal occupational agents could permit remidiation and prevention.  
 
-Associations between IPF and wood, metal, and agricultural dust were previouly reported in a meta-analysis of six case-control studies by Taskar and Coultas. [@Taskar2006] While our findings are similar we found a smaller effect size for agricultural exposure and a large effect size for non-specific vapours, gases, dust, and fumes (VGDF), see Table 3.2.  
+Associations between IPF and wood, metal, and agricultural dust were previouly reported in a meta-analysis of six case-control studies by Taskar and Coultas. [@Taskar2006] While my findings are similar I found a smaller effect size for agricultural exposure and a large effect size for non-specific vapours, gases, dust, and fumes (VGDF), see Table 2.2.  
 
 Funnel plot asymmetry using Egger's test, which may be due to publication bias, was present for VGDF (p = 0.04) and metal dust (p = 0.03) but not for wood dust (p = 0.09), silica dust (p = 0.2), and agricultural dust (p = 0.6). However, the number of studies included is small and funnel plot assymetry may be due to chance rather than bias.
 
