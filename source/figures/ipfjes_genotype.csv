@@ -1,0 +1,17 @@
+"Exposure","OR (95%; p-value)^1^ ^2^"
+"rs35705950",
+"GG",1
+"GT","5 (3.7-6.8; < 0.001)"
+"TT","13.3 (5.1-35; < 0.001)"
+,
+"Ever smoked","1.4 (1-1.8; 0.03)^3^"
+"EE interaction (smoking and ever exposed)","1.9 (1.03-3.36; 0.04)^3^"
+,
+"GE interaction (ever exposed)","1.5 (0.8-2.7; 0.2)"
+"GE interaction (categories of exposure)","1.1(0.9-1.4; 0.38)"
+"GE interaction (fibre-ml years)","1(0.99-1; 0.34)"
+"GE interaction (ever smoked)","1.2 (0.6-2.2; 0.7)"
+,
+"^1^ additive model, adjusted for age and smoking",
+"^2^ adjusted for age only where smoking is exposure ",
+"^3^ when adjusting for centre also ever smoked remains significant but smoking and ever exposed does not",

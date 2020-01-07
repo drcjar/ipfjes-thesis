@@ -28,9 +28,9 @@
 
         \normalsize
         Imperial College London, UK\\
-        January 2018
+        January 2020
 
-         Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2018, Carl Reynolds.
+         Except where otherwise noted, content in this thesis is licensed under a Creative Commons Attribution 4.0 License (http://creativecommons.org/licenses/by/4.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. Copyright 2020, Carl Reynolds.
 
     \end{center}
 \end{titlepage}

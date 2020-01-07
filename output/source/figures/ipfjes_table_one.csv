@@ -1,0 +1,31 @@
+"Characteristic","Cases (N=494)","%","Controls( N=466)","%"
+,,,,
+"Age – yr",,,,
+"median",76,,74,
+"range","52-94",,"33-94",
+,,,,
+"Ethnicity",,,,
+"White",479,"97 ",449,96
+"Asian/Asian British",11,"2 ",8,2
+"Black/African/Caribbean/Black British",2,"0 ",7,2
+"Mixed/ Mutliple ethnic groups/Other ethnic group",2,"0 ",2,0
+,,,,
+"Social class",,,,
+1.1,2,"0 ",11,2
+1.2,33,"7 ",28,6
+2,58,"12 ",63,14
+3,73,"15 ",71,15
+4,53,"11 ",50,11
+5,92,"19 ",100,21
+6,117,"24 ",87,19
+7,66,"13 ",56,12
+,,,,
+"Smoking",,,,
+"Current smoker",10,"2 ",30,6
+"Ever smoked",373,"76 ",327,70
+,,,,
+"Packyears",,,,
+"mean",20,,17,
+"median",30,,26,
+"std",25,,24,
+"range","0-220",,"0-165",

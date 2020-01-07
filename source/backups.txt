@@ -1,0 +1,398 @@
+# Idiopathic pulmonary fibrosis job exposures study (IPFJES): Is occupational asbestos exposure an under-recognised cause of IPF?
+
+## Introduction
+
+Occult occupational asbestos exposure as a cause for otherwise 'idiopathic' pulmonary fibrosis has been an open question for at least 30 years. The question arises because of the clinical and radiological similarities of asbestosis and IPF; a usual interstitial pneumonia is observed in both, and patients can present in the same way. (chapter 1) Patients having significant asbestos exposure, that would warrant a diagnosis of asbestosis, may go undetected because they do not recall exposure or because where they do recall exposure it is difficult to assess if the exposure is sufficient to have caused disease.(chapter 4) A recent meta-analysis of IPF case control studies reporting on occupational exposures found significant associations between metal, wood, and stone dust, and IPF.(chapter 2) However, the extent of confounding by groups of workers likely to have significant asbestos co-exposure, for example carpenters and metal plate workers is unknown. The majority of these studies are limited by their reliance on self-reported binary exposure which risks recall bias and does not permit investigation of dose-response relationships which would be helpful for establishing causality. Studies to date have also not looked at the possibility of gene-environment interaction; genetic risk factors such as rs5270590 are now well established and interaction with inhaled exposures is suspected but has not yet proven in humans (chapter 5). The question of asbestos exposure in IPF is a live one globally because countries such as Brazil, Russia, India, and China, continue to consume asbestos and, closer to home, asbestos related and IPF mortality rates continue to rise; asbestos related mortality is driven primarily by pleural mesothelioma and is expected to peak in the next couple of years as a result of effective asbestos exposure control legislation, the rise in IPF mortality rates is unexplained.(chapter 3)
+
+IPFJES is a multi-centre, hospital-outpatient, incident case-control study conceived to definitively address the question of asbestos exposure having a causal role in IPF. Participants were recruited from a network of 21 hospitals across England, Scotland, and Wales. Cases were men who presented, between 01/02/2017 and 01/10/2019, with a new MDT diagnosis of IPF consistent with standard criteria.[@Raghu2011] Controls were men who attended selected outpatient clinics in the same time period. An outpatient clinic was randomly selected to be the source clinic for the recruitment of controls at each hospital from a list of all outpatient clinics (not confined to respiratory) local research teams could recruit from. Over 460 cases and 460 controls, frequency-matched on age, were recruited to achieve a pre-defined recruitment target of 920 participants.[clinicaltrials.gov NCT03211507] Participants were interviewed by telephone by a trained interviewer who was blind to their case status using a bespoke study web application (ipfjes-interview, full source code available at www.ipfjes.org). Lifetime occupational history, smoking history, drug history, family history, and MRC dyspnoea score were recorded. Using ipfjes-interview each occupation was coded on the basis of the Office for national statistics (ONS) standardised occupational classification 1990 (SOC90) at the time of the interview. For participants who recalled carrying out work tasks with asbestos a detailed assessment of each work task was recorded. SOC90 coded jobs were used to assign asbestos exposure risk to participants using occupational proportional mortality rates for malignant pleural mesothelioma. A fibre-ml.year estimate was calculated for participants recalling asbestos exposure. All participants provided an EDTA sample from which DNA was extracted and genotyped according to IPF sucepticbility single nucleotide variant (SNV) rs35705950 using Q-PCR and a Taqman assay. Unconditional logistic regression was used to analyse 'any' vs 'no' asbestos exposure and categories of cumulative exposure adjusting for age and smoking status. In a secondary analysis we used logistic regression to invest6igate metal, wood, and stone dust exposure (self-reported occ upational exposure), and rs35705950 genotype-exposure interactions.
+
+## Method
+
+### Funding, approvals, and registration
+We obtained funding from welcome trust (201291/Z/16/Z) and ethical approval (IRAS project ID 203355, REC reference 17/EM/0021). We also obtained NIHR portfolio status (CPMS ID 203355) and registered our study on clinicaltrials.gov (NCT03211507). Full study documentation is available online at www.ipfjes.org.
+
+### Selection
+Cases were men of any age who were diagnosed with IPF at 21 collaborating hospitals across England, Scotland, and Wales between 01/02/2017 and 01/10/2019. The diagnosis of IPF by the referring centres was made at MDT on the basis of clinical history, high-resolution computed-tomography (HRCT), and where necessary lung biopsy in accordance with standard criteria.[@Raghu2011] Referring centres provided HRCT report findings for all cases and histopathology report findings for cases where a biopsy was performed.
+
+At each collaborating hospital an outpatient clinic was randomly selected to be the source clinic for the recruitment of controls from a list of all outpatient clinics (not confined to respiratory) that the local research team could recruit. If the clinic selected was unsuitable, for example because it did not contain men of a similar age to cases or the clinic lead declined to participate then this was recorded and a further random selection made. Controls were men that attended the selected outpatient clinics between 01/02/2017 and 01/10/2019. Controls were frequency-matched on age, were recruited to achieve a pre-defined recruitment target of 920 participants.
+
+Men who were unable give informed consent or who had worked outside of the UK for one year or more (not including work outside the UK by member of the armed forces or merchant navy) were excluded from being cases and controls. Cases and controls were approached by local research teams and provided with the IPFJES participant information sheet. They were given opportunity to read it and ask questions and then invited to sign the consent form and provide their contact details and a blood sample if they wished to take part. Local researchers completed a case report form detailing participant demographic information, CT and biopsy results, and contact details which was sent together with the blood sample by secure post to the central research team.
+
+### Measures
+A trained interviewer (RS or CR) who was blind to the case status of participants conducted the study interviews by telephone. Interviews were recorded for quality control purposes. The interviewer used a bespoke web application, called ipfjes-interview, to adminster a structured interview collecting information on lifetime occupational history, smoking history, drug history, family history, MRC dyspnoea score, comorbidities, and presenting symptoms. For each job information was collected on the job title, job tasks, employer, start and stop year of employment, and whether employment was full-time (>=35 hour per week) or part time. Smoking history was recorded as start and stop year of smoking, number of cigarettes (or equivilant using https://www.smokingpackyears.com/) per day, and what was smoked - cigarettes/roll-ups/pipe/other. Participants were asked about prior exposure nine drugs suspected of causing usual interstitial pneumonia (amiodarone, azathioprine, bleomycin, flecainide, gefitinib, ifosamide, melphalan, and nitrofurantoin).[@Bonniaud2014] Using the job title and ipfjes-interview each occupation was coded in real time to the office for national statistics (ONS) standardised occupational classification 1990 (SOC90).
+
+SOC90 coded jobs were used to assign asbestos exposure risk to participants using occupational proportional mortality rates for malignant pleural mesothelioma[@Peto2009]. For participants who recalled carrying out work tasks with asbestos a detailed assessment of each work task was recorded. A fibre-ml/year estimate was calculated using a model with parameters for the type of asbestos used (substance emission potential, E), what was done with it (activity emission potential, H), how well ventilated the room the activity was carried out in was (general ventilation parameters, D), and whether there were any local exposure controls, for example wetting (local controls, LC). The calculation to estimate asbestos exposure (AE) for a given asbestos related task was: AE = E * H * LC. AE for each task was then weighted according to the amount total of time spent performing the task arrive at a task fibre-ml/year exposure estimate. Task fibre-ml/year exposure estimates were then summed at an individual participant level to provide an overall fibre-ml/year estimate. A random sample of high (top 25% of values), medium (25-75% centile), and low (bottom 25% of values) estimates was checked by a hygeine assessment expert who was blind to participant case status (JC).[@Cherrie1999][@Cherrie2018]
+
+SOC90 coded jobs were also used to assign National Statistics Socio-economic analytic classes (NS-SEC). The Office of National Statistics provides a lookup to assign each SOC90 code to one of eight classes:
+
+1. Higher managerial, administrative and professional occupations. 1.1 Large employers and higher managerial and administrative occupations. 1.2 Higher professional occupations.
+2. Lower managerial, administrative and professional occupations
+3. Intermediate occupations
+4. Small employers and own account workers
+5. Lower supervisory and technical occupations
+6. Semi-routine occupations
+7. Routine occupations
+8. Never worked and long-term unemployed
+
+We then assigned each individual to a single code by calculating the median code for all of the jobs they had held.
+
+Participants were classified as occupationally exposed to stone, wood, and metal dust or not (binary measure) on the basis of the recorded participant provided description of tasks carried out within a job including the words 'stone' (or 'silica'), 'wood', or 'metal', respectively.
+
+All participants provided an EDTA sample from which DNA was extracted and genotyped according to IPF sucepticbility single nucleotide variant (SNV) rs35705950. DNA was extracted using a nucleon dna extaction kit (protocol). Genotypes of the MUC5B SNP rs35705950 were determined using TaqMan assays (Life Technologies, Carlsbad, CA). Reactions were performed in 384-well plates, and fluorescence was read using an Applied Biosystems Viia7 Sequence Detection System (protocol).
+
+
+### Statistical analysis
+Unconditional logistic regression was used to analyse 'any' vs 'no' asbestos exposure and categories of cumulative exposure adjusting for age and smoking status. In a secondary analysis we used logistic regression to investigate metal, wood, and stone dust exposure (self-reported occ upational exposure), and rs35705950 genotype-exposure interactions. Sensitivity analysis of distance to centre was also performed because we expected cases to live further away from the hospital that controls on average (as IPF care is centralised to a select number of specialist centres) and we hypothesised that distance from the hospital might be associated with liklihood of exposure to asbestos.
+
+<!--
+https://journals.lww.com/epidem/Abstract/1999/03000/Case_Only_Design_to_Measure_Gene_Gene_Interaction_.14.aspx#pdf-link
+
+https://academic.oup.com/ije/article/40/5/1329/657226
+
+list of wood exposed socs paul from sinonasal cancer
+buckinghamshire
+?http://www.hse.gov.uk/research/rrpdf/rr933.pdf
+-->
+
+## Results
+
+516 cases and 511 controls were recruited to IPFJES in the study period Feb 2017 to October 2019. 22 of 516 cases(4\%), and 45 of 511 controls(9\%) were withdrawn because they no longer wished to take part in the study, they did not respond after we called them on three occasions, or we were notified that they had died before the interview took place. The remaining 960 participants (494 cases, 466 controls) comprise the study sample.
+
+The median year of birth and age was 1943 and 76 for cases and 1945 and 74 for controls. Most cases and controls reported their ethnicity as White (97% and 96% respecitively). Social economic class and exposure to smoking were similar for cases and controls (see Table one).
+
+\newpage
+### Table one: Participant demographic characteristics
+
+
+| Characteristic                                   | Cases (N=494) | %  | Controls( N=466) | %  |
+|--------------------------------------------------|---------------|----|------------------|----|
+| Age – yr                                         |               |    |                  |    |
+| median                                           | 76            |    | 74               |    |
+| interquartile range                              | 71-81         |    | 69-79            |    |
+|                                                  |               |    |                  |    |
+| Ethnicity                                        |               |    |                  |    |
+| White                                            | 479           | 97 | 449              | 96 |
+| Asian/Asian British                              | 11            | 2  | 8                | 2  |
+| Black/African                                    | 2             | 0  | 7                | 2  |
+| Mixed/Other                                      | 2             | 0  | 2                | 0  |
+|                                                  |               |    |                  |    |
+| Social class                                     |               |    |                  |    |
+| 1.1                                              | 2             | 0  | 11               | 2  |
+| 1.2                                              | 33            | 7  | 28               | 6  |
+| 2                                                | 58            | 12 | 63               | 14 |
+| 3                                                | 73            | 15 | 71               | 15 |
+| 4                                                | 53            | 11 | 50               | 11 |
+| 5                                                | 92            | 19 | 100              | 21 |
+| 6                                                | 117           | 24 | 87               | 19 |
+| 7                                                | 66            | 13 | 56               | 12 |
+|                                                  |               |    |                  |    |
+| Smoking                                          |               |    |                  |    |
+| Current smoker                                   | 10            | 2  | 30               | 6  |
+| Ever smoked                                      | 373           | 76 | 327              | 70 |
+| Packyears                                        |               |    |                  |    |
+| mean                                             | 27            |    | 24               |    |
+| median                                           | 20            |    | 19               |    |
+| interquartile range                              | 9-36          |    | 7-34             |    |
+
+
+All cases had a CT thorax and this was reported as definite UIP in 266 (54%), possible UIP (44%) or other 12 (2%). Nine cases (2%) had a biopsy because the CT was thorax was non-diagnostic, all of these were reported as define UIP. Cases were more breathless than controls as measured by the Medical Research Council dyspnoea scale and known rs3570950 IPF assoications were evident (see Table two).
+
+### Table two: Patient clinical features (from case report form) and genotypes
+
+|                    | Cases (N=494) | %  | Controls (N=466) | %   |
+|--------------------|---------------|----|------------------|-----|
+| CT                 |               |    |                  |     |
+| no CT              | 0             | 0  | 462              | 99  |
+| definite UIP       | 266           | 54 | 1^1^             | 0   |
+| possible UIP       | 216           | 44 | 0                | 0   |
+| other              | 12            | 2  | 3                | 1   |
+|                    |               |    |                  |     |
+| Bx                 |               |    |                  |     |
+| no biopsy          | 485           | 98 | 466              | 100 |
+| definite UIP       | 9             | 2  | 0                | 0   |
+|                    |               |    |                  |     |
+| mmrc               |               |    |                  |     |
+| 0                  | 35            | 7  | 254              | 55  |
+| 1                  | 94            | 19 | 65               | 14  |
+| 2                  | 165           | 33 | 80               | 17  |
+| 3                  | 172           | 35 | 65               | 14  |
+| 4                  | 28            | 6  | 2                | 0   |
+|                    |               |    |                  |     |
+| rs35705950 genotype| N=395         |    | N=423            |     |
+| (G;G)              | 212           | 54 | 327              | 77  |
+| (G;T)              | 152           | 38 | 91               | 22  |
+| (T;T)              | 31            | 8  | 5                | 1   |
+
+^1^ one control had rheumatoid arthritis associated interstitial lung disease
+
+Randomly-selected control clinics for recruiting centres are shown in Table three. Where more than one clinic is shown this indicates that the random selection process was repeated because of difficulty recruiting adequate numbers of participants (defined as four attendances to the control clinic and fewer than four participants recruited).
+
+### Table three: centre control clinic and recruitment
+
+|                                       | Cases (N=494) | Controls (N=466) |
+|---------------------------------------|---------------|------------------|
+| centre number (control source clinic) |               |                  |
+| 1 (General Surgery)                   | 42            | 39               |
+| 2 (Gastroenterology/Stroke)           | 13            | 11               |
+| 3 (Cardiology)                        | 38            | 36               |
+| 4 (Urology)                           | 52            | 52               |
+| 5 (Diabetes/Rheumatology)             | 40            | 31               |
+| 6 (Sleep Apnea)                       | 34            | 37               |
+| 7 (Neurology)                         | 15            | 16               |
+| 8 (ENT)                               | 40            | 39               |
+| 9 (Rheumatology)                      | 31            | 29               |
+| 10 (Oncology)                         | 21            | 73^1^            |
+| 11 (Urology)                          | 11            | 11               |
+| 12 (Haematology)                      | 4             | 3                |
+| 13 (Respiratory)                      | 13            | 14               |
+| 14 (Cardiology)                       | 20            | 16               |
+| 15 (Cardiology)                       | 15            | 14               |
+| 16 (Orthopaedics)                     | 39            | 2^2^             |
+| 17 (Asthma)                           | 6             | 6                |
+| 18 (Hypertension)                     | 15            | 1^2^             |
+| 19 (General Surgery)                  | 7             | 9                |
+| 20 (Urology)                          | 31            | 25               |
+| 21 (Respiratory)                      | 7             | 2                |
+
+^1^ Controls were over-recruited at the local participating centre to help to achieve the recruitment target.
+^2^ Controls were under-recruited because of local research staffing shortage.
+
+330 (67%) cases and 295 (63%) controls ever had a high or medium asbestos exposure risk job, defined on the basis of proportional occupational mortlity statistics.[@Peto2009] Ever having a high or medium asbestos exposure risk job was not associated with IPF (see Table four).
+
+### Table four: Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never)
+
+|       | Cases (%) | Controls (%) | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+|-------|-----------|-------------|--------------------------------|-------------------------------|
+| ever  | 330(67) | 295(63)    | 1.17(0.9-1.5; 0.28)           | 1.09(0.8-1.5; 0.6)           |
+| never | 164(33) | 171(37)    | 1                              | 1                          |
+
+^1^ Adjusted for age, smoking, and centre
+
+There was a non-statistically significant trend in the unadjusted OR whereby higher exposure categories had higher (non-significant) OR for disease (see Table five). The Chi^2^ test for trend was 1.7, p=0.19.
+
+\newpage
+### Table five: Occupational asbestos exposure (inferred by job title) and IPF risk (categories of exposure)
+
+| Category                   | Cases (%) | Controls (%) | Unadjusted OR  (95%CI; p-value) | Adjusted OR^1^  (95%CI; p-value) |
+|----------------------------|-----------|--------------|---------------------------------|--------------------------------|
+| high-risk non-construction | 65(13)    | 52(11)       | 1.30(0.8-2.1;0.3)               | 1.10(0.7-1.8; 0.7)             |
+| high-risk construction     | 141(29)   | 126(27)      | 1.17(0.8-1.8;0.5)               | 1.13(0.8-1.7; 0.55)            |
+| medium risk industrial     | 124(25)   | 117(25)      | 1.11(0.7-1.7;0.64)              | 1.06(0.7-1.6; 0.79)            |
+| low risk industrial        | 94(19)    | 98(21)       | 1(0.7-1.5;0.99)                 | 0.94(0.6-1.5; 0.78)            |
+| office                     | 70(14)    | 73(16)       | 1                               | 1                              |
+
+^1^ Adjusted for age, smoking, and centre
+
+125 (25%) of cases and 108 (23%) of controls recalled occupational asbestos exposure in sufficient detail to permit estimation of cummulative fibre-ml.year exposure. 41 (33%) of cases and 35 (32%) of controls which equated to approximately 8% of the total number of cases and 8% of the total number of controls, had cummulative estimates exceeding 25 asbestos fibre-ml.years (see Table six).
+
+
+### Table six: Occupational asbestos exposure (cummulative fibre ml year estimate) and IPF risk
+
+
+|          | N (% total)                | median | 0-4     | 5-9                                  | 10-14 | 15-19 | 20-24 | > 25    |
+|----------|----------------------------|--------|---------|--------------------------------------|-------|-------|-------|---------|
+| cases    | 125 (25)                   | 6.86   | 62 (50) | 10 (8)                               | 8 (6) | 3 (2) | 4 (3) | 41 (33) |
+| controls | 108 (23)                   | 4.36   | 56 (52) | 4 (4)                                | 5 (5) | 0 (0) | 5 (5) | 35 (32) |
+
+
+![Proportion of exposed particpants in fibre-ml.year categories of exposure](source/figures/fibre.png){ width=50% }
+
+![Boxplot of fibre-ml.year asbestos exposure estimates for cases and controls](source/figures/fibre2.png){ width=50% }
+
+
+Fibre-ml.year exposure assessments showed reasonable correlation on the log-scale, but not the linear scale, with an independant assessor (JC) for a validation sample of low, medium, and high exposure assessments, R^2^ = 0.63 (see Figure 6.1).
+
+![Independant validation of fibre-ml.year exposure assessments](source/figures/cherrie_validation.png){ width=50% }
+
+818 of the 960 participants were genotyped for MUC5b rs3570950. Being hetrozygous for the disease associated variant (GT) had an odds ratio of 5 (95%CI 3.7-6.8; p < 0.001) for disease. Being homozygous for the disease associated variant (GG) had an odds ratio of 13.3 (95%CI 5.1-35, p < 0.001) for disease. Ever having smoked was associated with increased risk of disease, odds ratio 1.4 (95%CI 1-1.8, p < 0.03). There was a statistically significant interaction between smoking and
+having ever been been exposed to a high or medium asbestos exposure risk job, odds ratio for interaction 1.9 (95%CI 1.03-3.36, p < 0.04). Several non-significant gene-environment interactions were present (see Table seven).
+
+\newpage
+### Table seven: MUC5b rs35705950, occupational asbestos exposure, smoking, and IPF risk
+
+| Exposure                                                                                                 | OR (95%CI; p-value)^1^ ^2^ |
+|----------------------------------------------------------------------------------------------------------|--------------------------|
+| rs35705950                                                                                               |                          |
+| GG                                                                                                       | 1                        |
+| GT                                                                                                       | 5 (3.7-6.8; < 0.001)     |
+| TT                                                                                                       | 13.3 (5.1-35; < 0.001)   |
+|                                                                                                          |                          |
+| Ever smoked                                                                                              | 1.4 (1-1.8; 0.03)^3^     |
+| EE interaction (smoking and ever exposed)                                                                | 1.9 (1.03-3.36; 0.04)^3^ |
+|                                                                                                          |                          |
+| GE interaction (ever exposed)                                                                            | 1.5 (0.8-2.7; 0.2)       |
+| GE interaction (categories of exposure)                                                                  | 1.1(0.9-1.4; 0.38)       |
+| GE interaction (fibre-ml years)                                                                          | 1(0.99-1; 0.34)          |
+| GE interaction (ever smoked)                                                                             | 1.2 (0.6-2.2; 0.7)       |
+
+
+ ^1^ additive model, adjusted for age and smoking, N=818 for analysis involving genotype and N=960 for analysis not involving genotype
+ ^2^ adjusted for age only where smoking is exposure
+ ^3^ when adjusting for centre also ever smoked remains significant but smoking and ever exposed does not
+
+Ever having a job with wood, metal, or stone exposure was associated with disease, odds ratio 1.7 (95%CI 1.2-2.3, p < 0.01). Stone dust exposure alone was associated with a statistically significant odds ratio for disease of 2.9 (95%CI 1.3-6.7, p < 0.01) but wood and metal dust were not (see Table eight).
+
+### Table eight: Occupational metal, wood, and stone exposure and IPF risk
+
+| Exposure                 | Cases (%) | Controls (%) | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+|--------------------------|-----------|-------------|--------------------------------|-------------------------------|
+| Wood, metal, stone (any) | 139(28)   | 84(18)      | 1.8(1.3-2.4; <0.01)            | 1.7(1.2-2.3; <0.01)           |
+| Wood                     | 48(10)    | 31(7)       | 1.5(0.9-2.4; 0.09)             | 1.4(0.9-2.3; 0.2)             |
+| Metal                    | 88(18)    | 57(12)      | 1.6(1.1-2.2; 0.02)             | 1.4(0.9-2.0; 0.1)             |
+| Stone                    | 24(5)     | 8(2)        | 2.9(1.3-6.6; 0.01)             | 2.9(1.3-6.7; 0.01)            |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table nine: Sensitivity analysis (limited to jobs that ended before 1980): Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never)
+
+|       | Cases (%) | Controls (%) | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+|-------|-----------|-------------|--------------------------------|-------------------------------|
+| ever  | 250(62) | 220(59)    | 1.11(0.8-1.5; 0.46)           | 0.97(0.72-1.32; 0.87)           |
+| never | 156(38) | 153(41)    | 1                              | 1                          |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table ten: Sensitivity analysis (limited to jobs that ended before 1980): Occupational asbestos exposure (inferred by job title) and IPF risk (categories of exposure)
+
+| Category                   | Cases (%) | Controls (%) | Unadjusted OR  (95%CI; p-value) | Adjusted OR^1^  (95%CI; p-value) |
+|----------------------------|-----------|--------------|---------------------------------|--------------------------------|
+| high-risk non-construction | 53(13)    | 36(10)       | 1.55(0.9-2.6;0.62)               | 1.09(0.61-1.94;0.77)             |
+| high-risk construction     | 95(23)   | 81(22)      | 1.22(0.8-1.9;0.88)               | 1.01(0.63-1.63;0.97)            |
+| medium risk industrial     | 102(25)   | 103(28)      | 1.03(0.7-1.6;0.37)              | 0.83(0.52-1.33;0.44)            |
+| low risk industrial        | 90(22)    | 84(23)       | 1.12(0.7-1.8;0.12)               | 0.94(0.58-1.52;0.8)            |
+| office                     | 66(16)    | 69(18)       | 1                               | 1                              |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table eleven: Sensitivity analysis (limited to jobs that spent minimum of 5 years in): Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never)
+
+|       | Cases (%) | Controls (%) | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+|-------|-----------|-------------|--------------------------------|-------------------------------|
+| ever  | 257(52) | 235(51)    | 1.06(0.82-1.37; 0.65)           | 0.93(0.71-1.22; 0.63)           |
+| never | 237(48) | 230(49)    | 1                              | 1                          |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table twelve: Sensitivity analysis (limited to jobs that spent minimum of 5 years in): Occupational asbestos exposure (inferred by job title) and IPF risk (categories of exposure)
+
+| Category                   | Cases (%) | Controls (%) | Unadjusted OR  (95%CI; p-value) | Adjusted OR^1^  (95%CI; p-value) |
+|----------------------------|-----------|--------------|---------------------------------|--------------------------------|
+| high-risk non-construction | 34(7)    | 32(7)       | 0.93(0.55-1.6;0.47)               | 0.68(0.38-1.22;0.2)             |
+| high-risk construction     | 115(23)   | 98(22)      | 1.03(0.71-1.5;0.39)               | 0.94(0.64-1.4;0.78)            |
+| medium risk industrial     | 108(22)   | 105(23)      | 0.9(0.63-1.3;0.26)              | 0.72(0.49-1.07;0.11)            |
+| low risk industrial        | 99(20)    | 109(23)       | 0.79(0.55-1.48;0.14)               | 0.73(0.49-1.08;0.34)            |
+| office                     | 138(28)    | 121(26)       | 1                               | 1                              |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+![Years in a medium or high risk asbestos exposure job for cases and controls](source/figures/years.png)
+
+
+### Table thirteen: Sensitivity analysis (limited to participants within 10km of the hospital): Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never)
+
+|       | Cases (%) | Controls (%) | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+|-------|-----------|-------------|--------------------------------|-------------------------------|
+| ever  | 111(73) | 180(64)    | 1.46(0.95-2.26; 0.08)           | 1.33(0.82-2.16; 0.24)           |
+| never | 42(27) | 100(36)    | 1                              | 1                          |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table forteen: Sensitivity analysis (limited to participants within 10km of the hospital): Occupational asbestos exposure (inferred by job title) and IPF risk (categories of exposure)
+
+| Category                   | Cases (%) | Controls (%) | Unadjusted OR  (95%CI; p-value) | Adjusted OR^1^  (95%CI; p-value) |
+|----------------------------|-----------|--------------|---------------------------------|--------------------------------|
+| high-risk non-construction | 23(15)    | 35(13)       | 1.62(0.75-3.51;0.22)               | 1.05(0.44-2.52;0.9)             |
+| high-risk construction     | 47(31)   | 80(29)      | 1.45(0.74-2.83;0.23)               | 1.21(0.58-2.52;0.62)            |
+| medium risk industrial     | 41(27)   | 65(23)      | 1.55(0.78-3.09;0.21)              | 0.93(0.43-2.04;0.86)            |
+| low risk industrial        | 25(16)    | 58(21)       | 1.06(0.51-2.21;0.87)               | 0.69(0.31-1.59;0.39)            |
+| office                     | 17(11)    | 42(15)       | 1                               | 1                              |
+
+^1^ Adjusted for age, smoking, and centre
+
+
+### Table fifteen: Sensitivity analyses: cummulative 'dose' based on occupational asbestos exposure (inferred by job title)
+
+To investigate cummulative 'dose' of exposure based on job title a score was assigned based on asbestos exposure risk category of each job as follows:
+
+- high-risk non-construction : 2
+- high-risk construction : 2
+- medium risk industrial : 1
+- low risk industrial : 0
+- office : 0
+
+Scores were then multiplied for each job by the duration in years of the job and then summed at participant level.
+
+\newpage
+
+
+|          | N             | mean   |  std   | min   | 25%   | 50%    | 75%     |max   |
+|----------|---------------|--------|--------|-------|-------|------- |---------|------|
+| cases    | 494           | 23.9   | 30.8   | 0     | 0     | 9      | 40      |126   |
+| controls | 466           | 24     | 30.4   | 0     | 0     | 6.5    | 42      |118   |
+
+
+![Boxplot of cummulative asbestos exposure estimates (inferred from job title) for cases and controls](source/figures/dose.png){ width=50% }
+
+310 (63%) of IPF cases initially presented to their doctor with cough and 306 (62%) with breathlessness (91 patients presented with cough and breathlessness). 15 (3%) of cases and 42 (9%) of controls reported ever taking a medication suspected of causing usual interstitial pneumonia (amiodarone, azathioprine, bleomycin, flecainide, gefitinib, ifosamide, melphalan, and nitrofurantoin).[@Bonniaud2014]
+
+414 (83%) of cases and 441 (95%) of controls reported one or more comorbidities. The most commonly reported comorbidities (occuring in at least 10 cases or controls) occurred at a similar frequency in cases and controls and included hypertension, type II diabetes mellitus, hypercholestrameia, ischaemic heart disease, atrial fibrillation, COPD, osteoarthritis, and prostate cancer. Rheumatoid arthritis was reported in 18 cases, approximately 2% of cases
+reporting a comorbidity, and in 9 controls, approximately 1% of controls reporting a comorbidity. Gastro-oesophageal reflux disease (GORD) was reported in 14 cases, approximately 1.5% of cases reporting a comorbidity, and in 2 controls, approximately 0.5% of controls reporting a comorbidity.
+
+## Discussion
+
+Ever being exposed to an occupation with high or medium risk for asbestos exposure was common for both cases (67%) and controls (63%) and the difference between in the propotion ever exposed between cases and controls was not significant (Table four). A similar pattern was observed for categories of exposure (Table five).
+
+Interestingly, about 8% of cases and controls had estimated cummulative asbestos fibre-ml.year exposures in excess of 25 fibre-ml.years, the Helsinki criteria exposure threshold at which cases of asbestosis may occur.[@Wolff2015] This criterion has been criticised for failing to reflect the linear dose-response relationship, and lack of threshold, observed in the published literature. [@Stayner1997][@Hein2007][@Baur2016]
+
+Strictly, IPF is a diagnosis of exclusion and should not be made until exposures to asbestos, and other known causes of fibrosis, have been excluded.[@Raghu2011][@Baur2016] Taken to its logical conclusion this line of argument may result in no diagnoses of IPF in the UK since exposure is ubiquitous; the average asbestos lung burden in men and women without occupational asbestos exposure was recently measured at approximately 1 fibre/mg of lung tissue.[@Gilham2018] However, the population attibutable fraction (PAF) calculated using IPFJES data for the adjusted, non-significant, odds ratio (OR) for ever exposed and proportion of cases ever exposed (pc) and the equation: PAF = pc(OR − 1)/OR[@Blanc2019] would yield a PAF of about 5%.
+
+Asbestosis can have a latency of upwards of 40 years[@Harding2010] and rates have not yet peaked in the UK.[@HSE2019] From 1900 until around 1960 (see Figure 2), when asbestos consumption in the United Kingdom peaked, the United Kingdom had the third highest per capita asbestos consumption in the world with only to the United States and later Australia having higher rates of consumption.[@Allen2017] Our results are likely to generalize well globally where,  with the exception of Brasil, Russian, India, Iran, and China which continue to consume asbestos,
+consumption has been lower and peaked later.
+
+![Global asbestos consumption per capita 1920-2013](source/figures/asbestos_consumption.png){ width=50% }
+
+
+[@Gilham2018] rational for dob <1965 or work starting <1980
+
+
+discussion including saying that lack of drungs known to cause uip 'validates'
+
+smoking and ipf
+
+smoking and abestosi [@Franko2013]
+
+possibility of missed chronic HP [@Morell2013]
+
+GORD [@Raghu2006a]
+asbestos exposure does not have a major role in IPF
+
+other genes may modify
+
+value / limitations of ecological studies
+
+what made exposed cases get fibrosis?
+
+what stopped exposed controls getting fibrosis?
+
+is there a diff in exposure?
+
+is there a biologiccal diff?
+
+is it just not an important exposure?
+
+it's likely that both environmental and genetic factors influence the development of IPF but no previous epidemiological studies of IPF have genotyped participants
+
+
+If say so-called IPF with asbestos exposure is in fact asbestosis then there is a literature on smoking interacting with asbesots. molecular angle ROS smoking, asbesots, NAP3 inflammaosme. Epi angle prev studies...
+
+## Conclusion
+
+
+
+

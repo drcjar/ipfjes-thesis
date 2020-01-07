@@ -1,0 +1,6 @@
+,Unadjusted OR  (95%CI; p-value),Adjusted OR^1^  (95%CI; p-value) 
+high-risk non-construction,2.21(1.43-3.44; <0.001),1.92(1.2-3.03; 0.006)
+high-risk construction,1.9(1.31-2.74; 0.001),1.89(1.29-2.78; 0.001)
+medium risk industrial,1.36(0.94-1.98; 0.103),1.28(0.87-1.89; 0.21)
+low risk industrial,1.29(0.88-1.9; 0.19),1.24(0.82-1.87; 0.29)
+office,1,1

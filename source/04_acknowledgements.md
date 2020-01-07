@@ -6,7 +6,7 @@ I am grateful to Zeinab, Ada, and Rosa for putting up with me.
 
 I am grateful to Paul, Chris, and Sara for their supervision.
 
-I am grateful to the partcipants, to Rupa, and to all of the principle investigators and their teams for helping to make the study happen. 
+I am grateful to the participants, to Rupa, and to all of the principle investigators and their teams for helping to make the study happen. 
 
 <!-- Use the \newpage command to force a new page -->
 
