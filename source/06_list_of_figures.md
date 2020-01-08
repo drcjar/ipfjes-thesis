@@ -11,7 +11,6 @@ Figure x.x  Short title of the figure . . .              \hfill{pp}
 
 \listoffigures
 
-\pagenumbering{roman}
-\setcounter{page}{3}
+\setcounter{page}{10} 
 
 \newpage

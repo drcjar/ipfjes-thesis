@@ -1,3 +1,10 @@
+% Patch titlepage and toc to comply with ugly requirement of imperial college london
+
+\patchcmd{\titlepage}
+  {\thispagestyle{empty}}
+  {\thispagestyle{plain}}
+  {}
+  {}
 
 % Table of contents formatting
 \renewcommand{\contentsname}{Table of Contents}
