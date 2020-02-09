@@ -384,6 +384,32 @@ Dyspnoea, as measured by the mMRC dyspnoea scale was associated with case-status
 
 ^1^ Adjusted for age, smoking (pack-years), and case status
 
+### Table eighteen: rs35705950 MAF for cases, case subsets, and controls (N) ^1^ 
+
+| | IPF (395) | IPF smokers (299) | IPF asbestos exposed (267) | IPF >25 fml-yrs (35) | IPF asbestos exposed AND smoker (214) | IPF >25 fml-yrs AND smoker (27) | Hospital controls (423) |
+|-----------------|---------------|----------------------------|-------------------------------------|------------------------------------|------------------------------------------------|-----------------------------------------------|---------------------------|
+| GG              | 152           | 112                        | 101                                 | 11                                 | 76                                             | 9                                             | 327                       |
+| GT              | 212           | 161                        | 142                                 | 20                                 | 117                                            | 15                                            | 91                        |
+| TT              | 31            | 26                         | 24                                  | 4                                  | 21                                             | 3                                             | 5                         |
+| MAF          | 35            | 36                         | 36                                  | 40                                 | 37                                             | 39                                            | 12                        |
+
+^1^ Genotype of MUC5Brs35705950, T is minor allele. MAF is minor allele frequency (%). 
+
+### Table nineteen: Logistic regression of ever smoking and ever occupationally asbestos exposed (inferred by job title) stratified by MUC5B rs35705950 genotype
+
+| Exposure                                               | OR (95%; p-value)^1^ ^2^ |
+|--------------------------------------------------------|--------------------------|
+| EE interaction (smoking and ever exposed)              | 1.73 (0.91-3.3, 0.09)    |
+| EE interaction (smoking and ever exposed), GT or TT^3^ | 4.6 (1.5-14, 0.01)       |
+| EE interaction (smoking and ever exposed), GG^3^       | 0.94 (0.38-2.3, 0.9)     |
+
+
+^1^ additive model, adjusted for age and smoking
+
+^2^ analysis limited to genotyped participants (N=818)
+
+^3^ Genotype of MUC5B rs35705950, T is minor allele
+
 ## Discussion
 
 ### findings, interpretation, implications, relations ot others work, limitations, strengths

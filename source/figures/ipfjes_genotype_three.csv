@@ -1,0 +1,8 @@
+"Exposure","OR (95%; p-value)^1^ ^2^"
+"EE interaction (smoking and ever exposed)","1.73 (0.91-3.3, 0.09)"
+"EE interaction (smoking and ever exposed), GT or TT^*^","4.6 (1.5-14, 0.01)"
+"EE interaction (smoking and ever exposed), GG^*^","0.94 (0.38-2.3, 0.9)"
+,
+"^1^ additive model, adjusted for age and smoking",
+"^2^ analysis limited to genotyped participants (N=818)",
+"^*^ Genotype of MUC5Brs35705950, T is minor allele",

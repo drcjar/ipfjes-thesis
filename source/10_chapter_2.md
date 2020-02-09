@@ -34,11 +34,15 @@ I searched Pubmed, embase, and google scholar databases for combinations of the 
 
 A colleague independently reviewed and abstracted data for five exposure categories common to the identified case-control studies: “vapors, gases, dusts, and/or fumes (VGDF)”, “metal dust”, “wood dust”, “silica dust”, and “agricultural dust”. I calculated PAF as follows: PAF=pc(OR - 1)/OR, where pc is the proportion of cases exposed and OR is the risk estimate.  
 
-I calculated pooled OR and pooled PAF for occupational exposures using fixed effects models and random effects models in Stata (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP). When there was results of the models differed substantively, we used the results of the fixed effects model, which were more conservative. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.
+I tabulated study control and case definitions and exposure measures and assessed the risk of bias using RoB-SPEO[@Pega2020], a tool for assessing risk of bias in studies estimating the prevalence of exposure to occupational risk factors. 
+
+I calculated pooled OR and pooled PAF for occupational exposures using a random effects model in Stata (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP). I selected a random effects, rather than fixed effects, model because there were significant differnces in study design and populations studied between studies. The pooled PAF relied on the ratio of attributable cases to all cases underlying each risk estimate.
 
 ## Results 
 
 I found (as of September 2018) 15 case-control studies looking at occupational exposures in IPF; the most recent review article[@Gulati2015] covers only eight of them. Associations with metal, wood, silica, and agricultural dust were reported. [@Scott1990] [@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Pinheiro2008] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Ekstrom2014] [@Koo2017] One study[@Paolocci2013] was included even though it was only available as an abstract at the time of analysis because we knew the fulltext paper was forthcoming.[@Paolocci2018] All figures are adapted from Blanc et al 2019.[@Blanc2019] 
+
+
 
 ![Previous IPF case-control studies reporting on occupational exposures. (Blanc 2019)](source/figures/prevstudies.jpg)
 
