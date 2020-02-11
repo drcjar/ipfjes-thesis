@@ -397,11 +397,11 @@ Dyspnoea, as measured by the mMRC dyspnoea scale was associated with case-status
 
 ### Table nineteen: Logistic regression of ever smoking and ever occupationally asbestos exposed (inferred by job title) stratified by MUC5B rs35705950 genotype
 
-| Exposure                                               | OR (95%; p-value)^1^ ^2^ |
+| Exposure                                               | OR (95% CI; p-value)^1^ ^2^ |
 |--------------------------------------------------------|--------------------------|
-| EE interaction (smoking and ever exposed)              | 1.73 (0.91-3.3, 0.09)    |
-| EE interaction (smoking and ever exposed), GT or TT^3^ | 4.6 (1.5-14, 0.01)       |
-| EE interaction (smoking and ever exposed), GG^3^       | 0.94 (0.38-2.3, 0.9)     |
+| Ever smoker and ever asbestos exposed                  | 1.73 (0.91-3.3, 0.09)    |
+| Ever smoker and ever asbestos exposed, GT or TT^3^     | 4.6 (1.5-14, 0.01)       |
+| Ever smoker and ever asbestos exposed, GG^3^           | 0.94 (0.38-2.3, 0.9)     |
 
 
 ^1^ additive model, adjusted for age and smoking
