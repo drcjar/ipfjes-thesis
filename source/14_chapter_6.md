@@ -12,6 +12,8 @@ IPFJES is a multi-centre, hospital-outpatient, incident case-control study conce
 We obtained funding from welcome trust (201291/Z/16/Z) and ethical approval (IRAS project ID 203355, REC reference 17/EM/0021). We also obtained NIHR portfolio status (CPMS ID 203355) and registered our study on clinicaltrials.gov (NCT03211507). Full study documentation is available online at www.ipfjes.org. 
 
 ### Selection
+Initially 15 hospitals were invited to collaborate as recruiting centres for IPFJES. Centres were selected on the basis of us having a known contact there, the centre having an IPF MDT, geographic dispersion, and  confirmation that the centre could recruit 40 cases and 40 controls over two years. Six additional centres were added to ensure the study wide recruitment target was achieved when it became apparent that only seven of the original 15 recruiting centres would meet their agreed target.  
+
 Cases were men of any age who were diagnosed with IPF at 21 collaborating hospitals across England, Scotland, and Wales between 01/02/2017 and 01/10/2019. The diagnosis of IPF by the referring centres was made at MDT on the basis of clinical history, high-resolution computed-tomography (HRCT), and where necessary lung biopsy in accordance with standard criteria.[@Raghu2011] Referring centres provided HRCT report findings for all cases and histopathology report findings for cases where a biopsy was performed. 
 
 At each collaborating hospital an outpatient clinic was randomly selected to be the source clinic for the recruitment of controls from a list of all outpatient clinics (not confined to respiratory) that the local research team could recruit. If the clinic selected was unsuitable, for example because it did not contain men of a similar age to cases or the clinic lead declined to participate then this was recorded and a further random selection made. Controls were men that attended the selected outpatient clinics between 01/02/2017 and 01/10/2019. Controls were frequency-matched on age, were recruited to achieve a pre-defined recruitment target of 920 participants.
@@ -44,7 +46,12 @@ All participants provided an EDTA sample from which DNA was extracted and genoty
 ### Statistical analysis
 Unconditional logistic regression was used to analyse 'any' vs 'no' asbestos exposure and categories of cumulative exposure adjusting for age, smoking status and recruiting centre as part of a prespecified analysis (clinicaltrials.gov NCT03211507). 
 
-In an unplanned secondary analysis we used logistic regression to investigate metal, wood, and stone dust exposure (self-reported occupational exposure), and rs35705950 genotype-exposure interactions. Sensitivity analysis of distance to centre was also performed because we expected cases to live further away from the hospital that controls on average (as IPF care is centralised to a select number of specialist centres) and we hypothesised that distance from the hospital might be associated with likelihood of exposure to asbestos. We used Pearson's correlation coefficient to investigate associations between individual variables, such as distance from hospital and fibre-ml.year asbestos exposure estimates. We used ordinal logistic regression to investigate the relationship between mMRC dyspnoea score and measures of asbestos exposure.
+In a planned secondary analysis we investigated for possibile interaction between asbestos exposure and rs35705950 genotype.
+
+In unplanned secondary analysis we used logistic regression to investigate metal, wood, and stone dust exposure (self-reported occupational exposure), and rs35705950 genotype-exposure interactions. Sensitivity analysis of distance to centre was also performed because we expected cases to live further away from the hospital that controls on average (as IPF care is centralised to a select number of specialist centres) and we hypothesised that distance from the hospital might be associated with
+likelihood of exposure to asbestos. We used Pearson's correlation coefficient to investigate associations between individual variables, such as distance from hospital and fibre-ml.year asbestos exposure estimates. We used ordinal logistic regression to investigate the relationship between mMRC dyspnoea score and measures of asbestos exposure. 
+
+In the course of this work I learned that the minor allele of rs35705950 was associated with asbestosis[@Platenburg2020], that smoking and asbestos exposure interact significantly in asbestosis[@Mossman1998], and that this interaction is likely to be mediated by NLRP3 inflammasome activation[@Dostert2008]; a process which results in increased MUC5b expression. This led me to hypothesise that there may be an interaction between rs35705950, asbestos, and smoking. To test this hypothesis I stratified by genotype and investigated interaction between smoking and occupational asbestos exposure using unconditional logistic regression.
 
 <!--
 https://journals.lww.com/epidem/Abstract/1999/03000/Case_Only_Design_to_Measure_Gene_Gene_Interaction_.14.aspx#pdf-link
@@ -128,8 +135,11 @@ All cases had a CT thorax and this was reported as definite UIP in 266 (54%) cas
 
 ^1^ one control had rheumatoid arthritis associated interstitial lung disease
 
+Recruiting centres were geographically dispersed across England, Scotland, and Wales. See Figure 6.1.
 
-Randomly-selected 	control clinics for recruiting centres are shown in Table three. Where more than one clinic is shown this indicates that the random selection process was repeated because of difficulty recruiting adequate numbers of participants (defined as four attendances to the control clinic by the local research team and fewer than four participants recruited).
+![Map showing the 21 IPFJES recruiting centres \label{ipfjescentres}](source/figures/ipfjes_centres.png)
+
+Randomly-selected control clinics for recruiting centres are shown in Table three. Where more than one clinic is shown this indicates that the random selection process was repeated because of difficulty recruiting adequate numbers of participants (defined as four attendances to the control clinic by the local research team and fewer than four participants recruited).
 
 \newpage
 
@@ -204,11 +214,12 @@ A total of 463 asbestos exposed job tasks were recalled in sufficient detail to 
 
 
 
-Fibre-ml.year exposure assessments showed reasonable correlation on the log-scale, but not the linear scale, with an independent assessor (JC) for a validation sample of low, medium, and high exposure assessments, R^2^ = 0.63 (see Figures 6.1). 
+Fibre-ml.year exposure assessments showed reasonable correlation on the log-scale, but not the linear scale, with an independent assessor (JC) for a validation sample of low, medium, and high exposure assessments, R^2^ = 0.63 (see Figure 6.2). 
 
 ![Independent validation of fibre-ml.year exposure assessments](source/figures/cherrie_validation.png){ width=50% }
 
-108(23%) of 463 asbestos exposed job task fibre-ml.year estimates were in excess of 25 fibre-ml.years. 81(75%) occurred in jobs classified as high risk or medium risk; 17(15%) occurred in high-risk non-construction jobs e.g boiler lagger, 54(50%) in high-risk construction jobs such as carpenter, electrician, and plumber, and 10 (9%) in medium risk industrial jobs such as machinist or fitter. Carpenter was the single most common job title accounting for 6(5%) of estimates in excess of 25 fibre-ml.years (see Figures 6.2 and 6.3).
+108(23%) of 463 asbestos exposed job task fibre-ml.year estimates were in excess of 25 fibre-ml.years. 81(75%) occurred in jobs classified as high risk or medium risk; 17(15%) occurred in high-risk non-construction jobs e.g boiler lagger, 54(50%) in high-risk construction jobs such as carpenter, electrician, and plumber, and 10 (9%) in medium risk industrial jobs such as machinist or fitter. Carpenter was the single most common job title accounting for 6(5%) of estimates in excess of 25
+fibre-ml.years (see Figures 6.3 and 6.4).
 
 
 ![Proportion of exposed participants in fibre-ml.year categories of exposure for those reporting exposure (N=108)](source/figures/fibre.png){ width=50% }
@@ -240,7 +251,7 @@ having ever been been exposed to a high or medium asbestos exposure risk job, od
  ^2^ adjusted for age only where smoking is exposure                                                                               
  ^3^ when adjusting for centre also ever smoked remains significant but smoking and ever exposed does not
 
-The regression coefficient for MUC5b rs35705950 genotype, using an additive model, was significant but age, smoking, asbestos exposure, and the interaction of asbestos exposure and genotype were not. See dot-and-whisker plot of regression coefficients (Figure 6.4).
+The regression coefficient for MUC5b rs35705950 genotype, using an additive model, was significant but age, smoking, asbestos exposure, and the interaction of asbestos exposure and genotype were not. See dot-and-whisker plot of regression coefficients (Figure 6.5).
 
 ![Regression coefficients for logistic regression of case status against age in years, ever having smoked (binary), centre, MUC5b rs35705950 genotype (additive model), asbestos exposure (ever held high or medium risk asbestos exposure job based on job title), and gene-environment interaction (N=818) ](source/figures/regression_coefficients.png)
 
@@ -258,6 +269,8 @@ Ever having a job with wood, metal, or stone exposure was associated with diseas
 ^1^ Adjusted for age, smoking, and centre
 
 As a result of increasing awareness, and regulation, occupational asbestos exposure prior to 1980 was significantly more widespread.[@Gilham2018] To investigate whether occupational asbestos exposure might be associated with IPF during this period I performed a sensitivity analysis by only including participants jobs that ended before 1980. I did not observe a significant association (Table nine and ten). I also performed sensitivity analyses limiting to jobs that started before 1980, participants born prior to 65, and considering only jobs before age 45[@Darnton2012]; there was no significant association between asbestos exposure and IPF for these.
+
+\newpage
 
 ### Table nine: Sensitivity analysis (limited to jobs that ended before 1980): Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never) 
 
@@ -281,7 +294,7 @@ As a result of increasing awareness, and regulation, occupational asbestos expos
 
 ^1^ Adjusted for age, smoking, and centre
 
-I considered that a minimum duration in a high or medium risk job might be important and performed a sensitivity analysis limited to jobs of five or more years in duration (See table eleven and twelve and figure 6.5)
+I considered that a minimum duration in a high or medium risk job might be important and performed a sensitivity analysis limited to jobs of five or more years in duration (See Table eleven and twelve and Figure 6.6)
 
 \newpage
 
@@ -341,7 +354,7 @@ To investigate cumulative 'dose' of exposure based on job title a score was assi
 - low risk industrial : 0
 - office : 0
 
-Scores were then multiplied for each job by the duration in years of the job and then summed at participant level. See Table fifteen and Figure 6.6.
+Scores were then multiplied for each job by the duration in years of the job and then summed at participant level. See Table fifteen and Figure 6.7.
 
 
 ### Table fifteen: Sensitivity analyses: cumulative 'dose' based on occupational asbestos exposure (inferred by job title)
@@ -361,6 +374,8 @@ Scores were then multiplied for each job by the duration in years of the job and
 
 Dyspnoea, as measured by the mMRC dyspnoea scale was associated with case-status, smoking status, genotype, and asbestos exposure. Pearson's correlation coefficient for IPF was 0.49 (95%CI 0.44-0.53, p<0.001), ever smoking was 0.16 (95%CI 0.09-0.23, p<0.001), pack-year smoked was 0.2 (95%CI 0.13-0.26, p<0.001), genotype 0.2 (95%CI 0.13-0.27, p<0.001), ever held a medium or high risk asbestos exposure job title 0.09 (95%CI 0.02-0.16, p=0.02), and 0.15 (95%CI 0.08-0.21, p<0.001) for having a fibre-ml.year estimate > 25. See Table sixteen and seventeen for ordinal logistic regression results.
 
+\newpage
+
 ### Table sixteen: Ordinal logistic regression for mMRC score and ever exposed to asbestos
 
 |                 | Unadjusted OR  (95%CI; p-value) | Adjusted OR^1^  (95%CI; p-value) |
@@ -374,19 +389,22 @@ Dyspnoea, as measured by the mMRC dyspnoea scale was associated with case-status
 
 ### Table seventeen: Ordinal logistic regression for mMRC score and for categories of asbestos exposure
 
-| Category                   | Unadjusted OR (95%CI; p-value) | Adjusted OR^1^ (95%CI; p-value) |
+| Category                   | Unadjusted OR (95%CI;p-value) | Adjusted OR^1^ (95%CI;p-value) |
 |----------------------------|---------------------------------|----------------------------------|
 | high-risk non-construction | 2.21(1.43-3.44;<0.001)         | 1.92(1.2-3.03;0.006)            |
 | high-risk construction     | 1.9(1.31-2.74;0.001)           | 1.89(1.29-2.78;0.001)           |
 | medium risk industrial     | 1.36(0.94-1.98;0.103)          | 1.28(0.87-1.89;0.21)            |
 | low risk industrial        | 1.29(0.88-1.9;0.19)            | 1.24(0.82-1.87;0.29)            |
-| office                     | 1                               | 1                                |
+| office                     | 1                              | 1                                |
 
 ^1^ Adjusted for age, smoking (pack-years), and case status
 
-### Table eighteen: rs35705950 MAF for cases, case subsets, and controls (N) ^1^ 
+Among the 818 genotyped participants MUC5b rs35705950 minor allele frequency (MAF) was 35% in cases (N=395) and 12% in controls (N=423). Subsets of genotyped cases with asbestos and smoking exposure had higher MAFs then did genotyped cases who had exposure to asbestos or smoking alone. See Table eighteen.
 
-| | IPF (395) | IPF smokers (299) | IPF asbestos exposed (267) | IPF >25 fml-yrs (35) | IPF asbestos exposed AND smoker (214) | IPF >25 fml-yrs AND smoker (27) | Hospital controls (423) |
+\newpage
+### Table eighteen: rs35705950 MAF for genotyped cases, case subsets, and controls (N) ^1^ 
+
+| | IPF (395) | IPF smoker (299) | IPF asbestos exposed (267) | IPF >25 fml-yrs (35) | IPF asbestos exposed AND smoker (214) | IPF >25 fml-yrs AND smoker (27) | Hospital controls (423) |
 |-----------------|---------------|----------------------------|-------------------------------------|------------------------------------|------------------------------------------------|-----------------------------------------------|---------------------------|
 | GG              | 152           | 112                        | 101                                 | 11                                 | 76                                             | 9                                             | 327                       |
 | GT              | 212           | 161                        | 142                                 | 20                                 | 117                                            | 15                                            | 91                        |
@@ -395,30 +413,62 @@ Dyspnoea, as measured by the mMRC dyspnoea scale was associated with case-status
 
 ^1^ Genotype of MUC5Brs35705950, T is minor allele. MAF is minor allele frequency (%). 
 
-### Table nineteen: Logistic regression of ever smoking and ever occupationally asbestos exposed (inferred by job title) stratified by MUC5B rs35705950 genotype
+A history of ever having smoked and ever having had a high or medium risk job for asbestos exposure was associated with increased risk of IPF when participants also had the minor allele of MUC5b rs35705950, OR 4.6(1.5-14, p=0.01). No significant risk was observed for ever smoking or ever being asbestos exposed alone when stratifying for genotype. See Table nineteen, twenty, and twenty-one. 
+
+\newpage
+
+### Table nineteen: Logistic regression of ever smoking and ever exposed to occupational asbestos (inferred by job title) stratified by MUC5B rs35705950 genotype
 
 | Exposure                                               | OR (95% CI; p-value)^1^ ^2^ |
 |--------------------------------------------------------|--------------------------|
-| Ever smoker and ever asbestos exposed                  | 1.73 (0.91-3.3, 0.09)    |
+| Ever smoker and ever asbestos exposed (all)           | 1.73 (0.91-3.3, 0.09)    |
 | Ever smoker and ever asbestos exposed, GT or TT^3^     | 4.6 (1.5-14, 0.01)       |
 | Ever smoker and ever asbestos exposed, GG^3^           | 0.94 (0.38-2.3, 0.9)     |
 
 
 ^1^ additive model, adjusted for age and smoking
-
 ^2^ analysis limited to genotyped participants (N=818)
+^3^ Genotype of MUC5B rs35705950, T is minor allele
 
+### Table twenty: Logistic regression of ever smoking stratified by MUC5B rs35705950 genotype
+
+
+| Exposure                 | OR (95% CI; p-value)^1^ ^2^ |
+|--------------------------|-----------------------------|
+| Ever smoker (all)        | 1.45 (1.06-1.99, 0.02)      |
+| Ever smoker, GT or TT^3^ | 1.66 (0.97-2.84, 0.06)      |
+| Ever smoker, GG^3^       | 1.27 (0.83-1.96, 0.28)      |
+
+
+^1^ additive model, adjusted for age
+^2^ analysis limited to genotyped participants (N=818)
+^3^ Genotype of MUC5B rs35705950, T is minor allele
+
+
+### Table twenty-one: Logistic regression of ever having been exposed to occupational asbestos (inferred by job title) stratified by MUC5B rs35705950 genotype
+
+| Exposure                           | OR (95% CI; p-value)^1^ ^2^ |
+|------------------------------------|-----------------------------|
+| Ever asbestos exposed (all)        | 1.17 (0.88-1.57, 0.29)      |
+| Ever asbestos exposed, GT or TT^3^ | 1.62 (0.99-2.64, 0.06)      |
+| Ever asbestos exposed, GG^3^       | 1.02 (0.68-1.53, 0.94)      |
+
+
+^1^ additive model, adjusted for age and smoking
+^2^ analysis limited to genotyped participants (N=818)
 ^3^ Genotype of MUC5B rs35705950, T is minor allele
 
 ## Discussion
 
 ### findings, interpretation, implications, relations ot others work, limitations, strengths
 
-494 cases and 466 controls were recruited and interviewed. The median age of cases was 76 years and controls 74 years. 97% of cases and 96% of controls reported their ethnicity as white and social economic class and exposure to smoking were similar for cases and controls (see Table 1). Cases were less likely than controls to have ever been prescribed medications known to cause UIP, 15(3%) versus 42(9%) respectively. Cases were more likely than controls to be breathless, Pearson's correlation coefficient for mMRC dyspnoea and case status was 0.49 (95%CI 0.44-0.53, p<0.001), adjusted OR for was 6.8 (95%CI 5.25-8.8; p<0.001). Cases were also more likely to have gastro-oesophageal reflux disease than controls, 14(2%) versus 2(0.5%), a known association.[@Raghu2006a] After controlling for case and smoking status being ever exposed to a high or medium asbestos exposure risk job was associated with dyspnoea, measured using ordinal logistic regression and mMRC dyspnoea score, OR 1.44(1.12-1.84; p=0.004). The strength of association between asbestos exposure and dyspnoea increased with increasing categories of asbestos exposure risk.
+494 cases and 466 controls were recruited and interviewed. The median age of cases was 76 years and controls 74 years. 97% of cases and 96% of controls reported their ethnicity as white and social economic class and exposure to smoking were similar for cases and controls (see Table 1). Cases were less likely than controls to have ever been prescribed medications known to cause UIP, 15(3%) versus 42(9%) respectively. Cases were more likely than controls to be breathless, Pearson's correlation
+coefficient for mMRC dyspnoea and case status was 0.49 (95%CI 0.44-0.53, p<0.001), adjusted OR for was 6.8 (95%CI 5.25-8.8; p<0.001). Cases were also more likely to have gastro-oesophageal reflux disease than controls, 14(2%) versus 2(0.5%), a known association.[@Raghu2006a] After controlling for case and smoking status ever a high or medium risk job for asbestos exposure was associated with dyspnoea, measured using ordinal logistic regression and mMRC dyspnoea score, OR 1.44(1.12-1.84; p=0.004). The strength of association between asbestos exposure and dyspnoea increased with increasing categories of asbestos exposure risk.
 
-Ever being exposed to an occupation with high or medium risk for asbestos exposure was common for both cases (67%) and controls (63%) and the difference in the proportion ever exposed between cases and controls was not significant (Table four). A similar pattern was observed for categories of exposure (Table five). 8% of cases and controls had estimated cumulative asbestos fibre-ml.year exposures in excess of 25 fibre-ml.years, the Helsinki criteria exposure threshold at which cases of asbestosis may occur.[@Wolff2015] The majority of these participants had high or medium risk occupations as defined by job title with carpenter being the single most common job title accounting for 5% of all estimates in excess of 25 fibre-ml.years. We found a significant association with occupational exposure to stone dust and IPF, OR 2.9(1.3-6.7; 0.01). 
+Ever being exposed to an occupation at high or medium risk for asbestos exposure was common for both cases (67%) and controls (63%) and the difference in the proportion exposed between cases and controls was not significant (Table four). A similar pattern was observed for categories of exposure (Table five). 8% of cases and controls had estimated cumulative asbestos fibre-ml.year exposures in excess of 25 fibre-ml.years, the Helsinki criteria exposure threshold at which cases of asbestosis may
+occur.[@Wolff2015] The majority of these participants had high or medium risk occupations as defined by job title with carpenter being the single most common job title accounting for 5% of all estimates in excess of 25 fibre-ml.years. In an unplanned secondary analysis we also found a significant association self reported occupational exposure to stone dust and IPF, OR 2.9(1.3-6.7; 0.01). 
 
-In common with numerous previous studies we found MUC5b rs3570950 to be strongly associated with disease in a risk allele dose-dependant fashion. We found no evidence of interaction between asbestos exposure MUC5b rs3570950. However, we did find a significant association for having ever smoked, OR 1.4 (95%CI 1-1.8, p < 0.03) and for having ever smoked and having ever had a high or medium asbestos exposure risk based on job title, OR 1.9 (95%CI 1.03-3.36, p < 0.04). 
+In common with numerous previous studies we found MUC5b rs3570950 to be strongly associated with disease in a risk allele dose-dependant fashion. We found no evidence of interaction between asbestos exposure and MUC5b rs3570950. However, we did find a significant association for having ever smoked, OR 1.4 (95%CI 1-1.8, p < 0.03) and for having ever smoked and having ever had a high or medium asbestos exposure risk based on job title, OR 1.9 (95%CI 1.03-3.36, p < 0.04). 
 Sensitivity analyses including limiting jobs considered to only those that ended before 1980, considering only jobs with a duration greater than 5 years, considering only participants living within 10km of their recruiting hospital, and considering cumulative exposure 'dose' based on summing years in different asbestos exposure risk categories (assigned by job title) at participant level, were all non-significant. 
 
 Cases and controls were well matched and there was no significant association between asbestos exposure, measured by well validated means by job title or by historic asbestos exposure reconstruction, and IPF. There are three main possible explanations for this:
@@ -429,15 +479,18 @@ Cases and controls were well matched and there was no significant association be
 
 8% of cases apparently meet the Helsinki criteria for a diagnosis of asbestosis.[@Wolff2015] This criterion has been criticised for failing to reflect the linear dose-response relationship, and lack of threshold, observed in the published literature.[@Stayner1997][@Hein2007][@Baur2016] Strictly, IPF is a diagnosis of exclusion that should not be made until exposures to asbestos, and other known causes of fibrosis, have been excluded.[@Raghu2011][@Baur2016] Taken to its logical conclusion this line of argument may result in no diagnoses of IPF in the UK since asbestos exposure is ubiquitous; the average asbestos lung burden in men and women without occupational asbestos exposure was recently measured at approximately 1 fibre/mg of lung tissue.[@Gilham2018] In IPFJES the population attributable fraction (PAF) calculated using the adjusted, non-significant, odds ratio (OR) for ever exposed and proportion of cases ever exposed (pc) and the equation: PAF = pc(OR − 1)/OR[@Blanc2019] is about 5%. 
 
-Of note asbestosis is not necessarily fatal[@Doll1985] and may not even be symptomatic since diagnostic criteria require evidence of scarring of the lungs and evidence of asbestos exposure but not the presence of symptoms.[@Wolff2015] In this context a cut off below which exposure is unlikely to cause significant morbidity or mortality seems reasonable. Intriguingly our results support the concept of asbestos exposure being associated with dyspnoea independent of having IPF and smoking status.
+Of note asbestosis is not necessarily fatal[@Doll1985] and may not even be symptomatic since diagnostic criteria require evidence of scarring of the lungs and evidence of asbestos exposure but not the presence of symptoms.[@Wolff2015] In this context a cut off below which exposure is unlikely to cause significant morbidity or mortality seems reasonable. Intriguingly, our results support the concept of asbestos exposure being associated with dyspnoea independent of having IPF and smoking.
 
-In epidemiological studies the death rate from asbestosis and prevalence of signs and symptoms to it are both higher in cigarette smokers than non-smokers.[@Doll1985] In mouse studies cigarette smoke and asbestos exposure increase the production of reactive oxygen species that are thought to be important in the pathogenesis of asbestosis.[@Liu2013] Asbestos fibres activates Nalp3 inflammasomes and cigarette smoke is thought to attenuate the innate immune response to asbestos through Nalp3 inflammasome suppression.[@Morris2015] This is compatible with our observation of an interaction between asbestos exposure, as measured by ever having a job at medium or high risk for asbestos exposure, and ever having smoked on IPF risk, OR 1.9 (95%CI 1.03-3.36, p=0.04). 
+In epidemiological studies the death rate from asbestosis and prevalence of signs and symptoms to it are both higher in cigarette smokers than non-smokers.[@Doll1985] In mouse studies cigarette smoke and asbestos exposure increase the production of reactive oxygen species that are thought to be important in the pathogenesis of asbestosis.[@Liu2013] Asbestos fibres activates NLRP3 inflammasome.[@Morris2015] This is compatible with our observation of an interaction between asbestos exposure, as measured by ever having a job at medium or high risk for asbestos exposure, and ever having smoked on IPF risk, OR 1.9 (95%CI 1.03-3.36, p=0.04). 
+
+I found evidence supporting an interaction between ever smoking and ever having a high or medium risk asbestos exposure job, OR 4.6 (95%CI 1.5-14, p=0.01) when stratifying for genotype, see Table nineteen. It is known that the minor allele of the MUC5b promotor variant, the strongest IPF risk factor, is associated with markedly increased MUC5b expression and that MUC5b is a dominant constituent of the honeycomb cysts that characterise IPF.[@Seibold2013] It is also known
+that asbestos exposure activates the NLRP3 inflammasome and results in increased IL-1beta release (as does smoking), and IL-1beta release is a potent stimulus for increased MUC5b expression.[@Dostert2008][@Mossman1998][@Fujisawa2011][@Kuschner1996] This would add to the accumulating evidence for a MUC5b driven pulmonary fibrosis endotype.
 
 There is a precedent for the importance of genetic susceptibility in the development of disease in response to asbestiform fibre inhalation; specifically germline BAP1 mutations were discovered to be important together with eronite exposure in the Cappodecia mesothelioma epidemic.[@Testa2011][@Emri2017] It is possible that there unmeasured genetic modifiers of asbestos exposure risk the presence, or absence, of which is necessary for the development of disease. 
 
 Despite best efforts it is still theoretically possible that my asbestos exposure measure was insufficiently sensitive. Review of all occupational histories by a trained occupational hygeinist blind to the case status of participants would have been desirable but was was prohibitively expensive. It is also possible that the underlying data on which to base historic assessments is not detailed enough to permit sufficiently sensitive assessments by any means.   
 
-Asbestosis can have a latency of upwards of 40 years[@Harding2010] and rates have not yet peaked in the UK.[@HSE2019] From 1900 until around 1960 (see Figure 2), when asbestos consumption in the United Kingdom peaked, the United Kingdom had the third highest per capita asbestos consumption in the world with only to the United States and later Australia having higher rates of consumption.[@Allen2017] Our results are likely to generalize well globally where,  with the exception of Brasil, Russian, India, Iran, and China which continue to consume asbestos, consumption has been lower and peaked later.    
+Asbestosis can have a latency of upwards of 40 years[@Harding2010] and rates have not yet peaked in the UK.[@HSE2019] From 1900 until around 1960 (see Figure 6.8), when asbestos consumption in the United Kingdom peaked, the United Kingdom had the third highest per capita asbestos consumption in the world with only to the United States and later Australia having higher rates of consumption.[@Allen2017] Our results are likely to generalize well globally where,  with the exception of Brasil, Russian, India, Iran, and China which continue to consume asbestos, consumption has been lower and peaked later.    
 
 ![Global asbestos consumption per capita 1920-2013](source/figures/asbestos_consumption.png){ width=50% }
 

@@ -1,1 +1,31 @@
-add in regional patterns to mortality analysis chapter
+# plan - finish the fucking phd
+no phones or emails 
+coffee allowed
+
+## IPFJES chapter results
+add something on asb muc5b tables
+
+## IPFJES chapter discussion ?2h
+1. summary of what found
+2. importance
+3. what others have done
+4. limitations e.g response rates
+5. strengths: big, properly powered, blinded, asbestos assessment, genetics
+6. smoking and asbestos
+7. what we should do next
+
+MR studies
+can cite recent one dipender sent me
+
+
+## lit r/v chapter
+update and incorporate clinics in chest medicine paper
+
+## other
+- document 'preprocessing' work / scripts etc
+- put content in appendix e.g interview schedule, protocol etc etc etc
+- make sure point to ipfjes.org
+- 'update' content for kristin paper and add to thesis
+- rv feedback from paul and sara and respond
+- rv github issues
+- print, read, rv
