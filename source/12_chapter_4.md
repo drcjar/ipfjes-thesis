@@ -73,7 +73,7 @@ Sahmel et al[@Sahmel2010] propose a seven-step framework (see Figure \ref{ssfram
 Reconstruction techniques may be quantitative, semi-quantitative, or qualitative. Quantitative exposure reconstruction bases exposure estimates on data from similar (historic or current) exposure scenarios or simulation studies. Semi-quantitative exposure reconstruction bases exposure estimates on exposure data matrices (using a job-exposure matrix) and/or exposure determinants (using an exposure model). Qualitative exposure reconstruction bases exposure estimates on the expert judgement of an industrial hygienist and self reported exposures.[@Sahmel2010]
 
 
-![Seven step framework for exposure reconstruction\label{ssframework}](source/figures/ssframework.png){ width=50% }
+![Seven step framework for exposure reconstruction. (Sahmel 2010)\label{ssframework}](source/figures/ssframework.png)
 
 
 #### Job-exposure matrices 

@@ -319,7 +319,6 @@ As a result of increasing awareness, and regulation, occupational asbestos expos
 
 I considered that a minimum duration in a high or medium risk job might be important and performed a sensitivity analysis limited to jobs of five or more years in duration (See Table 6.11 and 6.12 and Figure 6.7)
 
-\newpage
 
 ### Table 6.11: Sensitivity analysis (limited to jobs that participants spent 5 or more years in): Occupational asbestos exposure (inferred by job title) and IPF risk (ever vs never) 
 
@@ -332,6 +331,7 @@ I considered that a minimum duration in a high or medium risk job might be impor
 
 ^2^ One control never spent 5 or more years in a job and is excluded from the analysis
 
+\newpage
 
 ### Table 6.12: Sensitivity analysis (limited to jobs that participants spent 5 or more years in): Occupational asbestos exposure (inferred by job title) and IPF risk (categories of exposure)
 
@@ -536,7 +536,7 @@ A history of ever having smoked and ever having had a high or medium risk job fo
 
 ## Discussion
 
-### findings, interpretation, implications, relations to others work, limitations, strengths
+### Findings, interpretation, implications, relations to others work, limitations, strengths
 Ever being exposed to an occupation at high or medium risk for asbestos exposure was common for both cases (67%) and controls (63%) and the difference in the proportion exposed between cases and controls was not significant (Table 6.4). A similar pattern was observed for categories of exposure (Table 6.5). Eight percent of both cases and controls had estimated cumulative asbestos fibre-ml.year exposures in excess of 25 fibre-ml.years, the Helsinki criteria exposure threshold at which cases of asbestosis may
 occur.[@Wolff2015] The majority of these participants had high or medium risk occupations as defined by job title with carpenter being the single most common job title accounting for 5% of all estimates in excess of 25 fibre-ml.years.
 

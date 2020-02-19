@@ -22,7 +22,7 @@ My specific research questions are:
 ## Data sources 
 
 - For the literature review and meta-analysis of occupational exposures in IPF I use Medline and Embase and consider all published IPF case-control and cohort studies reporting on occupational exposures. 
-- For the mortality analysis I use data obtained from the Office of National Statistics, Health and Safety Executive, and the World Health Organisation Mortality Database.
+- For the mortality analysis I use data obtained from the Office of National Statistics and the Health and Safety Executive.
 - For brief reviews of asbestos exposure assessment and genetic susceptibility in IPF I rely on the published literature.
 - Primary case-control data collected during my PhD as part of the idiopathic pulmonary fibrosis job exposures study (IPFJES) is used to analyze asbestos exposure in IPF. 
 
