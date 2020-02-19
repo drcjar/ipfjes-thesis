@@ -1,8 +1,16 @@
-# Appendix 2: IPFJES study documentation {.unnumbered}
+# Appendix 2: IPF epidemiology code {.unnumbered}
+
+[IPF epidemiology](https://github.com/drcjar/pypf)
+
+python code for mortality analysis of IPF, asbestosis, and mesothelioma
+
+> **https://github.com/drcjar/pypf**
 
 <!-- 
-This could include extra figures or raw data
+This could be a list of papers by the author for example 
 -->
 
-[IPFJES study documentation](https://github.com/drcjar/ipfjes/)
+
+
+
 

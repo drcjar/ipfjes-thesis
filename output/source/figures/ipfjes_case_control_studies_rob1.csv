@@ -1,0 +1,29 @@
+"Reference
+Author year 
+(country)","N cases ","Case definition","Control definition","Exposure measure"
+"Scott 1990
+(UK)*",40,"clinical assessment, CXR, pulmonary function","matched on age and sex of cases using general practice register, ratio 1:4","questionnaire"
+"Hubbard 1996
+(UK)",218,"clinical assessment, CXR, CT, pulmonary function","matched on age and sex of cases using general practice register, ratio 1:4","questionnaire and telephone interview"
+"Mullen 1998
+(USA)",15,"clinical assessment, lung biopsy, CT ","matched on age and sex of cases using orthopaedic practice list, ratio 1:6","questionnaire"
+"Baumgartner 2000
+(USA)",248,"clinical assessment, lung biopsy,  BAL, CT","matched on age, sex , and geographic region of cases using random digit dialling, ratio 1:2","telephone interview"
+"Hubbard 2000
+(UK)",22,"death certificate diagnosis from pension fund records for Rolls Royce","random sample of deceased roll royce emploees, ratio 1:10","company records and job group"
+"Miyake 2005
+(Japan)",102,"clinical assessment, lung biopsy, BAL, CT","respiratory department inpatients at 21 participating hospitals, unmatched, 2:1 ratio","questionnaire"
+"Gustafson 2007
+(Sweden)",140,"pulmonary fibrosis of unknown aetiology, requiring LTOT, identified from LTOT register","random age matched population sample","questionnaire"
+"Garcia-Sancho 2011
+(Mexico)",100,"clinical assessment, CT, lung biopsy","matched on age, sex , and geographic region of using neighbourhood sampling ratio 1:1-3","questionnaire"
+"Awadalla 2012, men
+(Egypt)",95,"clinical assessment, CT, pulmonary function, inpatients","matched on age, sex ,  respiratory inpatients 1:1","questionnaire"
+"Awadalla 2012, women
+(Egypt)",106,"clinical assessment, CT, pulmonary function","matched on age, sex ,  respiratory inpatients 1:1","questionnaire"
+"Paolocci 2013, soft wood (abstract only)
+(Italy)",65,"clinical assessment and CT","matched on area but not age or sex","questionnaire"
+"Paolocci 2013, hard wood (abstract only)
+(Italy)","n/a ","clinical assessment and CT","matched on area but not age or sex","questionnaire"
+"Koo 2017
+(Korea)",78,"clinical assessment, CT,  lung biopsy, recruited from inpatients and outpatients","matched on age, sex , and area, ratio 1:1, recruited from respiratory inpatients and outpatietns","interview"

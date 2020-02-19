@@ -11,6 +11,6 @@ Figure x.x  Short title of the figure . . .              \hfill{pp}
 
 \listoffigures
 
-\setcounter{page}{10} 
+\setcounter{page}{12} 
 
 \newpage

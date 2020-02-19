@@ -1,0 +1,38 @@
+"Risk of bias for IPF case-control studies that investigate occupational exposures",,,,,,,,,,,,
+"Reference
+Author year 
+(country)","N cases ","Case definition","Control definition","Exposure measure","Selection ","Blinding","Exposure missclasification","Incomplete exposure data","Selective reporting of exposures","Conflict of interests","Differences in numerator and denominator","Other bias"
+"Scott 1990
+(UK)*",40,"clinical assessment, CXR, pulmonary function","matched on age and sex of cases using general practice register, ratio 1:4","questionnaire",3,4,2,2,3,1,1,1
+"Hubbard 1996
+(UK)*",218,"clinical assessment, CXR, CT, pulmonary function","matched on age and sex of cases using general practice register, ratio 1:4","questionnaire and telephone interview",3,3,2,2,3,1,1,1
+"Mullen 1998
+(USA)*",15,"clinical assessment, lung biopsy, CT ","matched on age and sex of cases using orthopaedic practice list, ratio 1:6","questionnaire",3,3,2,2,3,1,1,4
+"Baumgartner 2000
+(USA)*",248,"clinical assessment, lung biopsy,  BAL, CT","matched on age, sex , and geographic region of cases using random digit dialling, ratio 1:2","telephone interview",3,2,2,2,3,1,1,1
+"Miyake 2005
+(Japan)*",102,"clinical assessment, lung biopsy, BAL, CT","respiratory department inpatients at 21 participating hospitals, unmatched, 2:1 ratio","questionnaire",4,4,2,3,3,1,1,1
+"Gustafson 2007
+(Sweden)*",140,"pulmonary fibrosis of unknown aetiology, requiring LTOT, identified from LTOT register","random age matched population sample","questionnaire",4,4,2,3,3,1,1,1
+"Koo 2017
+(Korea)*",78,"clinical assessment, CT,  lung biopsy, recruited from inpatients and outpatients","matched on age, sex , and area, ratio 1:1, recruited from respiratory inpatients and outpatietns","interview",4,1,2,2,3,1,1,1
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"* reports on asbestos",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"[@Scott1990][@Hubbard1996][@Mullen1998][@Baumgartner2000][@Mikaye2005][@Gustafson2007][@Koo2017] ",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,1,"low",,,,,,,
+,,,,2,"prob low",,,,,,,
+,,,,3,"prob high",,,,,,,
+,,,,4,"high",,,,,,,
+,,,,5,"no info",,,,,,,
