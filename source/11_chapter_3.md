@@ -31,16 +31,16 @@ I obtained regional age and sex stratified mortality data for IPF, mesothelioma,
 
 ## Results
 
-IPF, mesothelioma, and asbestosis mortality rates increased thorough the study period. IPF increased at a rate of approximately 5% per annum. The ratio of female to male deaths for IPF is approximately 1:1.6 and the highest adjusted mortality rate ratios (RR) were in the North West (RR = 1.3, 95%CI 1.26-1.35, p\ensuremath{<}0.001), Wales (RR = 1.28, 95%CI 1.23-1.33, p\ensuremath{<}0.001), and the North East of England (RR = 1.24, 95%CI 1.19-1.29, p\ensuremath{<}0.001). IPF mortality does appear to correlate with mesothelioma mortality (Figure \ref{mortalitytrends}). There is evidence of a cohort effect with age-specific IPF death rates increasing in successive cohorts, most clearly seen from age 60 (Figure \ref{birthcohorts}). While overall rates were higher for men but there were not marked sex differences in cohort mortality trends. There was not a clear pattern in regional mortality for IPF, mesothelioma, and asbestosis (Table 3.1).
+IPF, mesothelioma, and asbestosis mortality rates increased through the study period. IPF increased at a rate of approximately 5% per annum. The ratio of female to male deaths for IPF is approximately 1:1.6 and the highest adjusted mortality rate ratios (RR) were in the North West (RR = 1.3, 95%CI 1.26-1.35, p\ensuremath{<}0.001), Wales (RR = 1.28, 95%CI 1.23-1.33, p\ensuremath{<}0.001), and the North East of England (RR = 1.24, 95%CI 1.19-1.29, p\ensuremath{<}0.001). IPF mortality does appear to correlate with mesothelioma mortality (Figure \ref{mortalitytrends}). There is evidence of a cohort effect with age-specific IPF death rates increasing in successive cohorts, most clearly seen from age 60 (Figure \ref{birthcohorts}). While overall rates were higher for men but there were not marked sex differences in cohort mortality trends. There was not a clear pattern in regional mortality for IPF, mesothelioma, and asbestosis (Table 3.1).
 
 ![IPF, mesothelioma, and asbestosis mortality trends \label{mortalitytrends}](source/figures/ipfasbmesomaletrend.jpg)
 
 ![IPF male birth cohort age-specific mortality rates per million 1880-1979 \label{birthcohorts}](source/figures/ipfmalebirthcohorts.jpg)
 
 
-### Table 3.1: Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Adjusted mortality rate ratios (95%CI).
+### Table 3.1: Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Adjusted mortality rate ratios.
 
-Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Adjusted mortality rate ratios from a multivariate Poisson regression model of region, age and sex.
+Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Adjusted mortality rate ratios from a multivariate Poisson regression model of region, age and sex. (95%CI)
 
 | Region                   | IPF             | mesothelioma    | asbestosis       |
 |--------------------------|-----------------|-----------------|------------------|

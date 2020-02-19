@@ -40,7 +40,7 @@ Here I critically review different means of historic asbestos exposure assessmen
 
 ## Method
 
-I searched Pubmed and Google Scholar for combinations and synonyms of "asbestos", "exposure assessment", together with terms for modes of assessment including "lung biopsy", "bronchoalveolar lavage", "exposure reconstruction", and "job-exposure matrix". When a relevant papers was identified, papers referenced, and papers citing, the paper were reviewed.
+I searched Pubmed and Google Scholar for combinations and synonyms of "asbestos", "exposure assessment", together with terms for modes of assessment including "lung biopsy", "bronchoalveolar lavage", "exposure reconstruction", and "job-exposure matrix". When a relevant paper was identified, papers referenced, and papers citing, the paper were reviewed.
 
 ## Results
 
@@ -58,7 +58,7 @@ A similar correlation between fibre counts and history of occupational exposure,
 
 ### Historic workplace measurements
 
-Occupational hygienists have recorded a large numbers of workplace measurements of asbestos in different settings, at different times, using a variety of different means. These measurements reside in national databases such as the HSE National Exposure Database[@Burns1989], and EV@LUTIL[@Orlowski2015], in the published literature, and in unpublished company records.
+Occupational hygienists have recorded a large number of workplace measurements of asbestos in different settings, at different times, using a variety of different means. These measurements reside in national databases such as the HSE National Exposure Database[@Burns1989], and EV@LUTIL[@Orlowski2015], in the published literature, and in unpublished company records.
 
 The use of different means of making workplace assessments results in difficulties with respect to the accuracy and comparability of measurements. For example, instruments that count particles rather than asbestos fibres have been used and there is no established conversion factor.[@Peto1985] Phase contrast microscopy has also been used which is less sensitive that scanning electron microscopy, which is in turn less sensitive than transmission electron microscopy and energy-dispersive x-ray analysis.[@ATSDR2001] 
 

@@ -10,7 +10,7 @@ Table 2.1: Overview of occupational IPF studies \hfill{26}
 
 Table 2.2: Rob-SPEO risk of bias scores for studies \hfill{28}
 
-Table 3.1: Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Mortality rate ratios (95%CI). \hfill{39}
+Table 3.1: Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Mortality rate ratios. \hfill{39}
 
 Table 6.1: Participant demographic characteristics \hfill{75}
 

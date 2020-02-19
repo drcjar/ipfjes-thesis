@@ -32,7 +32,7 @@ This could include extra figures or raw data
 
 5. ipfjes-analysis - 2.ipynb - logistic regressions
 
-5. ipfjes-analysis - 3.ipynb - logistic regressions (gene-environement interactions)	
+5. ipfjes-analysis - 3.ipynb - logistic regressions (gene-environment interactions)	
 
 5. ipfjes-analysis - 4.ipynb - regression coefficient plots	
 
