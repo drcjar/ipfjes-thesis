@@ -1,11 +1,11 @@
 # Mortality analysis: do mortality trends support an occupational cause?    
 
-<!-- 
+<!--
 what sort of spatio-temporal association is seen for mesothelioma? this is fundamentally same problem as mapping meso. revisit when have done meso work.
 
 should add correlation coefficient and poisson regression results
 
-should revisit with cosetta support and perhaps after have done some reading 
+should revisit with cosetta support and perhaps after have done some reading
 
 add in european datas from white book
 
@@ -23,11 +23,11 @@ The incidence of Idiopathic Pulmonary Fibrosis (IPF)  has been increasing at an 
 
 I hypothesised that a proportion of IPF cases are due to occult environmental or occupational exposures to asbestos dust. This would be expected to result in a spatio-temporal association between IPF, mesothelioma, and asbestosis mortality patterns coinciding with asbestos exposure. It would also be expected to produce a birth cohort effect.
 
-I examined trends in IPF, mesothelioma, and asbestosis mortality data for evidence of cohort effect and association.
+I examined regional trends in IPF, mesothelioma, and asbestosis mortality data for evidence of birth cohort effect and association.
 
 ## Method
 
-I obtained regional age and sex stratified mortality data for IPF, mesothelioma, and asbestosis for England and Wales from the Office of National Statistics for the period 1974–2012. All statistical analyses were carried out using Python[@van1995python], SciPy[@2020SciPy-NMeth], Statsmodels[@seabold2010statsmodels], and Stata (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP). Data were age-standardised and visualised. For regional analysis adjusted mortality rate ratios were calculated using a multivariate Poisson regression model of region, age and sex.
+I obtained regional age and sex stratified mortality data for IPF, mesothelioma, and asbestosis for England and Wales from the Office of National Statistics for the period 1974–2012. All statistical analyses were carried out using Python[@van1995python], SciPy[@2020SciPy-NMeth], Statsmodels[@seabold2010statsmodels], and Stata (StataCorp. 2015. Stata Statistical Software: Release 14. College Station, TX: StataCorp LP). Data were age-standardised and birth cohort age-specific mortality rates were visualised. For regional analysis adjusted mortality rate ratios were calculated using a multivariate Poisson regression model of region, age and sex.
 
 ## Results
 
@@ -57,21 +57,25 @@ Regional IPF, mesothelioma, and asbestosis mortality 1974-2012. Adjusted mortali
 
 ## Discussion
 
-I found evidence of a cohort effect whereby age specific-specific IPF death rates have increased in successive cohorts. These findings are similar to a recent study by Navaratnam et al using the same data source[@Navaratnam2019] and mesothelioma birth cohort age adjusted mortality trends.[@Darnton2012]   
+I found evidence of a birth cohort effect whereby age specific-specific IPF death rates have increased in successive cohorts. This finding was replicated by Navaratnam et al [@Navaratnam2019] for a different range of data (1979 to 2016 rather than 1974-2012) and was similar to a recent mesothelioma birth cohort age adjusted mortality analysis.[@Darnton2012]
+
+IPF adjusted mortality rates were higher for northern, more industrial, regions, which is not a new pattern. Within country geographic variation in IPF mortality, with higher rates in more industrial regions, has been observed in the United States[@Olson2007] and United Kingdom.[@Gribbin2006][@Navaratnam2011] It is unlikely to be explained by differences in physician behaviour or test availability in the United Kingdom in view of universal health care coverage and national guidelines for diagnosis. It may be explained by differences in regional rates of occupational dust exposure or smoking since these have been identified as risk factors for IPF.[@Scott1990] [@Iwai1994] [@Hubbard1996a] [@Mullen1998] [@Baumgartner2000] [@Hubbard2000] [@Miyake2005] [@Gustafson2007] [@Pinheiro2008] [@Garcia-SanchoFigueroa2010] [@Garcia-Sancho2011] [@Awadalla2012] [@Paolocci2013] [@Ekstrom2014][@Koo2017] Indeed, heavy industry such as shipbuilding and steel manafacture in the United Kingdom is located in more northern areas where smoking rates are also higher.[@Beard2017]
 
 Mortality data for IPF have the advantage of capturing a sufficiently large number of deaths to permit analysis of trends over time with a reasonable degree of confidence. The accuracy of reports over time may have varied, this is a potential consequence of coding changes since prior to 2000, and the use of ICD-10, there was not a unique code for IPF and thus some ambiguity as to how it should be coded. However, a death certification validation study using an IPF cohort of 211 incident cases
-diagnosed in England and Wales between 2010 to 2012 found that of the 124 deaths occurring in the study period 83(67%) had IPF coded as the underlying cause of death and 102(82%) had it coded anywhere on the death certificate.[@Hutchinson2014] This is also true of asbestosis mortality, where by 2017 it was the underlying cause of death in less than half of cases it was recorded as a diagnosis on a death certificate (Figure 3.3). Therefore estimates of disease incidence based on mortality are likely to be conservative. 
+diagnosed in England and Wales between 2010 to 2012 found that of the 124 deaths occurring in the study period 83(67%) had IPF coded as the underlying cause of death and 102(82%) had it coded anywhere on the death certificate.[@Hutchinson2014] This is also true of asbestosis mortality, where by 2017 it was the underlying cause of death in less than half of cases it was recorded as a diagnosis on a death certificate (Figure 3.3). Therefore estimates of disease incidence based on mortality are likely to be conservative.
 
 ![Annual asbestosis deaths 1978-2017. Asbestos-related disease statistics in Great Britain. (HSE 2019)](source/figures/asbestosis_deaths_gb_1978_2017.png)
 
 
-The close correlation between IPF and mesothelioma mortality in the UK has been observed by others[@Barber2015] (Figure 3.4) who reported Pearson correlation coefficients of 0.98 (p\ensuremath{<}0.001) for men and 0.97(p\ensuremath{<}0.001) for women and noted that lagged historic asbestos imports also correlate strongly with IPF and mesothelioma mortality in the UK. Clearly this correlation does not prove causation and alternative explanations for the rise in IPF cases include increased recognition of cases[@Navaratnam2019] and overdiagnosis by radiologists as a result of misapplying CT criteria.[@Wells2013] 
+The close correlation between IPF and mesothelioma mortality in the UK has been observed by others[@Barber2015] (Figure 3.4) who reported Pearson correlation coefficients of 0.98 (p\ensuremath{<}0.001) for men and 0.97(p\ensuremath{<}0.001) for women and noted that lagged historic asbestos imports also correlate strongly with IPF and mesothelioma mortality in the UK. Clearly this correlation does not prove causation and alternative explanations for the rise in IPF cases include increased recognition of cases[@Navaratnam2019] and overdiagnosis by radiologists as a result of misapplying CT criteria.[@Wells2013]
 
 ![Annual male mortality due to IPF, mesothelioma and asbestosis in England and Wales. Historic annual UK asbestos imports (as hundreds of tonnes 48 years earlier) are shown for comparison (black line). (Barber 2016)](source/figures/asbestos_imports.jpeg)
 
 ## Conclusion
 
 There is an unexplained sustained increase in the incidence of IPF and a suggestive, if ecological, association with mesothelioma and lagged historic asbestos imports. There does appear to be a birth cohort effect whereby age specific rates are higher in later cohorts that would, for the data considered, be consistent with historic occupational asbestos exposure and a long latency between exposure and disease.  
+
+
 
 
 

@@ -19,7 +19,7 @@ IPFJES, a large multicentre hospital based case-control study of occupational ex
 
 ## Future work
 
-I plan to investigate my current hypothesis that occupational asbestos and respirable crystalline silica induced activation of the NLRP3 inflammasome causes IPF via IL-1\ensuremath{\beta} stimulated MUC5b hypersecretion in smokers. I will do this by assessing silica exposure in IPFJES through well validated quantitative means and genotyping the IPFJES cohort for SNPs in the NLRP3 inflammasome associated with enhanced enhanced IL-1\ensuremath{\beta} release. I will also carry out two-sample mendelian randomisation studies of risk factors in IPF (to isolate the NLRP3 inflammasome) including smoking, gastro-oesophageal reflux disease, iron status, and cytokine profiles in IPF using existing IPF GWAS data and exposure GWAS data.[@Allen2019][@Wootton2019][@An2019][@Gill2019][@Georgakis2019] 
+I plan to investigate my current hypothesis that occupational asbestos and respirable crystalline silica induced activation of the NLRP3 inflammasome causes IPF via IL-1\ensuremath{\beta} stimulated MUC5b hypersecretion in smokers. I will do this by assessing silica exposure in IPFJES through well validated quantitative means and genotyping the IPFJES cohort for SNPs in the NLRP3 inflammasome associated with enhanced IL-1\ensuremath{\beta} release. I will also carry out two-sample mendelian randomisation studies of risk factors in IPF (to isolate the NLRP3 inflammasome) including smoking, gastro-oesophageal reflux disease, iron status, and cytokine profiles in IPF using existing IPF GWAS data and exposure GWAS data.[@Allen2019][@Wootton2019][@An2019][@Gill2019][@Georgakis2019] 
 
 
 

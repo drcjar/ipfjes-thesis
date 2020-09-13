@@ -1,0 +1,5 @@
+Error reading bibliography /home/drcjar/Dropbox/Documents/ipfjes-thesis/source/references.bib (line 5643, column 8):
+unexpected ","
+expecting white space
+Error running filter pandoc-citeproc:
+Filter returned error status 1

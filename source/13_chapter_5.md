@@ -46,7 +46,7 @@ those with no copies and that the odds for those with two copies are 20.2 times 
 
 ### Potential role of rs5270590 variant in IPF pathogenesis
 
-The rs5270590 variant is associated with a 34 fold increase in expression of MUC5b compared with wild type in healthy control populations and a 5 fold increase in patients with IPF (see figure 1).[@Evans2016] In IPF patients distal airway MUC5b is expressed preferentially, compared with MUC5Ac. MUC5b is also expressed in honeycomb cysts, a defining characteristic of the usual interstitial pneumonia CT pattern typically seen in IPF.[@Seibold2013]
+The rs5270590 variant is associated with a 34 fold increase in expression of MUC5b compared with wild type in healthy control populations and a 5 fold increase in patients with IPF (see figure 5.1).[@Evans2016] In IPF patients distal airway MUC5b is expressed preferentially, compared with MUC5Ac. MUC5b is also expressed in honeycomb cysts, a defining characteristic of the usual interstitial pneumonia CT pattern typically seen in IPF.[@Seibold2013]
 
 
 ![MUC5b expression (Evans 2016)](source/figures/muc5b_expression.jpg)

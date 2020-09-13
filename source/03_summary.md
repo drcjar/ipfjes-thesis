@@ -10,6 +10,6 @@ In a critical review of methods for assessing occupational asbestos exposure I f
 
 In a review of MUC5b and IPF I found evidence supporting a common MUC5b driven pulmonary fibrosis endotype and a candidate mechanism for occupational asbestos exposure contributing to this; alveolar macrophage NLRP3 inflammasome activation resulting in increased IL-1\ensuremath{\beta} driven airway MUC5b expression. 
 
-Occupational asbestos exposure alone was not associated with IPF in IPFJES. It was associated with dyspnoea independent of smoking and case status. It was associated with IPF in participants who also had smoking exposure and the strength of this association was greatest for participants with the minor allele of MUC5b promoter variant and when a stricter case definition (definite UIP rather than definite UIP or possible UIP) was used.
+Occupational asbestos exposure alone was not associated with IPF in IPFJES. It was associated with dyspnoea independent of smoking and case status. It was associated with IPF in participants who also had smoking exposure and the strength of this association was greatest for participants with the minor allele of the MUC5b promoter variant rs3505950 and when a stricter case definition (definite UIP rather than definite UIP or possible UIP) was used.
 
 These studies suggest that occupational asbestos exposure in smokers, coupled with genetic susceptibility factors, may be an important cause of IPF. 
